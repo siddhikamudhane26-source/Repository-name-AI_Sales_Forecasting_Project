@@ -85,21 +85,25 @@ TEST_RESULTS_FILE = os.path.join(
 # user = "root"
 # password = "YOUR_MYSQL_PASSWORD"
 # database = "sales_intelligence_db"
-
 def get_mysql_connection():
     try:
         db = st.secrets["mysql"]
+
         return mysql.connector.connect(
-            host=db.get("host", "127.0.0.1"),
-            port=int(db.get("port", 3306)),
-            user=db.get("user", "root"),
+            host=db.get("host"),
+            port=int(db.get("port", 4000)),
+            user=db.get("user"),
             password=db["password"],
-            database=db.get("database", "sales_intelligence_db")
+            database=db.get("database", "sales_intelligence_db"),
+            ssl_ca=db.get("ssl_ca"),
+            ssl_verify_cert=True,
+            ssl_verify_identity=True
         )
+
     except Exception as e:
         raise ConnectionError(
-            "MySQL connection could not be established. "
-            "Check .streamlit/secrets.toml and make sure MySQL80 is running. "
+            "TiDB Cloud connection could not be established. "
+            "Check Streamlit Secrets and the database connection. "
             f"Details: {e}"
         )
 
