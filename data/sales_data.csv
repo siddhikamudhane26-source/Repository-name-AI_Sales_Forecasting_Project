@@ -1,0 +1,1800 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Quantity,Sales,Profit,Region,Payment_Mode
+ORD00004,2023-01-02,C188,Tablet,Electronics,3,64865.84,9598.61,Mumbai,Cash
+ORD00005,2023-01-03,C021,Monitor,Electronics,4,60927.51,11166.95,Nagpur,Credit Card
+ORD00006,2023-01-04,C242,Keyboard,Accessories,1,2678.86,654.06,Pune,UPI
+ORD00007,2023-01-04,C264,Smartphone,Electronics,1,29966.1,5877.99,Mumbai,UPI
+ORD00008,2023-01-05,C002,Keyboard,Accessories,2,4983.88,960.04,Pune,Cash
+ORD00009,2023-01-05,C215,Headphones,Accessories,1,3941.75,374.64,Amravati,UPI
+ORD00010,2023-01-06,C237,Headphones,Accessories,4,15097.6,3375.38,Pune,Net Banking
+ORD00011,2023-01-07,C157,Printer,Office,2,25738.77,3266.76,Nashik,UPI
+ORD00012,2023-01-07,C129,Laptop,Electronics,3,181559.44,27593.09,Amravati,Debit Card
+ORD00013,2023-01-08,C231,Tablet,Electronics,1,25176.37,4607.61,Pune,UPI
+ORD00014,2023-01-08,C268,Keyboard,Accessories,3,8424.64,1891.39,Pune,UPI
+ORD00015,2023-01-09,C214,Printer,Office,3,34977.36,7136.54,Mumbai,Debit Card
+ORD00016,2023-01-10,C131,Laptop,Electronics,3,159111.65,15963.83,Nagpur,Net Banking
+ORD00017,2023-01-10,C015,Smartphone,Electronics,3,95735.39,16166.32,Pune,Credit Card
+ORD00018,2023-01-11,C231,Keyboard,Accessories,1,3001.98,343.1,Nagpur,Cash
+ORD00019,2023-01-11,C143,Mouse,Accessories,4,4804.02,877.94,Mumbai,Net Banking
+ORD00020,2023-01-12,C187,Keyboard,Accessories,1,2760.7,256.98,Mumbai,Cash
+ORD00021,2023-01-13,C028,Smartphone,Electronics,2,66680.58,15213.06,Amravati,Cash
+ORD00022,2023-01-13,C128,Keyboard,Accessories,2,5839.72,1344.06,Pune,Cash
+ORD00023,2023-01-14,C121,Laptop,Electronics,3,172794.81,32849.56,Amravati,Net Banking
+ORD00024,2023-01-14,C137,Laptop,Electronics,3,183018.11,14857.75,Nashik,UPI
+ORD00025,2023-01-15,C096,Tablet,Electronics,2,48793.96,6584.48,Nagpur,Cash
+ORD00026,2023-01-16,C052,Laptop,Electronics,2,116201.49,28492.95,Amravati,Credit Card
+ORD00027,2023-01-16,C126,Tablet,Electronics,1,22729.8,3151.76,Pune,Net Banking
+ORD00028,2023-01-17,C247,Keyboard,Accessories,2,5321.17,1317.31,Amravati,Debit Card
+ORD00029,2023-01-18,C098,Printer,Office,3,40834.21,6531.48,Mumbai,UPI
+ORD00030,2023-01-18,C259,Laptop,Electronics,4,224221.79,37309.11,Amravati,Cash
+ORD00031,2023-01-19,C199,Tablet,Electronics,4,94468.42,11194.91,Amravati,UPI
+ORD00032,2023-01-19,C129,Laptop,Electronics,4,229187.62,33402.95,Mumbai,Cash
+ORD00033,2023-01-20,C263,Laptop,Electronics,1,60017.67,11900.5,Amravati,Credit Card
+ORD00034,2023-01-21,C002,Printer,Office,1,11399.63,1913.18,Nagpur,Cash
+ORD00035,2023-01-21,C147,Mouse,Accessories,1,1274.14,162.34,Mumbai,Cash
+ORD00036,2023-01-22,C116,Printer,Office,2,26168.91,5562.96,Mumbai,UPI
+ORD00037,2023-01-22,C099,Printer,Office,4,52547.02,4285.92,Nagpur,Net Banking
+ORD00038,2023-01-23,C194,Smartphone,Electronics,4,137833.34,18181.85,Mumbai,Net Banking
+ORD00039,2023-01-24,C135,Laptop,Electronics,4,218284.59,29537.82,Mumbai,UPI
+ORD00040,2023-01-24,C022,Printer,Office,1,13731.86,2365.06,Nashik,Debit Card
+ORD00041,2023-01-25,C284,Headphones,Accessories,4,16536.19,2735.88,Nagpur,Net Banking
+ORD00042,2023-01-25,C004,Keyboard,Accessories,1,2809.38,463.16,Mumbai,UPI
+ORD00043,2023-01-26,C006,Printer,Office,1,12921.71,1647.84,Mumbai,Cash
+ORD00044,2023-01-27,C181,Laptop,Electronics,1,60207.0,14318.08,Mumbai,Cash
+ORD00045,2023-01-27,C256,Laptop,Electronics,4,221228.5,49708.55,Mumbai,Credit Card
+ORD00046,2023-01-28,C058,Laptop,Electronics,2,104313.96,24946.3,Mumbai,Credit Card
+ORD00047,2023-01-28,C299,Printer,Office,3,42149.64,8679.9,Nashik,Credit Card
+ORD00048,2023-01-29,C013,Monitor,Electronics,2,32530.96,7082.62,Amravati,Credit Card
+ORD00049,2023-01-30,C142,Monitor,Electronics,1,14671.27,1350.64,Amravati,Debit Card
+ORD00050,2023-01-30,C288,Monitor,Electronics,3,50560.85,7273.13,Mumbai,UPI
+ORD00051,2023-01-31,C271,Smartphone,Electronics,3,94094.8,8148.79,Mumbai,Cash
+ORD00052,2023-02-01,C060,Mouse,Accessories,1,1416.14,312.6,Amravati,Cash
+ORD00053,2023-02-01,C144,Mouse,Accessories,3,4832.13,910.19,Nashik,Credit Card
+ORD00054,2023-02-02,C145,Keyboard,Accessories,2,6467.88,872.53,Mumbai,Cash
+ORD00055,2023-02-02,C127,Smartphone,Electronics,3,95549.69,8957.63,Nagpur,Cash
+ORD00056,2023-02-03,C001,Mouse,Accessories,1,1291.22,141.34,Pune,UPI
+ORD00057,2023-02-04,C247,Printer,Office,1,13952.61,2567.18,Mumbai,Cash
+ORD00058,2023-02-04,C086,Smartphone,Electronics,4,153390.57,16408.17,Nagpur,Net Banking
+ORD00059,2023-02-05,C218,Headphones,Accessories,4,16374.94,2629.97,Pune,Net Banking
+ORD00060,2023-02-05,C222,Monitor,Electronics,4,72000.06,7880.0,Nashik,Credit Card
+ORD00061,2023-02-06,C250,Smartphone,Electronics,2,65437.35,9402.31,Mumbai,Credit Card
+ORD00062,2023-02-07,C004,Printer,Office,1,13712.24,2354.31,Pune,UPI
+ORD00063,2023-02-07,C163,Keyboard,Accessories,4,12374.11,2414.42,Amravati,UPI
+ORD00064,2023-02-08,C101,Laptop,Electronics,1,64892.0,11210.41,Amravati,Debit Card
+ORD00065,2023-02-08,C012,Laptop,Electronics,1,56566.41,7159.8,Pune,Net Banking
+ORD00066,2023-02-09,C090,Tablet,Electronics,2,52192.98,10235.63,Nashik,Credit Card
+ORD00067,2023-02-10,C114,Smartphone,Electronics,2,61249.61,10064.93,Nashik,Debit Card
+ORD00068,2023-02-10,C277,Mouse,Accessories,4,5081.9,1041.6,Nashik,UPI
+ORD00069,2023-02-11,C099,Keyboard,Accessories,2,6430.99,1144.12,Amravati,Credit Card
+ORD00070,2023-02-11,C151,Laptop,Electronics,3,159106.34,28431.11,Nashik,Cash
+ORD00071,2023-02-12,C273,Laptop,Electronics,3,199611.99,19468.37,Nagpur,Cash
+ORD00072,2023-02-13,C187,Printer,Office,1,14509.91,1950.25,Mumbai,UPI
+ORD00073,2023-02-13,C052,Keyboard,Accessories,4,11713.36,2284.7,Mumbai,Credit Card
+ORD00074,2023-02-14,C099,Monitor,Electronics,4,67490.35,10544.4,Amravati,UPI
+ORD00075,2023-02-15,C186,Keyboard,Accessories,3,8290.86,1975.36,Pune,Net Banking
+ORD00076,2023-02-15,C146,Tablet,Electronics,3,76541.47,13226.8,Amravati,UPI
+ORD00077,2023-02-16,C141,Smartphone,Electronics,2,63759.69,6012.42,Pune,UPI
+ORD00078,2023-02-16,C005,Smartphone,Electronics,3,104409.69,20888.33,Nashik,Net Banking
+ORD00079,2023-02-17,C145,Headphones,Accessories,3,12967.1,2978.04,Nagpur,Net Banking
+ORD00080,2023-02-18,C275,Keyboard,Accessories,4,11604.43,1670.62,Nashik,Cash
+ORD00081,2023-02-18,C173,Headphones,Accessories,3,12782.86,1264.27,Nashik,Credit Card
+ORD00082,2023-02-19,C001,Keyboard,Accessories,2,5625.54,503.89,Mumbai,Net Banking
+ORD00083,2023-02-19,C117,Keyboard,Accessories,2,5450.17,512.81,Pune,Cash
+ORD00084,2023-02-20,C149,Mouse,Accessories,4,4397.67,767.49,Nashik,Debit Card
+ORD00085,2023-02-21,C047,Keyboard,Accessories,1,3045.04,282.65,Nagpur,UPI
+ORD00086,2023-02-21,C054,Headphones,Accessories,3,10962.88,1724.15,Mumbai,UPI
+ORD00087,2023-02-22,C122,Tablet,Electronics,4,93448.42,12808.25,Amravati,Cash
+ORD00088,2023-02-22,C178,Smartphone,Electronics,4,134505.29,18840.14,Amravati,Cash
+ORD00089,2023-02-23,C201,Mouse,Accessories,1,1335.86,114.21,Nagpur,Net Banking
+ORD00090,2023-02-24,C046,Keyboard,Accessories,1,2478.48,486.78,Mumbai,Net Banking
+ORD00091,2023-02-24,C010,Headphones,Accessories,2,9084.61,2146.33,Pune,Debit Card
+ORD00092,2023-02-25,C289,Mouse,Accessories,1,1182.88,99.93,Nagpur,Credit Card
+ORD00093,2023-02-25,C283,Printer,Office,3,42177.69,6105.28,Nagpur,Net Banking
+ORD00094,2023-02-26,C006,Laptop,Electronics,2,114892.04,9910.55,Amravati,UPI
+ORD00095,2023-02-27,C053,Mouse,Accessories,3,4228.96,758.99,Nashik,Credit Card
+ORD00096,2023-02-27,C078,Smartphone,Electronics,3,104723.09,12781.37,Nagpur,UPI
+ORD00097,2023-02-28,C288,Tablet,Electronics,1,22457.75,4361.05,Pune,Cash
+ORD00098,2023-03-01,C250,Monitor,Electronics,4,72797.86,6098.38,Pune,Debit Card
+ORD00099,2023-03-01,C222,Tablet,Electronics,2,51908.15,9102.58,Mumbai,UPI
+ORD00100,2023-03-02,C207,Laptop,Electronics,4,279790.43,45216.32,Nashik,Net Banking
+ORD00101,2023-03-02,C286,Headphones,Accessories,2,8286.09,1519.46,Mumbai,Debit Card
+ORD00102,2023-03-03,C166,Monitor,Electronics,2,35096.07,4885.49,Nagpur,Cash
+ORD00103,2023-03-04,C138,Headphones,Accessories,3,14106.04,3038.44,Nagpur,Credit Card
+ORD00104,2023-03-04,C069,Laptop,Electronics,4,261223.02,23839.24,Pune,Net Banking
+ORD00105,2023-03-05,C111,Smartphone,Electronics,1,36049.34,4977.18,Nagpur,Debit Card
+ORD00106,2023-03-05,C184,Headphones,Accessories,4,14545.78,2748.41,Nagpur,Debit Card
+ORD00107,2023-03-06,C051,Printer,Office,3,43602.41,7949.99,Mumbai,Net Banking
+ORD00108,2023-03-07,C022,Mouse,Accessories,2,2806.42,357.43,Nashik,UPI
+ORD00109,2023-03-07,C218,Mouse,Accessories,1,1490.23,151.84,Nashik,Debit Card
+ORD00110,2023-03-08,C121,Laptop,Electronics,2,125618.08,27120.91,Mumbai,Net Banking
+ORD00111,2023-03-08,C056,Laptop,Electronics,2,130453.68,22336.33,Pune,Cash
+ORD00112,2023-03-09,C154,Monitor,Electronics,2,35191.88,5582.52,Mumbai,Debit Card
+ORD00113,2023-03-10,C274,Monitor,Electronics,3,52778.49,8996.58,Pune,Debit Card
+ORD00114,2023-03-10,C119,Tablet,Electronics,3,83248.14,8143.98,Nashik,Cash
+ORD00115,2023-03-11,C300,Smartphone,Electronics,3,96448.21,13085.57,Nagpur,UPI
+ORD00116,2023-03-11,C067,Mouse,Accessories,4,5328.92,855.69,Nagpur,Net Banking
+ORD00117,2023-03-12,C236,Smartphone,Electronics,3,118664.41,20744.46,Mumbai,Credit Card
+ORD00118,2023-03-13,C282,Laptop,Electronics,1,67349.22,9545.0,Pune,Debit Card
+ORD00119,2023-03-13,C150,Printer,Office,3,42316.64,5091.9,Nashik,Cash
+ORD00120,2023-03-14,C095,Headphones,Accessories,3,12445.31,1181.57,Nagpur,Debit Card
+ORD00121,2023-03-15,C220,Tablet,Electronics,3,79144.3,7838.98,Mumbai,Cash
+ORD00122,2023-03-15,C094,Monitor,Electronics,2,35084.66,8622.46,Mumbai,UPI
+ORD00123,2023-03-16,C133,Smartphone,Electronics,3,90950.84,20241.93,Pune,Cash
+ORD00124,2023-03-16,C113,Tablet,Electronics,4,125056.41,20796.1,Amravati,UPI
+ORD00125,2023-03-17,C259,Smartphone,Electronics,2,74136.47,7876.38,Nagpur,Credit Card
+ORD00126,2023-03-18,C138,Printer,Office,2,24472.42,4240.15,Amravati,Credit Card
+ORD00127,2023-03-18,C273,Mouse,Accessories,4,5375.01,1052.72,Nagpur,Debit Card
+ORD00128,2023-03-19,C094,Monitor,Electronics,4,74908.5,13711.05,Nagpur,Net Banking
+ORD00129,2023-03-19,C035,Headphones,Accessories,4,16706.63,1851.25,Nagpur,Cash
+ORD00130,2023-03-20,C229,Printer,Office,1,14234.58,1477.0,Amravati,Debit Card
+ORD00131,2023-03-21,C132,Mouse,Accessories,1,1475.36,249.22,Nagpur,Net Banking
+ORD00132,2023-03-21,C295,Smartphone,Electronics,1,38288.28,7508.6,Mumbai,Net Banking
+ORD00133,2023-03-22,C225,Headphones,Accessories,1,4133.06,493.8,Pune,Net Banking
+ORD00134,2023-03-22,C198,Printer,Office,4,64213.63,11951.47,Mumbai,Debit Card
+ORD00135,2023-03-23,C231,Printer,Office,2,29087.69,5393.22,Mumbai,Cash
+ORD00136,2023-03-24,C289,Mouse,Accessories,2,2739.03,569.47,Amravati,Credit Card
+ORD00137,2023-03-24,C159,Smartphone,Electronics,1,34442.87,7564.13,Amravati,Net Banking
+ORD00138,2023-03-25,C157,Printer,Office,4,60467.42,8921.29,Nashik,Net Banking
+ORD00139,2023-03-25,C243,Monitor,Electronics,4,76377.13,14434.9,Amravati,Cash
+ORD00140,2023-03-26,C148,Smartphone,Electronics,3,114691.75,20854.97,Mumbai,Credit Card
+ORD00141,2023-03-27,C218,Printer,Office,2,27461.18,3541.07,Nashik,Credit Card
+ORD00142,2023-03-27,C171,Laptop,Electronics,1,57514.15,4778.2,Amravati,Cash
+ORD00143,2023-03-28,C106,Keyboard,Accessories,4,12291.62,2461.16,Nagpur,Cash
+ORD00144,2023-03-29,C051,Monitor,Electronics,2,36158.14,3316.3,Nashik,UPI
+ORD00145,2023-03-29,C110,Headphones,Accessories,3,11452.73,2833.67,Amravati,UPI
+ORD00146,2023-03-30,C149,Laptop,Electronics,3,193550.91,25731.73,Nagpur,Net Banking
+ORD00147,2023-03-30,C075,Laptop,Electronics,2,119837.02,20534.94,Pune,Credit Card
+ORD00148,2023-03-31,C128,Tablet,Electronics,2,45269.94,10689.92,Mumbai,Debit Card
+ORD00149,2023-04-01,C198,Keyboard,Accessories,3,8597.16,1416.15,Nashik,UPI
+ORD00150,2023-04-01,C150,Laptop,Electronics,1,62930.79,11245.73,Pune,Cash
+ORD00151,2023-04-02,C148,Smartphone,Electronics,1,36355.6,5745.21,Amravati,Net Banking
+ORD00152,2023-04-02,C224,Printer,Office,1,14063.17,1841.31,Nashik,Debit Card
+ORD00153,2023-04-03,C286,Tablet,Electronics,4,102104.87,11478.31,Mumbai,Credit Card
+ORD00154,2023-04-04,C194,Laptop,Electronics,2,130461.43,26273.63,Amravati,UPI
+ORD00155,2023-04-04,C055,Smartphone,Electronics,2,63691.6,7065.17,Mumbai,Credit Card
+ORD00156,2023-04-05,C087,Smartphone,Electronics,3,107232.42,20318.39,Amravati,Credit Card
+ORD00157,2023-04-05,C255,Monitor,Electronics,1,19312.21,2378.51,Nashik,UPI
+ORD00158,2023-04-06,C097,Monitor,Electronics,1,14537.51,1604.25,Amravati,Credit Card
+ORD00159,2023-04-07,C165,Tablet,Electronics,4,103392.23,22453.12,Nashik,Credit Card
+ORD00160,2023-04-07,C151,Monitor,Electronics,2,35397.47,3346.35,Nashik,Debit Card
+ORD00161,2023-04-08,C197,Printer,Office,1,14467.35,2888.71,Amravati,Debit Card
+ORD00162,2023-04-08,C119,Smartphone,Electronics,3,113111.79,16350.05,Amravati,Cash
+ORD00163,2023-04-09,C280,Mouse,Accessories,1,1551.23,239.11,Nagpur,Credit Card
+ORD00164,2023-04-10,C215,Headphones,Accessories,4,13604.84,3367.37,Nagpur,Credit Card
+ORD00165,2023-04-10,C201,Tablet,Electronics,1,26516.75,4976.96,Mumbai,Cash
+ORD00166,2023-04-11,C098,Smartphone,Electronics,2,60946.94,14206.57,Nashik,Debit Card
+ORD00167,2023-04-12,C034,Headphones,Accessories,2,9128.4,1503.22,Nagpur,Net Banking
+ORD00168,2023-04-12,C087,Laptop,Electronics,2,130857.18,28926.78,Nashik,Credit Card
+ORD00169,2023-04-13,C098,Headphones,Accessories,1,3826.89,782.49,Amravati,Net Banking
+ORD00170,2023-04-13,C173,Laptop,Electronics,1,60103.14,6600.11,Nagpur,Credit Card
+ORD00171,2023-04-14,C193,Mouse,Accessories,4,5469.59,766.61,Mumbai,Net Banking
+ORD00172,2023-04-15,C149,Keyboard,Accessories,3,9875.33,1201.92,Mumbai,Debit Card
+ORD00173,2023-04-15,C098,Printer,Office,4,52212.5,9204.48,Nashik,UPI
+ORD00174,2023-04-16,C227,Smartphone,Electronics,4,153576.58,26380.35,Amravati,Debit Card
+ORD00175,2023-04-16,C296,Laptop,Electronics,2,124894.38,17303.52,Nagpur,UPI
+ORD00176,2023-04-17,C042,Laptop,Electronics,1,76911.63,15153.78,Nagpur,Debit Card
+ORD00177,2023-04-18,C012,Tablet,Electronics,2,54622.54,6896.9,Mumbai,Net Banking
+ORD00178,2023-04-18,C017,Keyboard,Accessories,3,9555.39,2254.53,Pune,UPI
+ORD00179,2023-04-19,C264,Monitor,Electronics,1,17990.0,4108.93,Nashik,UPI
+ORD00180,2023-04-19,C198,Monitor,Electronics,1,15848.86,3133.11,Nagpur,Credit Card
+ORD00181,2023-04-20,C086,Laptop,Electronics,4,269297.27,29810.62,Pune,Net Banking
+ORD00182,2023-04-21,C215,Monitor,Electronics,1,18052.75,2035.3,Nashik,Credit Card
+ORD00183,2023-04-21,C103,Monitor,Electronics,2,35338.58,5965.64,Nagpur,Debit Card
+ORD00184,2023-04-22,C131,Keyboard,Accessories,4,11218.33,1814.91,Nashik,Debit Card
+ORD00185,2023-04-22,C004,Printer,Office,2,27850.15,3720.76,Nashik,UPI
+ORD00186,2023-04-23,C108,Mouse,Accessories,2,2876.2,484.43,Pune,Debit Card
+ORD00187,2023-04-24,C039,Smartphone,Electronics,2,75224.72,16232.98,Amravati,Net Banking
+ORD00188,2023-04-24,C245,Headphones,Accessories,1,4168.36,618.29,Amravati,UPI
+ORD00189,2023-04-25,C065,Printer,Office,4,53884.14,5150.72,Nagpur,Debit Card
+ORD00190,2023-04-26,C146,Mouse,Accessories,2,2502.9,326.6,Nashik,UPI
+ORD00191,2023-04-26,C187,Printer,Office,1,13974.4,1413.57,Pune,Net Banking
+ORD00192,2023-04-27,C198,Mouse,Accessories,1,1325.17,126.16,Mumbai,Net Banking
+ORD00193,2023-04-27,C063,Smartphone,Electronics,1,35384.12,5246.35,Nashik,Debit Card
+ORD00194,2023-04-28,C226,Mouse,Accessories,2,2866.35,341.71,Nagpur,Credit Card
+ORD00195,2023-04-29,C009,Laptop,Electronics,1,68124.34,7955.23,Mumbai,Cash
+ORD00196,2023-04-29,C178,Smartphone,Electronics,1,39111.54,4285.15,Pune,UPI
+ORD00197,2023-04-30,C089,Printer,Office,3,40963.61,4835.71,Nagpur,Cash
+ORD00198,2023-04-30,C105,Headphones,Accessories,1,4379.25,418.45,Mumbai,Debit Card
+ORD00199,2023-05-01,C261,Keyboard,Accessories,1,2925.28,559.87,Mumbai,Debit Card
+ORD00200,2023-05-02,C038,Smartphone,Electronics,4,140999.47,17335.93,Mumbai,Net Banking
+ORD00201,2023-05-02,C284,Printer,Office,2,28686.46,2828.76,Nashik,Net Banking
+ORD00202,2023-05-03,C224,Laptop,Electronics,2,126366.45,20746.2,Nashik,Debit Card
+ORD00203,2023-05-03,C237,Smartphone,Electronics,3,114028.52,20088.91,Nagpur,Debit Card
+ORD00204,2023-05-04,C059,Printer,Office,4,50030.43,6088.63,Mumbai,UPI
+ORD00205,2023-05-05,C133,Mouse,Accessories,3,4232.32,474.73,Mumbai,Net Banking
+ORD00206,2023-05-05,C023,Smartphone,Electronics,1,32674.79,2776.44,Pune,Credit Card
+ORD00207,2023-05-06,C258,Printer,Office,3,42063.16,3373.06,Nashik,Net Banking
+ORD00208,2023-05-06,C013,Keyboard,Accessories,3,8503.26,959.44,Mumbai,UPI
+ORD00209,2023-05-07,C163,Laptop,Electronics,1,61720.28,5032.81,Mumbai,Credit Card
+ORD00210,2023-05-08,C060,Laptop,Electronics,4,234864.77,52332.72,Nashik,Net Banking
+ORD00211,2023-05-08,C192,Headphones,Accessories,4,16754.01,4038.4,Nagpur,Cash
+ORD00212,2023-05-09,C193,Headphones,Accessories,1,3822.06,684.03,Pune,Debit Card
+ORD00213,2023-05-10,C007,Smartphone,Electronics,2,80144.81,14510.0,Nashik,Debit Card
+ORD00214,2023-05-10,C058,Laptop,Electronics,2,119044.76,17048.6,Pune,Credit Card
+ORD00215,2023-05-11,C157,Headphones,Accessories,2,7262.61,1562.32,Mumbai,Cash
+ORD00216,2023-05-11,C084,Printer,Office,2,27234.99,5756.93,Mumbai,Debit Card
+ORD00217,2023-05-12,C084,Tablet,Electronics,1,26208.07,5916.5,Mumbai,UPI
+ORD00218,2023-05-13,C058,Mouse,Accessories,3,4227.95,562.45,Amravati,Credit Card
+ORD00219,2023-05-13,C271,Mouse,Accessories,3,4173.38,595.33,Amravati,Debit Card
+ORD00220,2023-05-14,C145,Printer,Office,4,54321.53,6058.99,Nashik,Net Banking
+ORD00221,2023-05-14,C181,Printer,Office,3,46920.48,3896.11,Amravati,Credit Card
+ORD00222,2023-05-15,C153,Tablet,Electronics,4,81372.69,17528.6,Nagpur,Cash
+ORD00223,2023-05-16,C214,Keyboard,Accessories,4,10168.54,1091.49,Nashik,Net Banking
+ORD00224,2023-05-16,C064,Smartphone,Electronics,4,142053.41,21826.78,Nashik,UPI
+ORD00225,2023-05-17,C095,Printer,Office,1,13667.85,2208.58,Mumbai,Net Banking
+ORD00226,2023-05-17,C267,Laptop,Electronics,1,60048.56,14528.77,Mumbai,UPI
+ORD00227,2023-05-18,C202,Laptop,Electronics,4,303144.51,60452.79,Pune,Cash
+ORD00228,2023-05-19,C233,Laptop,Electronics,2,126957.29,21686.99,Nashik,UPI
+ORD00229,2023-05-19,C090,Mouse,Accessories,4,4936.7,1215.26,Pune,Credit Card
+ORD00230,2023-05-20,C123,Monitor,Electronics,2,31637.82,2752.53,Nagpur,UPI
+ORD00231,2023-05-20,C178,Monitor,Electronics,3,59639.05,13601.57,Amravati,Cash
+ORD00232,2023-05-21,C007,Headphones,Accessories,3,12506.56,2732.94,Mumbai,Cash
+ORD00233,2023-05-22,C127,Printer,Office,4,61613.22,9966.16,Nagpur,Cash
+ORD00234,2023-05-22,C012,Smartphone,Electronics,2,72109.13,6769.4,Amravati,Net Banking
+ORD00235,2023-05-23,C173,Laptop,Electronics,1,55812.35,8926.13,Nashik,Net Banking
+ORD00236,2023-05-24,C082,Monitor,Electronics,4,75447.27,12425.66,Pune,Debit Card
+ORD00237,2023-05-24,C093,Headphones,Accessories,1,3693.89,722.67,Nagpur,Cash
+ORD00238,2023-05-25,C024,Laptop,Electronics,2,133416.25,32464.53,Amravati,Net Banking
+ORD00239,2023-05-25,C228,Keyboard,Accessories,4,10158.62,2065.19,Pune,Credit Card
+ORD00240,2023-05-26,C243,Keyboard,Accessories,2,6736.56,1289.05,Mumbai,Credit Card
+ORD00241,2023-05-27,C225,Headphones,Accessories,1,4239.5,794.33,Mumbai,Credit Card
+ORD00242,2023-05-27,C087,Printer,Office,4,50189.35,11771.19,Pune,Cash
+ORD00243,2023-05-28,C041,Headphones,Accessories,2,6439.09,590.8,Amravati,Net Banking
+ORD00244,2023-05-28,C084,Monitor,Electronics,2,35947.65,6021.91,Pune,UPI
+ORD00245,2023-05-29,C164,Tablet,Electronics,1,22944.94,4852.63,Nashik,Debit Card
+ORD00246,2023-05-30,C080,Smartphone,Electronics,3,114476.85,17760.41,Pune,Net Banking
+ORD00247,2023-05-30,C171,Smartphone,Electronics,4,136818.76,16730.39,Amravati,UPI
+ORD00248,2023-05-31,C284,Laptop,Electronics,4,281529.77,39716.14,Nagpur,Debit Card
+ORD00249,2023-05-31,C044,Mouse,Accessories,3,4086.62,913.4,Amravati,Cash
+ORD00250,2023-06-01,C130,Tablet,Electronics,1,28210.32,2420.78,Nagpur,Net Banking
+ORD00251,2023-06-02,C179,Keyboard,Accessories,2,5822.36,778.72,Amravati,Credit Card
+ORD00252,2023-06-02,C251,Keyboard,Accessories,1,2733.24,441.64,Mumbai,Credit Card
+ORD00253,2023-06-03,C178,Laptop,Electronics,2,121744.33,15001.11,Amravati,Cash
+ORD00254,2023-06-03,C234,Monitor,Electronics,4,68186.91,6993.35,Amravati,Credit Card
+ORD00255,2023-06-04,C086,Mouse,Accessories,1,1245.69,149.33,Pune,UPI
+ORD00256,2023-06-05,C114,Monitor,Electronics,3,51509.7,12392.43,Pune,UPI
+ORD00257,2023-06-05,C289,Smartphone,Electronics,4,136239.67,13518.88,Nagpur,Debit Card
+ORD00258,2023-06-06,C069,Monitor,Electronics,4,68851.86,15186.15,Nagpur,Credit Card
+ORD00259,2023-06-07,C161,Headphones,Accessories,4,15867.9,2127.55,Nagpur,UPI
+ORD00260,2023-06-07,C077,Printer,Office,1,12065.48,2570.01,Nagpur,Debit Card
+ORD00261,2023-06-08,C082,Keyboard,Accessories,2,4776.0,924.11,Nashik,UPI
+ORD00262,2023-06-08,C129,Monitor,Electronics,3,45985.67,10471.54,Nagpur,Net Banking
+ORD00263,2023-06-09,C093,Monitor,Electronics,1,14877.65,2949.19,Nagpur,UPI
+ORD00264,2023-06-10,C102,Laptop,Electronics,4,211170.74,30293.04,Pune,Debit Card
+ORD00265,2023-06-10,C003,Tablet,Electronics,4,105774.12,16796.29,Nashik,Credit Card
+ORD00266,2023-06-11,C117,Printer,Office,4,59602.87,13352.14,Nashik,Credit Card
+ORD00267,2023-06-11,C228,Laptop,Electronics,4,245152.91,29867.43,Mumbai,Credit Card
+ORD00268,2023-06-12,C021,Keyboard,Accessories,3,7516.46,1267.35,Mumbai,Net Banking
+ORD00269,2023-06-13,C277,Keyboard,Accessories,3,8373.22,755.65,Nashik,Debit Card
+ORD00270,2023-06-13,C052,Smartphone,Electronics,2,66123.22,10751.52,Mumbai,Net Banking
+ORD00271,2023-06-14,C146,Monitor,Electronics,4,56310.67,10347.47,Pune,UPI
+ORD00272,2023-06-14,C263,Mouse,Accessories,4,5489.22,1207.3,Amravati,Credit Card
+ORD00273,2023-06-15,C298,Monitor,Electronics,1,15858.63,3407.69,Amravati,Cash
+ORD00274,2023-06-16,C172,Keyboard,Accessories,2,5148.68,1117.36,Nashik,Credit Card
+ORD00275,2023-06-16,C271,Monitor,Electronics,3,60102.34,12918.18,Pune,Credit Card
+ORD00276,2023-06-17,C152,Laptop,Electronics,1,63067.37,14757.86,Nagpur,Credit Card
+ORD00277,2023-06-17,C167,Tablet,Electronics,1,26519.61,5958.95,Pune,UPI
+ORD00278,2023-06-18,C242,Smartphone,Electronics,3,92670.46,17241.9,Nashik,UPI
+ORD00279,2023-06-19,C293,Tablet,Electronics,4,95015.47,9147.28,Mumbai,Cash
+ORD00280,2023-06-19,C078,Monitor,Electronics,4,69115.93,13025.13,Nashik,Net Banking
+ORD00281,2023-06-20,C146,Laptop,Electronics,2,118064.97,21428.55,Mumbai,Credit Card
+ORD00282,2023-06-21,C241,Headphones,Accessories,1,3678.21,742.97,Mumbai,Cash
+ORD00283,2023-06-21,C109,Headphones,Accessories,3,10142.92,2372.83,Amravati,Net Banking
+ORD00284,2023-06-22,C136,Laptop,Electronics,4,265392.38,29887.81,Nagpur,Debit Card
+ORD00285,2023-06-22,C005,Headphones,Accessories,1,3578.8,792.41,Amravati,Debit Card
+ORD00286,2023-06-23,C200,Printer,Office,1,15592.38,1966.12,Pune,Debit Card
+ORD00287,2023-06-24,C215,Headphones,Accessories,4,14138.04,2740.13,Amravati,Credit Card
+ORD00288,2023-06-24,C286,Headphones,Accessories,1,3516.78,876.49,Amravati,Cash
+ORD00289,2023-06-25,C208,Smartphone,Electronics,4,135006.9,28124.97,Pune,UPI
+ORD00290,2023-06-25,C136,Monitor,Electronics,4,68959.94,5531.29,Amravati,Debit Card
+ORD00291,2023-06-26,C005,Printer,Office,2,25639.98,2715.55,Amravati,Cash
+ORD00292,2023-06-27,C084,Laptop,Electronics,1,54489.88,10580.02,Pune,UPI
+ORD00293,2023-06-27,C292,Mouse,Accessories,4,4829.65,438.19,Nagpur,Credit Card
+ORD00294,2023-06-28,C258,Mouse,Accessories,2,2686.61,388.9,Mumbai,UPI
+ORD00295,2023-06-28,C196,Laptop,Electronics,1,57297.53,8939.81,Pune,Debit Card
+ORD00296,2023-06-29,C101,Headphones,Accessories,3,10235.45,1818.63,Amravati,Credit Card
+ORD00297,2023-06-30,C158,Keyboard,Accessories,3,8982.84,1677.56,Pune,Debit Card
+ORD00298,2023-06-30,C073,Printer,Office,3,32885.28,4334.13,Nashik,Debit Card
+ORD00299,2023-07-01,C256,Smartphone,Electronics,3,86832.52,21348.1,Pune,UPI
+ORD00300,2023-07-01,C289,Smartphone,Electronics,1,34889.29,5634.28,Amravati,UPI
+ORD00301,2023-07-02,C025,Headphones,Accessories,4,13972.27,2311.52,Nashik,Net Banking
+ORD00302,2023-07-03,C025,Smartphone,Electronics,4,131736.58,21249.08,Amravati,Net Banking
+ORD00303,2023-07-03,C020,Keyboard,Accessories,4,10476.1,1393.41,Pune,Net Banking
+ORD00304,2023-07-04,C043,Keyboard,Accessories,3,8212.1,1551.6,Pune,Cash
+ORD00305,2023-07-05,C130,Monitor,Electronics,3,51785.68,5831.22,Mumbai,Credit Card
+ORD00306,2023-07-05,C083,Mouse,Accessories,3,3184.61,631.05,Nagpur,Debit Card
+ORD00307,2023-07-06,C252,Mouse,Accessories,1,1194.24,131.63,Nagpur,Cash
+ORD00308,2023-07-06,C101,Keyboard,Accessories,3,8456.84,1005.62,Amravati,Cash
+ORD00309,2023-07-07,C116,Mouse,Accessories,4,5453.26,1107.74,Nashik,Debit Card
+ORD00310,2023-07-08,C014,Monitor,Electronics,3,49145.49,7391.58,Nashik,Net Banking
+ORD00311,2023-07-08,C246,Headphones,Accessories,1,3689.12,597.0,Nashik,Credit Card
+ORD00312,2023-07-09,C065,Monitor,Electronics,2,31265.91,3509.54,Nashik,Net Banking
+ORD00313,2023-07-09,C160,Smartphone,Electronics,2,57376.82,5220.42,Amravati,UPI
+ORD00314,2023-07-10,C191,Tablet,Electronics,1,24223.81,4194.43,Nashik,Cash
+ORD00315,2023-07-11,C227,Printer,Office,3,36903.12,7040.78,Nagpur,Net Banking
+ORD00316,2023-07-11,C021,Keyboard,Accessories,1,2763.34,436.9,Pune,Net Banking
+ORD00317,2023-07-12,C130,Laptop,Electronics,1,59592.68,14319.01,Amravati,Net Banking
+ORD00318,2023-07-12,C232,Laptop,Electronics,2,109700.51,26125.64,Nashik,Cash
+ORD00319,2023-07-13,C079,Tablet,Electronics,3,74083.15,13944.96,Nagpur,Cash
+ORD00320,2023-07-14,C069,Monitor,Electronics,4,65119.36,14978.63,Amravati,UPI
+ORD00321,2023-07-14,C152,Monitor,Electronics,1,16913.87,3659.52,Nagpur,Net Banking
+ORD00322,2023-07-15,C228,Keyboard,Accessories,1,2912.19,424.86,Mumbai,Cash
+ORD00323,2023-07-15,C261,Monitor,Electronics,3,43749.19,4794.85,Nashik,Credit Card
+ORD00324,2023-07-16,C220,Headphones,Accessories,3,11623.69,1092.27,Nagpur,UPI
+ORD00325,2023-07-17,C217,Laptop,Electronics,2,108751.83,9980.51,Pune,Credit Card
+ORD00326,2023-07-17,C258,Smartphone,Electronics,1,29621.46,3000.35,Nashik,Net Banking
+ORD00327,2023-07-18,C010,Printer,Office,3,45485.97,4850.1,Nagpur,Credit Card
+ORD00328,2023-07-19,C124,Monitor,Electronics,1,16481.74,2361.31,Pune,UPI
+ORD00329,2023-07-19,C174,Smartphone,Electronics,2,65407.64,12749.06,Nagpur,Net Banking
+ORD00330,2023-07-20,C119,Tablet,Electronics,2,46180.0,10100.07,Nagpur,Cash
+ORD00331,2023-07-20,C238,Laptop,Electronics,3,187337.49,29653.97,Amravati,Debit Card
+ORD00332,2023-07-21,C022,Printer,Office,2,23884.05,4968.88,Amravati,Net Banking
+ORD00333,2023-07-22,C050,Mouse,Accessories,2,2621.53,250.67,Mumbai,Cash
+ORD00334,2023-07-22,C189,Mouse,Accessories,2,2416.95,416.15,Nagpur,Debit Card
+ORD00335,2023-07-23,C281,Monitor,Electronics,2,36599.93,8361.8,Nashik,Credit Card
+ORD00336,2023-07-23,C261,Smartphone,Electronics,4,134296.11,29276.27,Mumbai,UPI
+ORD00337,2023-07-24,C010,Keyboard,Accessories,4,10872.38,2085.16,Nashik,Debit Card
+ORD00338,2023-07-25,C013,Tablet,Electronics,2,46194.01,6486.35,Nagpur,Cash
+ORD00339,2023-07-25,C014,Keyboard,Accessories,2,5434.01,1203.94,Nagpur,Credit Card
+ORD00340,2023-07-26,C243,Mouse,Accessories,1,1305.18,254.93,Mumbai,Net Banking
+ORD00341,2023-07-26,C227,Smartphone,Electronics,4,144171.07,30660.57,Pune,Net Banking
+ORD00342,2023-07-27,C202,Headphones,Accessories,1,3364.81,270.26,Amravati,Cash
+ORD00343,2023-07-28,C014,Laptop,Electronics,1,59624.13,9645.12,Mumbai,Net Banking
+ORD00344,2023-07-28,C254,Printer,Office,2,23939.9,4200.31,Pune,Credit Card
+ORD00345,2023-07-29,C076,Tablet,Electronics,3,64973.8,12879.15,Pune,Net Banking
+ORD00346,2023-07-29,C173,Monitor,Electronics,4,66164.58,11111.4,Amravati,UPI
+ORD00347,2023-07-30,C251,Monitor,Electronics,1,15945.27,2897.23,Mumbai,UPI
+ORD00348,2023-07-31,C198,Keyboard,Accessories,2,5300.23,1002.99,Amravati,Cash
+ORD00349,2023-07-31,C075,Printer,Office,3,37852.04,8432.16,Nagpur,Credit Card
+ORD00350,2023-08-01,C061,Printer,Office,1,11313.47,1259.88,Pune,Credit Card
+ORD00351,2023-08-02,C198,Tablet,Electronics,1,23764.48,4270.51,Nagpur,Debit Card
+ORD00352,2023-08-02,C035,Mouse,Accessories,3,4171.91,1000.91,Pune,Debit Card
+ORD00353,2023-08-03,C192,Mouse,Accessories,1,1089.28,167.73,Nashik,Cash
+ORD00354,2023-08-03,C231,Headphones,Accessories,2,5551.22,520.16,Pune,Debit Card
+ORD00355,2023-08-04,C188,Laptop,Electronics,4,241258.41,25818.12,Nagpur,Cash
+ORD00356,2023-08-05,C106,Printer,Office,1,13044.24,3164.85,Amravati,Debit Card
+ORD00357,2023-08-05,C070,Monitor,Electronics,4,56166.77,12559.69,Amravati,UPI
+ORD00358,2023-08-06,C084,Mouse,Accessories,4,4153.88,356.05,Pune,Credit Card
+ORD00359,2023-08-06,C070,Tablet,Electronics,1,20168.07,4259.82,Pune,Debit Card
+ORD00360,2023-08-07,C199,Keyboard,Accessories,4,9349.6,1638.32,Nashik,Credit Card
+ORD00361,2023-08-08,C021,Smartphone,Electronics,4,128351.87,21057.64,Pune,Net Banking
+ORD00362,2023-08-08,C161,Tablet,Electronics,3,74472.75,8465.81,Pune,Net Banking
+ORD00363,2023-08-09,C081,Keyboard,Accessories,3,8083.3,1417.87,Nashik,Net Banking
+ORD00364,2023-08-09,C169,Smartphone,Electronics,4,118713.53,24084.41,Nagpur,UPI
+ORD00365,2023-08-10,C005,Smartphone,Electronics,2,64309.33,9830.79,Pune,UPI
+ORD00366,2023-08-11,C125,Smartphone,Electronics,2,59469.07,9431.21,Amravati,Cash
+ORD00367,2023-08-11,C154,Tablet,Electronics,2,37486.22,8556.72,Amravati,Cash
+ORD00368,2023-08-12,C213,Headphones,Accessories,3,10758.49,1235.39,Amravati,Cash
+ORD00369,2023-08-12,C066,Headphones,Accessories,3,10868.11,2256.48,Nagpur,Debit Card
+ORD00370,2023-08-13,C227,Printer,Office,4,51882.66,8901.99,Amravati,UPI
+ORD00371,2023-08-14,C268,Tablet,Electronics,2,44802.29,5074.02,Pune,Cash
+ORD00372,2023-08-14,C085,Keyboard,Accessories,1,2392.1,426.25,Nagpur,Credit Card
+ORD00373,2023-08-15,C259,Smartphone,Electronics,4,133239.74,17834.07,Mumbai,Credit Card
+ORD00374,2023-08-16,C220,Tablet,Electronics,4,95378.25,15851.74,Nagpur,Net Banking
+ORD00375,2023-08-16,C246,Printer,Office,4,47267.87,10198.56,Mumbai,UPI
+ORD00376,2023-08-17,C016,Keyboard,Accessories,3,8312.51,1378.92,Nagpur,Net Banking
+ORD00377,2023-08-17,C102,Monitor,Electronics,1,16883.71,1827.03,Pune,Debit Card
+ORD00378,2023-08-18,C025,Monitor,Electronics,4,68962.11,5664.77,Mumbai,UPI
+ORD00379,2023-08-19,C227,Keyboard,Accessories,1,2475.32,357.52,Nashik,Cash
+ORD00380,2023-08-19,C134,Mouse,Accessories,1,1293.65,283.62,Mumbai,Cash
+ORD00381,2023-08-20,C213,Keyboard,Accessories,1,2852.63,450.93,Pune,Debit Card
+ORD00382,2023-08-20,C277,Keyboard,Accessories,4,10228.85,1731.99,Amravati,Credit Card
+ORD00383,2023-08-21,C075,Headphones,Accessories,1,3451.99,480.34,Nagpur,UPI
+ORD00384,2023-08-22,C271,Mouse,Accessories,4,4797.14,768.11,Mumbai,Debit Card
+ORD00385,2023-08-22,C248,Laptop,Electronics,4,218518.88,29180.21,Amravati,UPI
+ORD00386,2023-08-23,C247,Keyboard,Accessories,4,10586.68,2631.81,Mumbai,Cash
+ORD00387,2023-08-23,C117,Smartphone,Electronics,1,29555.52,2708.64,Nashik,Cash
+ORD00388,2023-08-24,C039,Headphones,Accessories,4,13081.84,2984.03,Nagpur,Debit Card
+ORD00389,2023-08-25,C219,Keyboard,Accessories,1,2646.3,604.99,Mumbai,Debit Card
+ORD00390,2023-08-25,C142,Smartphone,Electronics,4,131682.23,19030.12,Amravati,Net Banking
+ORD00391,2023-08-26,C084,Printer,Office,2,25363.82,2506.52,Nagpur,UPI
+ORD00392,2023-08-26,C102,Printer,Office,4,49486.26,4187.52,Nagpur,Debit Card
+ORD00393,2023-08-27,C173,Headphones,Accessories,3,11355.06,2528.87,Nagpur,Debit Card
+ORD00394,2023-08-28,C275,Keyboard,Accessories,3,8327.51,1420.3,Amravati,Net Banking
+ORD00395,2023-08-28,C089,Mouse,Accessories,4,4890.02,401.51,Mumbai,Net Banking
+ORD00396,2023-08-29,C222,Tablet,Electronics,1,22190.51,2906.65,Nagpur,Cash
+ORD00397,2023-08-30,C255,Tablet,Electronics,4,82590.07,20493.47,Nashik,UPI
+ORD00398,2023-08-30,C267,Printer,Office,2,22382.7,3423.68,Pune,Net Banking
+ORD00399,2023-08-31,C035,Monitor,Electronics,1,14425.06,1384.17,Nagpur,Credit Card
+ORD00400,2023-08-31,C076,Printer,Office,4,50827.48,9006.7,Nagpur,Debit Card
+ORD00401,2023-09-01,C276,Smartphone,Electronics,4,143126.31,26810.75,Nagpur,Net Banking
+ORD00402,2023-09-02,C028,Tablet,Electronics,4,81859.73,15962.03,Amravati,Cash
+ORD00403,2023-09-02,C257,Mouse,Accessories,3,3802.22,692.43,Nagpur,Credit Card
+ORD00404,2023-09-03,C218,Laptop,Electronics,1,56846.56,9113.86,Mumbai,Debit Card
+ORD00405,2023-09-03,C237,Keyboard,Accessories,2,4536.02,833.87,Amravati,UPI
+ORD00406,2023-09-04,C190,Mouse,Accessories,1,1218.91,98.65,Mumbai,Cash
+ORD00407,2023-09-05,C106,Keyboard,Accessories,1,2779.15,492.6,Mumbai,UPI
+ORD00408,2023-09-05,C041,Laptop,Electronics,4,214717.08,20356.42,Nagpur,Net Banking
+ORD00409,2023-09-06,C267,Tablet,Electronics,3,73374.14,12026.24,Mumbai,Debit Card
+ORD00410,2023-09-06,C001,Mouse,Accessories,3,3692.57,467.86,Amravati,Debit Card
+ORD00411,2023-09-07,C240,Keyboard,Accessories,4,10462.1,1918.16,Nagpur,Net Banking
+ORD00412,2023-09-08,C008,Smartphone,Electronics,3,95973.67,23243.44,Nagpur,Debit Card
+ORD00413,2023-09-08,C146,Headphones,Accessories,3,11460.78,995.88,Pune,Cash
+ORD00414,2023-09-09,C082,Headphones,Accessories,1,3742.47,589.66,Nashik,Debit Card
+ORD00415,2023-09-09,C243,Monitor,Electronics,4,66072.05,9826.29,Nagpur,Credit Card
+ORD00416,2023-09-10,C266,Monitor,Electronics,1,15531.47,3034.44,Pune,Debit Card
+ORD00417,2023-09-11,C155,Headphones,Accessories,1,3866.44,785.18,Nashik,Credit Card
+ORD00418,2023-09-11,C296,Mouse,Accessories,2,2520.89,556.95,Pune,UPI
+ORD00419,2023-09-12,C213,Laptop,Electronics,2,90818.15,8568.39,Nagpur,UPI
+ORD00420,2023-09-13,C284,Monitor,Electronics,4,69333.09,13234.96,Nashik,Debit Card
+ORD00421,2023-09-13,C122,Smartphone,Electronics,4,111562.87,14734.48,Amravati,Cash
+ORD00422,2023-09-14,C156,Smartphone,Electronics,4,132455.68,29115.32,Amravati,UPI
+ORD00423,2023-09-14,C118,Monitor,Electronics,3,49222.58,7043.72,Amravati,Cash
+ORD00424,2023-09-15,C156,Laptop,Electronics,4,194693.71,27972.42,Nashik,Cash
+ORD00425,2023-09-16,C126,Mouse,Accessories,4,5030.37,726.46,Mumbai,UPI
+ORD00426,2023-09-16,C176,Laptop,Electronics,2,94084.75,21076.27,Amravati,Cash
+ORD00427,2023-09-17,C154,Headphones,Accessories,1,3612.89,372.43,Mumbai,Debit Card
+ORD00428,2023-09-17,C262,Printer,Office,3,38331.82,4109.33,Mumbai,Net Banking
+ORD00429,2023-09-18,C170,Monitor,Electronics,1,16153.58,1611.22,Amravati,Net Banking
+ORD00430,2023-09-19,C274,Tablet,Electronics,3,66438.02,10331.23,Amravati,UPI
+ORD00431,2023-09-19,C068,Laptop,Electronics,1,49737.82,6857.14,Nashik,Net Banking
+ORD00432,2023-09-20,C042,Laptop,Electronics,1,49997.16,8523.7,Pune,Net Banking
+ORD00433,2023-09-20,C300,Tablet,Electronics,2,44799.97,5642.2,Mumbai,Cash
+ORD00434,2023-09-21,C280,Tablet,Electronics,1,21855.34,3905.1,Nashik,Debit Card
+ORD00435,2023-09-22,C099,Mouse,Accessories,3,3562.73,758.88,Amravati,Credit Card
+ORD00436,2023-09-22,C250,Printer,Office,2,25915.24,4581.66,Mumbai,Net Banking
+ORD00437,2023-09-23,C147,Monitor,Electronics,1,15607.22,3134.72,Mumbai,Net Banking
+ORD00438,2023-09-23,C047,Smartphone,Electronics,3,92414.05,12946.13,Amravati,Net Banking
+ORD00439,2023-09-24,C046,Headphones,Accessories,3,10269.4,2010.02,Pune,Cash
+ORD00440,2023-09-25,C154,Headphones,Accessories,1,3642.77,879.18,Amravati,Cash
+ORD00441,2023-09-25,C075,Keyboard,Accessories,4,8755.24,1431.84,Nagpur,Debit Card
+ORD00442,2023-09-26,C242,Tablet,Electronics,4,90527.45,14818.92,Nagpur,Debit Card
+ORD00443,2023-09-27,C239,Mouse,Accessories,2,2048.05,373.48,Amravati,Net Banking
+ORD00444,2023-09-27,C116,Tablet,Electronics,4,78673.57,19616.54,Nashik,UPI
+ORD00445,2023-09-28,C013,Laptop,Electronics,1,52330.26,6961.12,Nashik,Credit Card
+ORD00446,2023-09-28,C171,Printer,Office,2,23298.18,4587.71,Mumbai,Credit Card
+ORD00447,2023-09-29,C152,Smartphone,Electronics,4,114766.08,24876.04,Mumbai,UPI
+ORD00448,2023-09-30,C264,Headphones,Accessories,3,9689.96,2406.92,Pune,UPI
+ORD00449,2023-09-30,C141,Printer,Office,3,40971.03,3758.48,Nashik,Cash
+ORD00450,2023-10-01,C164,Printer,Office,1,11223.38,2359.6,Mumbai,Credit Card
+ORD00451,2023-10-01,C260,Monitor,Electronics,4,71256.34,9096.36,Mumbai,Debit Card
+ORD00452,2023-10-02,C173,Printer,Office,3,35957.59,6740.44,Pune,Net Banking
+ORD00453,2023-10-03,C162,Mouse,Accessories,3,3232.08,300.8,Pune,Cash
+ORD00454,2023-10-03,C013,Printer,Office,2,25836.17,2287.49,Amravati,Credit Card
+ORD00455,2023-10-04,C053,Monitor,Electronics,3,50807.91,6841.5,Nagpur,UPI
+ORD00456,2023-10-04,C021,Laptop,Electronics,2,114701.34,28265.48,Mumbai,Net Banking
+ORD00457,2023-10-05,C032,Tablet,Electronics,1,22000.96,4452.21,Pune,Credit Card
+ORD00458,2023-10-06,C148,Keyboard,Accessories,4,11093.63,1933.53,Pune,Credit Card
+ORD00459,2023-10-06,C191,Keyboard,Accessories,2,5503.21,957.15,Amravati,Net Banking
+ORD00460,2023-10-07,C012,Tablet,Electronics,3,72829.99,14748.9,Pune,Credit Card
+ORD00461,2023-10-07,C241,Printer,Office,2,23498.62,3487.57,Pune,Net Banking
+ORD00462,2023-10-08,C294,Smartphone,Electronics,2,68446.48,8689.2,Nagpur,Credit Card
+ORD00463,2023-10-09,C156,Printer,Office,1,13229.07,1244.35,Mumbai,UPI
+ORD00464,2023-10-09,C162,Laptop,Electronics,3,172797.33,21766.74,Amravati,Cash
+ORD00465,2023-10-10,C112,Keyboard,Accessories,2,5244.12,1230.75,Amravati,Debit Card
+ORD00466,2023-10-11,C218,Mouse,Accessories,1,1371.71,269.94,Nashik,UPI
+ORD00467,2023-10-11,C213,Keyboard,Accessories,3,8267.67,856.94,Nashik,Debit Card
+ORD00468,2023-10-12,C011,Mouse,Accessories,1,1368.4,334.2,Nagpur,Cash
+ORD00469,2023-10-12,C140,Monitor,Electronics,1,15168.85,3229.6,Nashik,Credit Card
+ORD00470,2023-10-13,C028,Laptop,Electronics,1,57049.98,9399.38,Nagpur,Debit Card
+ORD00471,2023-10-14,C013,Monitor,Electronics,4,61059.24,8723.43,Pune,Net Banking
+ORD00472,2023-10-14,C016,Mouse,Accessories,4,4612.34,1035.74,Nagpur,UPI
+ORD00473,2023-10-15,C173,Headphones,Accessories,3,11934.61,2570.25,Nashik,Credit Card
+ORD00474,2023-10-15,C292,Laptop,Electronics,4,258945.42,61690.44,Pune,Debit Card
+ORD00475,2023-10-16,C065,Keyboard,Accessories,2,4822.71,970.55,Amravati,Net Banking
+ORD00476,2023-10-17,C049,Keyboard,Accessories,3,9048.47,1289.62,Pune,Net Banking
+ORD00477,2023-10-17,C138,Keyboard,Accessories,3,7023.95,584.99,Mumbai,UPI
+ORD00478,2023-10-18,C268,Tablet,Electronics,3,64037.26,8718.11,Amravati,Net Banking
+ORD00479,2023-10-18,C119,Tablet,Electronics,1,23525.16,4591.69,Amravati,UPI
+ORD00480,2023-10-19,C283,Printer,Office,4,53496.04,13155.87,Nashik,Credit Card
+ORD00481,2023-10-20,C224,Tablet,Electronics,3,69155.64,8654.76,Nashik,UPI
+ORD00482,2023-10-20,C244,Laptop,Electronics,3,179010.83,30083.36,Nagpur,Cash
+ORD00483,2023-10-21,C111,Printer,Office,4,55362.19,13597.68,Mumbai,UPI
+ORD00484,2023-10-21,C217,Printer,Office,3,34329.67,7588.91,Nashik,Debit Card
+ORD00485,2023-10-22,C218,Keyboard,Accessories,4,10607.22,2196.39,Amravati,Credit Card
+ORD00486,2023-10-23,C096,Printer,Office,1,11151.24,1345.48,Amravati,Credit Card
+ORD00487,2023-10-23,C090,Tablet,Electronics,3,78946.96,9066.81,Amravati,Credit Card
+ORD00488,2023-10-24,C267,Laptop,Electronics,2,120835.68,27069.98,Nashik,Net Banking
+ORD00489,2023-10-25,C102,Printer,Office,4,56025.47,13505.34,Amravati,UPI
+ORD00490,2023-10-25,C242,Monitor,Electronics,3,50206.83,10057.06,Pune,UPI
+ORD00491,2023-10-26,C161,Smartphone,Electronics,1,28110.49,2461.8,Pune,Debit Card
+ORD00492,2023-10-26,C122,Smartphone,Electronics,3,96365.17,13512.86,Nashik,Net Banking
+ORD00493,2023-10-27,C003,Headphones,Accessories,2,6721.7,1061.77,Nashik,Cash
+ORD00494,2023-10-28,C209,Mouse,Accessories,3,3921.24,763.23,Mumbai,Net Banking
+ORD00495,2023-10-28,C068,Smartphone,Electronics,3,109073.39,10745.02,Mumbai,Cash
+ORD00496,2023-10-29,C090,Printer,Office,4,46998.89,9446.44,Nagpur,Cash
+ORD00497,2023-10-29,C154,Tablet,Electronics,1,27450.82,2537.11,Amravati,Cash
+ORD00498,2023-10-30,C273,Tablet,Electronics,1,21055.53,4934.21,Mumbai,Debit Card
+ORD00499,2023-10-31,C094,Mouse,Accessories,4,5122.93,1035.43,Nagpur,Debit Card
+ORD00500,2023-10-31,C088,Monitor,Electronics,1,14520.22,1563.23,Pune,Net Banking
+ORD00501,2023-11-01,C171,Headphones,Accessories,4,16573.37,1970.16,Nashik,Credit Card
+ORD00502,2023-11-01,C091,Keyboard,Accessories,4,11096.47,2487.46,Nashik,Debit Card
+ORD00503,2023-11-02,C265,Laptop,Electronics,1,72509.65,7261.51,Mumbai,Credit Card
+ORD00504,2023-11-03,C093,Tablet,Electronics,1,24349.91,2133.9,Nagpur,Debit Card
+ORD00505,2023-11-03,C091,Keyboard,Accessories,4,11518.69,2783.58,Pune,UPI
+ORD00506,2023-11-04,C181,Smartphone,Electronics,1,34304.26,4208.11,Mumbai,Credit Card
+ORD00507,2023-11-04,C116,Keyboard,Accessories,1,2665.13,629.24,Pune,Debit Card
+ORD00508,2023-11-05,C193,Tablet,Electronics,1,23684.51,2051.51,Nagpur,Credit Card
+ORD00509,2023-11-06,C149,Printer,Office,1,13176.28,2665.0,Mumbai,Cash
+ORD00510,2023-11-06,C188,Smartphone,Electronics,3,89918.77,11511.79,Pune,Net Banking
+ORD00511,2023-11-07,C116,Mouse,Accessories,2,2688.51,442.48,Nashik,Net Banking
+ORD00512,2023-11-08,C112,Printer,Office,1,15228.03,1983.73,Amravati,UPI
+ORD00513,2023-11-08,C280,Tablet,Electronics,4,105059.97,16620.53,Mumbai,Net Banking
+ORD00514,2023-11-09,C024,Keyboard,Accessories,2,5498.87,1163.36,Pune,Cash
+ORD00515,2023-11-09,C279,Tablet,Electronics,2,50300.3,6439.46,Nashik,Net Banking
+ORD00516,2023-11-10,C169,Monitor,Electronics,2,36872.85,6376.76,Nagpur,Net Banking
+ORD00517,2023-11-11,C103,Laptop,Electronics,4,235997.28,57919.23,Nashik,Net Banking
+ORD00518,2023-11-11,C038,Keyboard,Accessories,3,8531.19,1962.73,Mumbai,Cash
+ORD00519,2023-11-12,C190,Monitor,Electronics,1,16678.73,2193.22,Nashik,UPI
+ORD00520,2023-11-12,C185,Printer,Office,3,44571.24,5622.42,Mumbai,Cash
+ORD00521,2023-11-13,C241,Monitor,Electronics,4,64874.47,11703.9,Mumbai,Credit Card
+ORD00522,2023-11-14,C255,Smartphone,Electronics,4,151817.9,16463.83,Nagpur,UPI
+ORD00523,2023-11-14,C102,Tablet,Electronics,4,87285.24,17583.8,Nagpur,UPI
+ORD00524,2023-11-15,C081,Monitor,Electronics,1,18131.27,1980.93,Nagpur,Credit Card
+ORD00525,2023-11-15,C167,Printer,Office,3,39882.8,9435.04,Nashik,UPI
+ORD00526,2023-11-16,C073,Laptop,Electronics,2,143082.49,31077.81,Nashik,Cash
+ORD00527,2023-11-17,C175,Keyboard,Accessories,1,2944.45,599.49,Nashik,UPI
+ORD00528,2023-11-17,C100,Laptop,Electronics,3,199497.52,32323.6,Amravati,Credit Card
+ORD00529,2023-11-18,C289,Laptop,Electronics,3,181858.44,39205.6,Pune,Net Banking
+ORD00530,2023-11-18,C168,Monitor,Electronics,4,69973.45,12247.22,Mumbai,Net Banking
+ORD00531,2023-11-19,C147,Laptop,Electronics,1,66163.51,7309.31,Amravati,Debit Card
+ORD00532,2023-11-20,C095,Tablet,Electronics,2,51833.63,11273.52,Amravati,Cash
+ORD00533,2023-11-20,C007,Monitor,Electronics,2,35231.3,7590.08,Mumbai,Credit Card
+ORD00534,2023-11-21,C210,Printer,Office,3,43714.56,10230.73,Amravati,Cash
+ORD00535,2023-11-22,C140,Laptop,Electronics,1,62468.99,7030.43,Nagpur,UPI
+ORD00536,2023-11-22,C069,Mouse,Accessories,1,1343.11,307.92,Mumbai,UPI
+ORD00537,2023-11-23,C047,Headphones,Accessories,2,9149.95,1249.13,Amravati,UPI
+ORD00538,2023-11-23,C079,Mouse,Accessories,4,5192.9,1008.21,Mumbai,Net Banking
+ORD00539,2023-11-24,C057,Printer,Office,4,50602.41,7764.6,Pune,Net Banking
+ORD00540,2023-11-25,C058,Smartphone,Electronics,1,31655.04,3087.34,Nashik,Cash
+ORD00541,2023-11-25,C219,Headphones,Accessories,1,4285.55,650.82,Nagpur,Cash
+ORD00542,2023-11-26,C098,Monitor,Electronics,3,55715.11,10192.08,Nagpur,Debit Card
+ORD00543,2023-11-26,C295,Printer,Office,2,29533.87,7225.5,Mumbai,Net Banking
+ORD00544,2023-11-27,C041,Monitor,Electronics,2,30793.8,2821.23,Amravati,Cash
+ORD00545,2023-11-28,C134,Tablet,Electronics,4,101643.45,19218.48,Mumbai,Credit Card
+ORD00546,2023-11-28,C233,Laptop,Electronics,1,58558.13,11374.89,Mumbai,Cash
+ORD00547,2023-11-29,C150,Tablet,Electronics,4,99706.52,18354.36,Mumbai,Net Banking
+ORD00548,2023-11-29,C098,Tablet,Electronics,4,92697.31,16675.28,Nagpur,Net Banking
+ORD00549,2023-11-30,C164,Keyboard,Accessories,1,2875.15,353.72,Mumbai,UPI
+ORD00550,2023-12-01,C046,Smartphone,Electronics,4,143356.57,29154.91,Pune,UPI
+ORD00551,2023-12-01,C127,Smartphone,Electronics,2,68313.96,15801.68,Nagpur,Cash
+ORD00552,2023-12-02,C073,Monitor,Electronics,3,60064.59,13150.11,Mumbai,Credit Card
+ORD00553,2023-12-02,C212,Tablet,Electronics,4,109698.06,21283.05,Nashik,UPI
+ORD00554,2023-12-03,C047,Mouse,Accessories,3,3860.17,341.64,Nagpur,UPI
+ORD00555,2023-12-04,C161,Headphones,Accessories,1,3942.75,459.76,Mumbai,Credit Card
+ORD00556,2023-12-04,C038,Headphones,Accessories,4,14538.46,1986.18,Mumbai,Cash
+ORD00557,2023-12-05,C091,Tablet,Electronics,3,71639.71,13242.83,Mumbai,Credit Card
+ORD00558,2023-12-06,C107,Laptop,Electronics,1,68366.51,7866.04,Nagpur,UPI
+ORD00559,2023-12-06,C230,Keyboard,Accessories,4,13209.9,2489.44,Pune,Cash
+ORD00560,2023-12-07,C092,Smartphone,Electronics,4,144047.16,15059.54,Pune,Credit Card
+ORD00561,2023-12-07,C214,Monitor,Electronics,2,38087.7,4349.11,Nashik,Debit Card
+ORD00562,2023-12-08,C207,Headphones,Accessories,4,18983.12,4510.56,Nagpur,Debit Card
+ORD00563,2023-12-09,C133,Headphones,Accessories,2,7711.78,826.04,Nagpur,Credit Card
+ORD00564,2023-12-09,C109,Keyboard,Accessories,1,3262.27,675.13,Amravati,Debit Card
+ORD00565,2023-12-10,C234,Tablet,Electronics,4,99157.16,12146.03,Nagpur,Net Banking
+ORD00566,2023-12-10,C153,Mouse,Accessories,3,4019.17,373.9,Nashik,Net Banking
+ORD00567,2023-12-11,C097,Keyboard,Accessories,2,6174.14,1481.73,Nagpur,Net Banking
+ORD00568,2023-12-12,C109,Mouse,Accessories,1,1210.79,112.84,Mumbai,UPI
+ORD00569,2023-12-12,C214,Headphones,Accessories,1,4611.95,1042.25,Nagpur,Net Banking
+ORD00570,2023-12-13,C160,Monitor,Electronics,1,19125.06,2866.58,Amravati,Net Banking
+ORD00571,2023-12-13,C289,Laptop,Electronics,3,204437.18,21963.03,Nagpur,Debit Card
+ORD00572,2023-12-14,C122,Printer,Office,2,33596.38,7723.22,Pune,Cash
+ORD00573,2023-12-15,C167,Tablet,Electronics,4,105929.83,14074.94,Mumbai,Cash
+ORD00574,2023-12-15,C137,Printer,Office,4,57408.42,14217.88,Nagpur,UPI
+ORD00575,2023-12-16,C141,Tablet,Electronics,3,88203.75,9630.79,Nagpur,Credit Card
+ORD00576,2023-12-16,C048,Mouse,Accessories,4,6402.4,1540.86,Nagpur,Net Banking
+ORD00577,2023-12-17,C071,Printer,Office,1,13707.23,2709.27,Nashik,Net Banking
+ORD00578,2023-12-18,C103,Smartphone,Electronics,1,35718.5,6979.85,Nashik,UPI
+ORD00579,2023-12-18,C282,Laptop,Electronics,2,163827.14,30608.23,Amravati,UPI
+ORD00580,2023-12-19,C093,Headphones,Accessories,4,15708.56,3118.73,Nagpur,UPI
+ORD00581,2023-12-20,C147,Tablet,Electronics,4,117925.98,18481.36,Pune,UPI
+ORD00582,2023-12-20,C181,Mouse,Accessories,3,4214.57,671.27,Nagpur,Credit Card
+ORD00583,2023-12-21,C292,Tablet,Electronics,4,106093.6,18258.64,Amravati,Cash
+ORD00584,2023-12-21,C045,Laptop,Electronics,1,72930.29,6753.19,Amravati,Net Banking
+ORD00585,2023-12-22,C040,Tablet,Electronics,2,49597.99,6923.31,Mumbai,Cash
+ORD00586,2023-12-23,C122,Tablet,Electronics,4,102608.86,20815.79,Mumbai,Debit Card
+ORD00587,2023-12-23,C159,Headphones,Accessories,3,13288.59,1906.26,Amravati,Credit Card
+ORD00588,2023-12-24,C136,Mouse,Accessories,4,6071.96,1051.85,Nagpur,Credit Card
+ORD00589,2023-12-24,C209,Smartphone,Electronics,1,30636.47,5979.34,Mumbai,Net Banking
+ORD00590,2023-12-25,C059,Tablet,Electronics,4,111382.72,22415.78,Amravati,UPI
+ORD00591,2023-12-26,C277,Monitor,Electronics,4,67638.5,8380.36,Pune,Cash
+ORD00592,2023-12-26,C062,Smartphone,Electronics,1,36048.01,6203.14,Pune,Cash
+ORD00593,2023-12-27,C059,Smartphone,Electronics,1,34171.8,3908.68,Nagpur,Net Banking
+ORD00594,2023-12-27,C204,Tablet,Electronics,2,58500.98,8905.29,Pune,Cash
+ORD00595,2023-12-28,C279,Tablet,Electronics,3,95256.3,9784.78,Pune,UPI
+ORD00596,2023-12-29,C239,Printer,Office,2,33090.33,6541.99,Mumbai,Debit Card
+ORD00597,2023-12-29,C110,Headphones,Accessories,1,3926.76,441.59,Nashik,Debit Card
+ORD00598,2023-12-30,C207,Keyboard,Accessories,3,8625.71,1078.11,Amravati,Cash
+ORD00599,2023-12-30,C165,Smartphone,Electronics,1,35268.25,4123.89,Nashik,Net Banking
+ORD00600,2023-12-31,C120,Printer,Office,3,46250.02,10181.28,Pune,UPI
+ORD00601,2024-01-01,C104,Printer,Office,2,30714.19,7161.42,Nashik,Credit Card
+ORD00602,2024-01-01,C182,Smartphone,Electronics,4,167016.78,20431.41,Nashik,Debit Card
+ORD00603,2024-01-02,C163,Keyboard,Accessories,4,14374.5,3121.18,Nashik,Net Banking
+ORD00604,2024-01-03,C187,Laptop,Electronics,3,202996.88,17013.66,Nashik,Debit Card
+ORD00605,2024-01-03,C256,Headphones,Accessories,3,12678.4,1300.16,Mumbai,Credit Card
+ORD00606,2024-01-04,C125,Tablet,Electronics,3,94629.54,17618.54,Pune,Debit Card
+ORD00607,2024-01-04,C276,Laptop,Electronics,4,330724.65,48341.75,Mumbai,Debit Card
+ORD00608,2024-01-05,C197,Headphones,Accessories,2,8858.51,1223.57,Mumbai,Net Banking
+ORD00609,2024-01-06,C203,Tablet,Electronics,1,30442.17,5505.07,Mumbai,Net Banking
+ORD00610,2024-01-06,C210,Smartphone,Electronics,3,127041.31,24795.97,Mumbai,Net Banking
+ORD00611,2024-01-07,C182,Keyboard,Accessories,1,3338.12,819.92,Pune,Debit Card
+ORD00612,2024-01-07,C193,Laptop,Electronics,4,278903.05,60729.45,Amravati,Credit Card
+ORD00613,2024-01-08,C112,Monitor,Electronics,1,19261.67,1603.62,Nagpur,Debit Card
+ORD00614,2024-01-09,C118,Tablet,Electronics,3,89499.99,19912.53,Amravati,Debit Card
+ORD00615,2024-01-09,C026,Keyboard,Accessories,4,14454.16,2735.28,Mumbai,Cash
+ORD00616,2024-01-10,C008,Printer,Office,3,48687.64,4325.32,Nashik,Credit Card
+ORD00617,2024-01-10,C235,Headphones,Accessories,1,4968.76,1143.29,Nashik,Debit Card
+ORD00618,2024-01-11,C181,Monitor,Electronics,4,80953.88,9182.69,Nagpur,Debit Card
+ORD00619,2024-01-12,C264,Tablet,Electronics,4,122744.59,22402.94,Nashik,Cash
+ORD00620,2024-01-12,C268,Keyboard,Accessories,3,9107.93,1402.78,Nagpur,UPI
+ORD00621,2024-01-13,C290,Printer,Office,2,30056.81,3481.62,Mumbai,Cash
+ORD00622,2024-01-13,C052,Smartphone,Electronics,2,78269.55,18800.75,Nashik,Cash
+ORD00623,2024-01-14,C110,Tablet,Electronics,1,25156.27,5426.45,Nashik,Cash
+ORD00624,2024-01-15,C125,Smartphone,Electronics,3,114761.24,16313.46,Nashik,Cash
+ORD00625,2024-01-15,C278,Mouse,Accessories,2,3082.49,426.15,Pune,Debit Card
+ORD00626,2024-01-16,C192,Keyboard,Accessories,2,6800.99,1473.41,Pune,Debit Card
+ORD00627,2024-01-17,C223,Keyboard,Accessories,4,13377.7,2074.84,Pune,UPI
+ORD00628,2024-01-17,C226,Monitor,Electronics,2,39453.93,5047.19,Nagpur,Net Banking
+ORD00629,2024-01-18,C106,Laptop,Electronics,4,296870.24,57270.51,Nashik,UPI
+ORD00630,2024-01-18,C218,Printer,Office,1,15947.03,3825.23,Mumbai,Net Banking
+ORD00631,2024-01-19,C211,Smartphone,Electronics,1,39646.69,6428.34,Amravati,UPI
+ORD00632,2024-01-20,C295,Tablet,Electronics,4,132750.29,19800.61,Amravati,Debit Card
+ORD00633,2024-01-20,C229,Laptop,Electronics,4,286464.53,69251.55,Mumbai,Net Banking
+ORD00634,2024-01-21,C095,Laptop,Electronics,4,285236.11,46560.85,Amravati,Cash
+ORD00635,2024-01-21,C120,Monitor,Electronics,4,89149.32,9272.24,Amravati,Net Banking
+ORD00636,2024-01-22,C237,Headphones,Accessories,3,12653.12,1482.7,Pune,Net Banking
+ORD00637,2024-01-23,C032,Headphones,Accessories,4,15571.58,3325.46,Mumbai,Credit Card
+ORD00638,2024-01-23,C177,Tablet,Electronics,4,125777.54,11922.82,Mumbai,Net Banking
+ORD00639,2024-01-24,C254,Monitor,Electronics,1,20787.92,2442.28,Nashik,Credit Card
+ORD00640,2024-01-24,C013,Keyboard,Accessories,3,9201.16,1657.3,Nashik,Credit Card
+ORD00641,2024-01-25,C273,Smartphone,Electronics,1,44267.25,4685.61,Pune,Credit Card
+ORD00642,2024-01-26,C264,Tablet,Electronics,1,30913.97,7437.69,Mumbai,Credit Card
+ORD00643,2024-01-26,C246,Monitor,Electronics,3,63508.69,11723.27,Pune,UPI
+ORD00644,2024-01-27,C221,Headphones,Accessories,3,15110.72,3611.15,Pune,Net Banking
+ORD00645,2024-01-27,C180,Tablet,Electronics,1,26469.33,5132.55,Pune,Cash
+ORD00646,2024-01-28,C180,Monitor,Electronics,1,21047.92,1863.61,Nagpur,UPI
+ORD00647,2024-01-29,C098,Keyboard,Accessories,1,3258.07,274.48,Nagpur,Cash
+ORD00648,2024-01-29,C072,Laptop,Electronics,1,75074.96,7430.23,Mumbai,Cash
+ORD00649,2024-01-30,C171,Laptop,Electronics,3,212305.43,44081.15,Nagpur,UPI
+ORD00650,2024-01-31,C056,Printer,Office,2,35266.97,6882.59,Pune,Net Banking
+ORD00651,2024-01-31,C139,Mouse,Accessories,4,5983.15,766.3,Nagpur,Net Banking
+ORD00652,2024-02-01,C156,Tablet,Electronics,2,60538.72,11716.51,Mumbai,UPI
+ORD00653,2024-02-01,C293,Headphones,Accessories,3,13902.31,2576.58,Mumbai,Cash
+ORD00654,2024-02-02,C299,Keyboard,Accessories,2,6450.76,820.34,Amravati,Credit Card
+ORD00655,2024-02-03,C188,Mouse,Accessories,4,6936.61,963.99,Mumbai,Credit Card
+ORD00656,2024-02-03,C184,Keyboard,Accessories,3,12076.79,1258.2,Mumbai,Cash
+ORD00657,2024-02-04,C208,Laptop,Electronics,2,165516.73,39563.85,Pune,Cash
+ORD00658,2024-02-04,C184,Headphones,Accessories,4,18788.13,2029.69,Amravati,Net Banking
+ORD00659,2024-02-05,C073,Laptop,Electronics,3,199734.59,31970.17,Pune,Cash
+ORD00660,2024-02-06,C152,Printer,Office,4,67008.95,11943.77,Nashik,Debit Card
+ORD00661,2024-02-06,C162,Smartphone,Electronics,3,131966.35,19782.23,Pune,Cash
+ORD00662,2024-02-07,C176,Keyboard,Accessories,3,9532.69,1240.8,Nagpur,UPI
+ORD00663,2024-02-07,C116,Smartphone,Electronics,2,84748.61,19215.31,Nashik,Net Banking
+ORD00664,2024-02-08,C143,Laptop,Electronics,4,322423.37,41576.72,Pune,Credit Card
+ORD00665,2024-02-09,C070,Headphones,Accessories,4,20773.66,3722.91,Nagpur,Debit Card
+ORD00666,2024-02-09,C091,Printer,Office,4,74446.58,15232.52,Pune,Net Banking
+ORD00667,2024-02-10,C242,Keyboard,Accessories,3,12086.69,2812.88,Pune,UPI
+ORD00668,2024-02-10,C203,Keyboard,Accessories,1,3722.64,350.17,Nashik,Net Banking
+ORD00669,2024-02-11,C197,Smartphone,Electronics,1,41265.05,3947.77,Nagpur,Debit Card
+ORD00670,2024-02-12,C188,Printer,Office,2,31863.07,6551.28,Mumbai,Debit Card
+ORD00671,2024-02-12,C220,Keyboard,Accessories,4,12044.41,2884.8,Pune,UPI
+ORD00672,2024-02-13,C184,Monitor,Electronics,3,65944.68,14042.83,Pune,Cash
+ORD00673,2024-02-14,C249,Laptop,Electronics,4,271047.1,67274.81,Pune,Credit Card
+ORD00674,2024-02-14,C166,Mouse,Accessories,3,5094.79,1118.4,Mumbai,Net Banking
+ORD00675,2024-02-15,C078,Printer,Office,4,60900.12,13512.55,Nashik,Debit Card
+ORD00676,2024-02-15,C143,Headphones,Accessories,2,9968.8,1443.17,Nashik,Debit Card
+ORD00677,2024-02-16,C197,Mouse,Accessories,1,1565.78,129.72,Pune,UPI
+ORD00678,2024-02-17,C005,Monitor,Electronics,1,19932.54,3633.42,Pune,Cash
+ORD00679,2024-02-17,C249,Headphones,Accessories,2,10756.52,1467.82,Nashik,Cash
+ORD00680,2024-02-18,C239,Monitor,Electronics,3,70928.64,13063.3,Amravati,Debit Card
+ORD00681,2024-02-18,C044,Laptop,Electronics,3,244936.88,36384.23,Nashik,Net Banking
+ORD00682,2024-02-19,C065,Laptop,Electronics,3,193755.98,23910.88,Mumbai,Cash
+ORD00683,2024-02-20,C239,Mouse,Accessories,2,3684.4,338.66,Amravati,Debit Card
+ORD00684,2024-02-20,C284,Printer,Office,4,74408.71,17428.92,Nashik,Credit Card
+ORD00685,2024-02-21,C201,Monitor,Electronics,3,63340.13,12943.73,Nashik,Credit Card
+ORD00686,2024-02-21,C103,Printer,Office,3,44245.43,10567.21,Pune,Net Banking
+ORD00687,2024-02-22,C197,Laptop,Electronics,4,345765.14,58890.71,Nashik,Net Banking
+ORD00688,2024-02-23,C173,Monitor,Electronics,4,80643.37,12537.11,Nashik,Credit Card
+ORD00689,2024-02-23,C106,Mouse,Accessories,2,3447.26,569.08,Pune,Credit Card
+ORD00690,2024-02-24,C212,Printer,Office,1,16394.97,2171.34,Mumbai,Debit Card
+ORD00691,2024-02-24,C297,Smartphone,Electronics,3,136940.99,18506.04,Mumbai,Net Banking
+ORD00692,2024-02-25,C291,Printer,Office,2,36751.72,8065.99,Nagpur,Cash
+ORD00693,2024-02-26,C076,Headphones,Accessories,4,18416.59,3915.96,Nagpur,Credit Card
+ORD00694,2024-02-26,C279,Laptop,Electronics,3,273254.55,65458.15,Pune,Debit Card
+ORD00695,2024-02-27,C281,Mouse,Accessories,3,5034.81,1187.61,Amravati,Credit Card
+ORD00696,2024-02-28,C025,Mouse,Accessories,4,5307.29,801.85,Pune,Credit Card
+ORD00697,2024-02-28,C116,Laptop,Electronics,2,144800.23,11992.46,Pune,Credit Card
+ORD00698,2024-02-29,C214,Tablet,Electronics,3,91496.79,7688.5,Nashik,UPI
+ORD00699,2024-02-29,C241,Printer,Office,2,32281.07,2798.66,Mumbai,Credit Card
+ORD00700,2024-03-01,C144,Tablet,Electronics,1,31261.42,6386.61,Nagpur,Cash
+ORD00701,2024-03-02,C246,Tablet,Electronics,3,100849.57,14310.47,Pune,Credit Card
+ORD00702,2024-03-02,C072,Tablet,Electronics,3,86697.72,17391.96,Amravati,Cash
+ORD00703,2024-03-03,C292,Mouse,Accessories,2,3313.74,443.99,Nashik,Net Banking
+ORD00704,2024-03-03,C118,Smartphone,Electronics,4,164382.77,18550.99,Nashik,Cash
+ORD00705,2024-03-04,C180,Mouse,Accessories,2,3188.05,614.26,Amravati,Net Banking
+ORD00706,2024-03-05,C228,Mouse,Accessories,1,1554.56,212.74,Amravati,Debit Card
+ORD00707,2024-03-05,C285,Mouse,Accessories,2,3262.6,766.18,Amravati,UPI
+ORD00708,2024-03-06,C224,Headphones,Accessories,3,13930.15,1969.48,Pune,Net Banking
+ORD00709,2024-03-06,C221,Headphones,Accessories,4,17261.84,3736.92,Amravati,Cash
+ORD00710,2024-03-07,C231,Keyboard,Accessories,3,11582.2,1511.93,Mumbai,Debit Card
+ORD00711,2024-03-08,C288,Headphones,Accessories,2,10292.37,1070.29,Amravati,Credit Card
+ORD00712,2024-03-08,C126,Smartphone,Electronics,1,44405.77,4732.5,Mumbai,Net Banking
+ORD00713,2024-03-09,C068,Headphones,Accessories,2,10028.53,1662.58,Mumbai,Credit Card
+ORD00714,2024-03-09,C189,Headphones,Accessories,3,14550.72,2795.22,Mumbai,Net Banking
+ORD00715,2024-03-10,C273,Printer,Office,2,29899.48,5537.12,Nashik,Debit Card
+ORD00716,2024-03-11,C004,Printer,Office,1,14428.97,1471.17,Pune,Credit Card
+ORD00717,2024-03-11,C047,Keyboard,Accessories,3,10056.97,1137.96,Amravati,Net Banking
+ORD00718,2024-03-12,C280,Smartphone,Electronics,3,96094.59,11821.03,Amravati,Cash
+ORD00719,2024-03-13,C195,Tablet,Electronics,2,60792.46,14824.24,Amravati,Debit Card
+ORD00720,2024-03-13,C144,Smartphone,Electronics,3,126971.5,22984.52,Pune,Cash
+ORD00721,2024-03-14,C266,Headphones,Accessories,2,9285.02,771.82,Amravati,Credit Card
+ORD00722,2024-03-14,C042,Printer,Office,1,16839.59,3137.32,Nashik,Net Banking
+ORD00723,2024-03-15,C012,Headphones,Accessories,1,4709.83,759.93,Nagpur,Cash
+ORD00724,2024-03-16,C226,Smartphone,Electronics,1,47647.51,8855.98,Amravati,Cash
+ORD00725,2024-03-16,C159,Smartphone,Electronics,1,47471.45,7773.06,Nagpur,Credit Card
+ORD00726,2024-03-17,C156,Mouse,Accessories,3,5584.4,1292.04,Amravati,Net Banking
+ORD00727,2024-03-17,C216,Monitor,Electronics,4,91687.45,20425.16,Pune,Credit Card
+ORD00728,2024-03-18,C036,Keyboard,Accessories,2,6010.18,627.21,Nashik,Cash
+ORD00729,2024-03-19,C148,Headphones,Accessories,2,8833.63,1964.42,Pune,Debit Card
+ORD00730,2024-03-19,C187,Monitor,Electronics,4,92865.49,19369.59,Nashik,Cash
+ORD00731,2024-03-20,C087,Mouse,Accessories,4,6855.29,597.92,Nashik,Cash
+ORD00732,2024-03-20,C044,Laptop,Electronics,1,72912.25,11543.02,Pune,Net Banking
+ORD00733,2024-03-21,C043,Mouse,Accessories,3,5852.74,1244.11,Nagpur,Net Banking
+ORD00734,2024-03-22,C083,Monitor,Electronics,3,61751.8,8683.62,Nashik,Debit Card
+ORD00735,2024-03-22,C095,Keyboard,Accessories,3,10973.26,2393.09,Pune,Net Banking
+ORD00736,2024-03-23,C072,Mouse,Accessories,4,7470.96,884.37,Nagpur,Cash
+ORD00737,2024-03-23,C016,Keyboard,Accessories,3,10815.97,1026.44,Mumbai,Cash
+ORD00738,2024-03-24,C058,Headphones,Accessories,3,15626.23,3408.4,Nashik,UPI
+ORD00739,2024-03-25,C161,Laptop,Electronics,2,174963.26,23373.47,Mumbai,Cash
+ORD00740,2024-03-25,C204,Tablet,Electronics,1,34839.75,6213.45,Amravati,Net Banking
+ORD00741,2024-03-26,C173,Keyboard,Accessories,1,3534.76,880.5,Mumbai,Net Banking
+ORD00742,2024-03-27,C052,Mouse,Accessories,4,7710.99,1622.97,Nashik,Net Banking
+ORD00743,2024-03-27,C240,Headphones,Accessories,3,14889.18,3629.86,Mumbai,Credit Card
+ORD00744,2024-03-28,C137,Monitor,Electronics,3,64122.81,8158.58,Amravati,Debit Card
+ORD00745,2024-03-28,C267,Printer,Office,3,52218.87,4769.57,Pune,Credit Card
+ORD00746,2024-03-29,C275,Tablet,Electronics,3,99335.3,8648.97,Amravati,UPI
+ORD00747,2024-03-30,C267,Smartphone,Electronics,4,196699.74,27935.26,Nashik,Cash
+ORD00748,2024-03-30,C140,Laptop,Electronics,4,334721.66,66708.52,Mumbai,Debit Card
+ORD00749,2024-03-31,C075,Mouse,Accessories,1,1602.75,312.32,Nagpur,Credit Card
+ORD00750,2024-03-31,C215,Tablet,Electronics,4,140692.5,33612.01,Nashik,Credit Card
+ORD00751,2024-04-01,C164,Keyboard,Accessories,3,10687.44,967.71,Mumbai,Cash
+ORD00752,2024-04-02,C093,Laptop,Electronics,3,243273.95,38144.31,Nashik,UPI
+ORD00753,2024-04-02,C244,Tablet,Electronics,2,71187.2,11044.39,Pune,UPI
+ORD00754,2024-04-03,C210,Smartphone,Electronics,3,117717.86,22400.55,Nagpur,UPI
+ORD00755,2024-04-03,C161,Smartphone,Electronics,2,87465.6,8650.83,Nagpur,Cash
+ORD00756,2024-04-04,C132,Mouse,Accessories,4,5955.66,641.14,Mumbai,Credit Card
+ORD00757,2024-04-05,C008,Keyboard,Accessories,1,3559.49,344.42,Nashik,Debit Card
+ORD00758,2024-04-05,C299,Keyboard,Accessories,2,6956.5,1183.27,Mumbai,UPI
+ORD00759,2024-04-06,C187,Smartphone,Electronics,4,161991.35,17129.9,Amravati,Net Banking
+ORD00760,2024-04-06,C039,Laptop,Electronics,3,229083.44,54917.41,Nagpur,Cash
+ORD00761,2024-04-07,C292,Headphones,Accessories,2,10905.21,2570.18,Pune,Credit Card
+ORD00762,2024-04-08,C257,Mouse,Accessories,3,4913.25,1178.93,Pune,Credit Card
+ORD00763,2024-04-08,C086,Monitor,Electronics,2,45146.4,3920.9,Mumbai,Net Banking
+ORD00764,2024-04-09,C030,Smartphone,Electronics,3,121236.03,30219.1,Nagpur,Credit Card
+ORD00765,2024-04-10,C180,Laptop,Electronics,2,149980.63,23213.32,Nashik,Cash
+ORD00766,2024-04-10,C171,Headphones,Accessories,2,9766.63,1776.63,Pune,Cash
+ORD00767,2024-04-11,C196,Headphones,Accessories,1,4940.71,562.75,Nagpur,Credit Card
+ORD00768,2024-04-11,C172,Mouse,Accessories,4,6169.42,1075.31,Pune,UPI
+ORD00769,2024-04-12,C179,Monitor,Electronics,1,21453.48,3230.28,Nagpur,UPI
+ORD00770,2024-04-13,C215,Smartphone,Electronics,1,43724.77,9590.31,Nashik,Credit Card
+ORD00771,2024-04-13,C123,Mouse,Accessories,4,7017.98,1007.41,Mumbai,Debit Card
+ORD00772,2024-04-14,C035,Smartphone,Electronics,4,190410.6,23136.31,Amravati,Net Banking
+ORD00773,2024-04-14,C175,Mouse,Accessories,3,5058.24,571.62,Amravati,Debit Card
+ORD00774,2024-04-15,C016,Mouse,Accessories,3,5442.27,501.21,Nashik,Debit Card
+ORD00775,2024-04-16,C015,Printer,Office,1,18107.48,1598.49,Pune,UPI
+ORD00776,2024-04-16,C001,Headphones,Accessories,4,20357.46,3445.15,Pune,Debit Card
+ORD00777,2024-04-17,C188,Printer,Office,2,28982.85,6934.95,Pune,UPI
+ORD00778,2024-04-17,C134,Keyboard,Accessories,1,3053.44,274.96,Nashik,Debit Card
+ORD00779,2024-04-18,C092,Laptop,Electronics,2,171579.09,18681.25,Mumbai,Debit Card
+ORD00780,2024-04-19,C220,Printer,Office,3,47100.05,7080.33,Nagpur,Cash
+ORD00781,2024-04-19,C094,Headphones,Accessories,1,5689.77,760.22,Nashik,Net Banking
+ORD00782,2024-04-20,C066,Mouse,Accessories,1,1831.03,162.35,Pune,Net Banking
+ORD00783,2024-04-20,C035,Smartphone,Electronics,3,121065.88,25788.53,Nashik,Credit Card
+ORD00784,2024-04-21,C216,Headphones,Accessories,2,9082.45,2009.09,Nagpur,UPI
+ORD00785,2024-04-22,C187,Tablet,Electronics,3,91133.25,18613.78,Nagpur,Debit Card
+ORD00786,2024-04-22,C126,Keyboard,Accessories,3,11817.3,1081.94,Nagpur,Net Banking
+ORD00787,2024-04-23,C126,Smartphone,Electronics,3,127975.92,22173.11,Amravati,Cash
+ORD00788,2024-04-24,C046,Printer,Office,3,47779.18,7038.84,Amravati,Net Banking
+ORD00789,2024-04-24,C115,Smartphone,Electronics,4,170818.48,23956.29,Mumbai,Debit Card
+ORD00790,2024-04-25,C146,Monitor,Electronics,4,80158.66,11288.58,Nagpur,Net Banking
+ORD00791,2024-04-25,C168,Laptop,Electronics,3,279896.73,32389.15,Mumbai,Credit Card
+ORD00792,2024-04-26,C134,Monitor,Electronics,2,49157.05,4294.54,Mumbai,UPI
+ORD00793,2024-04-27,C077,Mouse,Accessories,1,1563.07,261.41,Nagpur,Cash
+ORD00794,2024-04-27,C028,Mouse,Accessories,2,3385.38,512.03,Nagpur,Credit Card
+ORD00795,2024-04-28,C038,Laptop,Electronics,2,159975.96,20565.94,Nashik,Debit Card
+ORD00796,2024-04-28,C225,Headphones,Accessories,2,9999.11,2400.29,Mumbai,Credit Card
+ORD00797,2024-04-29,C001,Printer,Office,1,16222.21,1997.18,Amravati,UPI
+ORD00798,2024-04-30,C226,Mouse,Accessories,1,1701.12,385.27,Nashik,Debit Card
+ORD00799,2024-04-30,C042,Monitor,Electronics,3,57488.53,7098.48,Mumbai,UPI
+ORD00800,2024-05-01,C034,Smartphone,Electronics,4,179116.23,20377.98,Nagpur,Net Banking
+ORD00801,2024-05-01,C039,Mouse,Accessories,2,3173.03,702.39,Pune,Credit Card
+ORD00802,2024-05-02,C088,Headphones,Accessories,1,4954.63,576.61,Amravati,Net Banking
+ORD00803,2024-05-03,C272,Laptop,Electronics,3,250752.25,59821.46,Mumbai,UPI
+ORD00804,2024-05-03,C276,Keyboard,Accessories,1,3670.39,579.73,Pune,Credit Card
+ORD00805,2024-05-04,C191,Mouse,Accessories,1,1627.62,306.88,Nagpur,Net Banking
+ORD00806,2024-05-04,C298,Tablet,Electronics,3,90150.66,21054.51,Nashik,Cash
+ORD00807,2024-05-05,C199,Printer,Office,1,15296.73,3194.98,Pune,Cash
+ORD00808,2024-05-06,C151,Monitor,Electronics,3,66929.74,16465.75,Nashik,Credit Card
+ORD00809,2024-05-06,C236,Tablet,Electronics,1,32733.42,7992.15,Nagpur,Net Banking
+ORD00810,2024-05-07,C220,Smartphone,Electronics,1,45640.94,9309.96,Pune,Debit Card
+ORD00811,2024-05-08,C214,Smartphone,Electronics,3,145486.1,30070.01,Mumbai,Cash
+ORD00812,2024-05-08,C144,Tablet,Electronics,2,57085.91,6494.51,Nagpur,Cash
+ORD00813,2024-05-09,C100,Monitor,Electronics,1,22949.7,2394.51,Mumbai,UPI
+ORD00814,2024-05-09,C232,Laptop,Electronics,4,290651.15,47274.27,Mumbai,Credit Card
+ORD00815,2024-05-10,C007,Keyboard,Accessories,4,14342.12,1884.83,Mumbai,Credit Card
+ORD00816,2024-05-11,C215,Smartphone,Electronics,4,171537.78,18000.86,Nashik,UPI
+ORD00817,2024-05-11,C284,Monitor,Electronics,1,19166.89,2327.0,Mumbai,Debit Card
+ORD00818,2024-05-12,C090,Headphones,Accessories,1,5205.28,537.92,Nashik,Debit Card
+ORD00819,2024-05-12,C109,Printer,Office,3,50070.02,11313.13,Nagpur,Net Banking
+ORD00820,2024-05-13,C196,Monitor,Electronics,4,86723.13,16929.48,Mumbai,Debit Card
+ORD00821,2024-05-14,C230,Tablet,Electronics,2,65873.43,16014.51,Amravati,UPI
+ORD00822,2024-05-14,C178,Tablet,Electronics,3,89768.67,17507.55,Amravati,Net Banking
+ORD00823,2024-05-15,C224,Laptop,Electronics,3,216413.93,47801.62,Mumbai,Cash
+ORD00824,2024-05-15,C270,Monitor,Electronics,2,50028.29,7423.1,Nashik,Net Banking
+ORD00825,2024-05-16,C050,Monitor,Electronics,3,65255.65,6469.47,Pune,Debit Card
+ORD00826,2024-05-17,C264,Monitor,Electronics,2,44351.95,8308.63,Mumbai,Net Banking
+ORD00827,2024-05-17,C222,Laptop,Electronics,2,148614.78,15407.37,Amravati,UPI
+ORD00828,2024-05-18,C079,Mouse,Accessories,1,1875.9,167.98,Amravati,UPI
+ORD00829,2024-05-18,C192,Mouse,Accessories,2,3348.19,286.79,Nashik,UPI
+ORD00830,2024-05-19,C209,Headphones,Accessories,2,8884.97,2195.17,Nashik,UPI
+ORD00831,2024-05-20,C291,Printer,Office,2,29445.57,6285.48,Nashik,Credit Card
+ORD00832,2024-05-20,C273,Smartphone,Electronics,4,145260.7,21967.03,Pune,Credit Card
+ORD00833,2024-05-21,C069,Keyboard,Accessories,1,3876.55,515.45,Amravati,Debit Card
+ORD00834,2024-05-22,C197,Laptop,Electronics,1,82675.7,9484.65,Pune,UPI
+ORD00835,2024-05-22,C162,Smartphone,Electronics,1,44768.17,5723.02,Nashik,Debit Card
+ORD00836,2024-05-23,C097,Headphones,Accessories,1,6091.1,1237.01,Nagpur,Cash
+ORD00837,2024-05-23,C284,Keyboard,Accessories,1,3187.21,591.63,Pune,UPI
+ORD00838,2024-05-24,C290,Monitor,Electronics,4,74776.46,17649.71,Pune,Credit Card
+ORD00839,2024-05-25,C113,Printer,Office,4,64111.63,10057.48,Nashik,Debit Card
+ORD00840,2024-05-25,C079,Monitor,Electronics,1,21591.77,3595.29,Pune,Debit Card
+ORD00841,2024-05-26,C146,Headphones,Accessories,2,9478.44,2060.34,Pune,Credit Card
+ORD00842,2024-05-26,C052,Laptop,Electronics,4,312682.08,77752.48,Pune,Debit Card
+ORD00843,2024-05-27,C298,Mouse,Accessories,1,1855.34,251.21,Mumbai,Debit Card
+ORD00844,2024-05-28,C065,Headphones,Accessories,4,20018.73,4678.44,Nagpur,UPI
+ORD00845,2024-05-28,C286,Printer,Office,4,58414.39,8818.07,Nashik,Debit Card
+ORD00846,2024-05-29,C042,Keyboard,Accessories,2,7358.91,1205.41,Pune,UPI
+ORD00847,2024-05-29,C207,Monitor,Electronics,2,42049.3,5494.63,Mumbai,Debit Card
+ORD00848,2024-05-30,C114,Laptop,Electronics,4,304048.38,25396.82,Nashik,UPI
+ORD00849,2024-05-31,C219,Keyboard,Accessories,1,3320.41,804.95,Nashik,Net Banking
+ORD00850,2024-05-31,C054,Printer,Office,4,68622.76,10623.63,Pune,Cash
+ORD00851,2024-06-01,C206,Laptop,Electronics,4,279724.39,36119.31,Mumbai,Credit Card
+ORD00852,2024-06-01,C140,Smartphone,Electronics,2,74692.09,9915.56,Nagpur,Cash
+ORD00853,2024-06-02,C045,Laptop,Electronics,2,144614.62,31067.83,Nagpur,Credit Card
+ORD00854,2024-06-03,C027,Mouse,Accessories,3,4463.74,555.09,Pune,UPI
+ORD00855,2024-06-03,C130,Monitor,Electronics,4,77935.07,18791.9,Pune,UPI
+ORD00856,2024-06-04,C208,Printer,Office,3,43735.77,8110.41,Nashik,Credit Card
+ORD00857,2024-06-05,C169,Tablet,Electronics,3,98766.24,15461.66,Mumbai,Credit Card
+ORD00858,2024-06-05,C105,Printer,Office,3,53693.02,11673.16,Nagpur,Net Banking
+ORD00859,2024-06-06,C226,Headphones,Accessories,4,16695.79,1757.17,Amravati,Net Banking
+ORD00860,2024-06-06,C074,Headphones,Accessories,4,20797.06,2131.4,Mumbai,Credit Card
+ORD00861,2024-06-07,C062,Tablet,Electronics,4,119579.78,20260.88,Mumbai,Cash
+ORD00862,2024-06-08,C130,Laptop,Electronics,4,312135.12,49859.5,Amravati,Credit Card
+ORD00863,2024-06-08,C203,Monitor,Electronics,1,22263.53,1877.02,Pune,UPI
+ORD00864,2024-06-09,C166,Mouse,Accessories,4,5885.05,711.72,Nagpur,Net Banking
+ORD00865,2024-06-09,C130,Printer,Office,4,65698.73,7842.58,Nagpur,Cash
+ORD00866,2024-06-10,C273,Headphones,Accessories,4,16686.71,2207.74,Nashik,Credit Card
+ORD00867,2024-06-11,C183,Printer,Office,2,34026.8,5884.43,Nashik,Credit Card
+ORD00868,2024-06-11,C212,Mouse,Accessories,1,1511.8,171.18,Nashik,Net Banking
+ORD00869,2024-06-12,C047,Smartphone,Electronics,1,44703.23,6151.16,Mumbai,Cash
+ORD00870,2024-06-12,C271,Laptop,Electronics,1,70247.21,8689.63,Amravati,Net Banking
+ORD00871,2024-06-13,C174,Monitor,Electronics,3,60530.47,11957.23,Amravati,UPI
+ORD00872,2024-06-14,C298,Smartphone,Electronics,4,150499.97,24552.3,Mumbai,UPI
+ORD00873,2024-06-14,C049,Keyboard,Accessories,1,2887.53,586.94,Pune,Debit Card
+ORD00874,2024-06-15,C118,Printer,Office,4,61336.1,13157.72,Amravati,Net Banking
+ORD00875,2024-06-15,C144,Headphones,Accessories,2,9167.92,830.85,Pune,Net Banking
+ORD00876,2024-06-16,C148,Monitor,Electronics,4,80730.38,14956.49,Nagpur,Debit Card
+ORD00877,2024-06-17,C212,Smartphone,Electronics,2,78426.11,6632.3,Mumbai,Cash
+ORD00878,2024-06-17,C002,Keyboard,Accessories,1,4058.99,597.82,Amravati,UPI
+ORD00879,2024-06-18,C098,Keyboard,Accessories,2,7758.86,953.33,Amravati,Credit Card
+ORD00880,2024-06-19,C066,Mouse,Accessories,4,6604.06,1009.69,Pune,UPI
+ORD00881,2024-06-19,C130,Monitor,Electronics,3,55635.94,5759.58,Amravati,Cash
+ORD00882,2024-06-20,C268,Tablet,Electronics,2,51966.72,9460.16,Pune,Cash
+ORD00883,2024-06-20,C192,Headphones,Accessories,4,19548.58,3277.61,Amravati,Credit Card
+ORD00884,2024-06-21,C222,Keyboard,Accessories,4,13341.99,2917.58,Nashik,Debit Card
+ORD00885,2024-06-22,C053,Printer,Office,3,56964.3,6561.66,Mumbai,Net Banking
+ORD00886,2024-06-22,C011,Printer,Office,3,54191.36,12143.37,Mumbai,Credit Card
+ORD00887,2024-06-23,C017,Mouse,Accessories,3,4744.43,492.91,Pune,Net Banking
+ORD00888,2024-06-23,C106,Printer,Office,1,16590.09,3686.49,Nashik,Debit Card
+ORD00889,2024-06-24,C119,Monitor,Electronics,2,43577.18,4914.98,Pune,UPI
+ORD00890,2024-06-25,C223,Smartphone,Electronics,2,74338.35,7228.26,Mumbai,UPI
+ORD00891,2024-06-25,C214,Keyboard,Accessories,3,9234.22,1334.86,Nagpur,Cash
+ORD00892,2024-06-26,C012,Smartphone,Electronics,1,41820.43,4227.97,Nagpur,Credit Card
+ORD00893,2024-06-26,C140,Smartphone,Electronics,2,85107.85,15827.89,Nagpur,Credit Card
+ORD00894,2024-06-27,C228,Printer,Office,2,29837.58,4083.43,Pune,Net Banking
+ORD00895,2024-06-28,C149,Keyboard,Accessories,4,15665.02,2418.86,Amravati,Credit Card
+ORD00896,2024-06-28,C135,Headphones,Accessories,3,13375.38,3101.47,Nagpur,UPI
+ORD00897,2024-06-29,C145,Smartphone,Electronics,2,82505.19,11032.55,Mumbai,Credit Card
+ORD00898,2024-06-29,C120,Headphones,Accessories,4,19240.07,2600.94,Nashik,Net Banking
+ORD00899,2024-06-30,C220,Laptop,Electronics,2,131219.53,27964.2,Nagpur,Cash
+ORD00900,2024-07-01,C283,Printer,Office,4,48408.84,5846.31,Pune,UPI
+ORD00901,2024-07-01,C226,Keyboard,Accessories,2,6452.45,646.96,Nagpur,Cash
+ORD00902,2024-07-02,C287,Printer,Office,2,29035.32,4212.74,Nagpur,Net Banking
+ORD00903,2024-07-03,C246,Smartphone,Electronics,2,75367.02,13930.93,Pune,Net Banking
+ORD00904,2024-07-03,C177,Headphones,Accessories,4,16706.21,1993.57,Mumbai,Credit Card
+ORD00905,2024-07-04,C042,Smartphone,Electronics,2,78517.7,15636.58,Mumbai,Credit Card
+ORD00906,2024-07-04,C279,Mouse,Accessories,2,3322.44,538.05,Mumbai,UPI
+ORD00907,2024-07-05,C112,Keyboard,Accessories,4,11833.12,1292.47,Nashik,Credit Card
+ORD00908,2024-07-06,C285,Headphones,Accessories,2,8824.69,1080.64,Mumbai,Credit Card
+ORD00909,2024-07-06,C108,Printer,Office,3,47102.03,11024.69,Amravati,Credit Card
+ORD00910,2024-07-07,C258,Mouse,Accessories,1,1486.99,271.44,Nashik,Credit Card
+ORD00911,2024-07-07,C032,Smartphone,Electronics,4,150484.42,31127.78,Nashik,Net Banking
+ORD00912,2024-07-08,C169,Mouse,Accessories,3,4583.54,1067.38,Nashik,Credit Card
+ORD00913,2024-07-09,C255,Monitor,Electronics,2,44797.98,6648.17,Amravati,Net Banking
+ORD00914,2024-07-09,C108,Headphones,Accessories,1,4388.79,507.06,Pune,Net Banking
+ORD00915,2024-07-10,C219,Mouse,Accessories,3,4486.95,471.82,Nashik,Debit Card
+ORD00916,2024-07-10,C068,Printer,Office,2,25867.86,5451.4,Nashik,Credit Card
+ORD00917,2024-07-11,C220,Laptop,Electronics,4,312211.41,71961.8,Nagpur,Cash
+ORD00918,2024-07-12,C284,Mouse,Accessories,2,3028.17,568.92,Mumbai,Net Banking
+ORD00919,2024-07-12,C058,Smartphone,Electronics,2,75679.99,12334.32,Mumbai,Credit Card
+ORD00920,2024-07-13,C071,Headphones,Accessories,4,16088.14,3006.0,Nagpur,Net Banking
+ORD00921,2024-07-13,C261,Printer,Office,3,48498.49,9969.0,Nashik,Debit Card
+ORD00922,2024-07-14,C004,Headphones,Accessories,3,12868.73,1474.67,Pune,Cash
+ORD00923,2024-07-15,C061,Laptop,Electronics,3,232888.27,35834.58,Nashik,Credit Card
+ORD00924,2024-07-15,C121,Tablet,Electronics,3,81593.95,14053.53,Pune,UPI
+ORD00925,2024-07-16,C028,Headphones,Accessories,4,16419.62,1990.59,Pune,Cash
+ORD00926,2024-07-17,C001,Keyboard,Accessories,1,3211.08,414.78,Pune,UPI
+ORD00927,2024-07-17,C090,Printer,Office,3,46818.04,10783.99,Nagpur,Cash
+ORD00928,2024-07-18,C199,Laptop,Electronics,3,201803.24,30235.04,Pune,UPI
+ORD00929,2024-07-18,C168,Printer,Office,4,60473.77,8623.71,Mumbai,Debit Card
+ORD00930,2024-07-19,C080,Smartphone,Electronics,3,116951.72,27447.18,Nagpur,Net Banking
+ORD00931,2024-07-20,C195,Monitor,Electronics,3,50983.53,7424.66,Nagpur,Credit Card
+ORD00932,2024-07-20,C076,Laptop,Electronics,2,112040.82,18116.46,Nashik,Cash
+ORD00933,2024-07-21,C207,Monitor,Electronics,4,80687.33,14104.72,Amravati,Net Banking
+ORD00934,2024-07-21,C037,Mouse,Accessories,3,4469.43,739.55,Nashik,Debit Card
+ORD00935,2024-07-22,C019,Headphones,Accessories,1,4411.63,576.32,Nashik,Cash
+ORD00936,2024-07-23,C068,Monitor,Electronics,1,18991.54,2055.86,Mumbai,Credit Card
+ORD00937,2024-07-23,C231,Smartphone,Electronics,1,38702.38,5262.33,Nashik,Credit Card
+ORD00938,2024-07-24,C128,Smartphone,Electronics,2,76269.43,15303.01,Mumbai,Net Banking
+ORD00939,2024-07-24,C213,Printer,Office,1,14305.83,1592.69,Nagpur,UPI
+ORD00940,2024-07-25,C062,Laptop,Electronics,1,76707.41,6390.2,Amravati,Net Banking
+ORD00941,2024-07-26,C141,Printer,Office,2,26561.22,4662.26,Nagpur,Net Banking
+ORD00942,2024-07-26,C108,Tablet,Electronics,1,27622.71,6843.17,Pune,UPI
+ORD00943,2024-07-27,C238,Laptop,Electronics,3,232287.23,55185.47,Amravati,Cash
+ORD00944,2024-07-27,C005,Headphones,Accessories,2,7926.95,1834.1,Nashik,Credit Card
+ORD00945,2024-07-28,C227,Monitor,Electronics,2,40986.22,8996.5,Nagpur,Debit Card
+ORD00946,2024-07-29,C055,Laptop,Electronics,3,241781.35,34047.24,Amravati,Cash
+ORD00947,2024-07-29,C198,Keyboard,Accessories,1,3218.0,647.43,Mumbai,Net Banking
+ORD00948,2024-07-30,C275,Mouse,Accessories,1,1691.01,396.76,Mumbai,Credit Card
+ORD00949,2024-07-31,C063,Smartphone,Electronics,3,113688.99,14074.41,Amravati,Debit Card
+ORD00950,2024-07-31,C246,Laptop,Electronics,1,71466.62,17811.03,Mumbai,UPI
+ORD00951,2024-08-01,C057,Monitor,Electronics,4,71122.98,9261.76,Mumbai,Cash
+ORD00952,2024-08-01,C203,Smartphone,Electronics,1,36222.91,8143.41,Mumbai,UPI
+ORD00953,2024-08-02,C283,Laptop,Electronics,3,203136.36,33996.36,Mumbai,Net Banking
+ORD00954,2024-08-03,C109,Keyboard,Accessories,4,12200.71,1470.3,Nagpur,Credit Card
+ORD00955,2024-08-03,C027,Monitor,Electronics,3,42766.07,10451.37,Amravati,Credit Card
+ORD00956,2024-08-04,C082,Tablet,Electronics,3,85600.02,19544.92,Amravati,Credit Card
+ORD00957,2024-08-04,C201,Monitor,Electronics,4,73778.93,10850.04,Mumbai,Debit Card
+ORD00958,2024-08-05,C158,Smartphone,Electronics,1,34532.78,5779.84,Amravati,Cash
+ORD00959,2024-08-06,C166,Printer,Office,1,14226.64,1427.22,Amravati,UPI
+ORD00960,2024-08-06,C140,Laptop,Electronics,3,192096.91,25675.22,Pune,Net Banking
+ORD00961,2024-08-07,C108,Keyboard,Accessories,2,6956.02,1174.35,Pune,UPI
+ORD00962,2024-08-07,C252,Keyboard,Accessories,3,9361.08,1833.07,Mumbai,Credit Card
+ORD00963,2024-08-08,C044,Headphones,Accessories,2,9734.9,1127.93,Pune,Net Banking
+ORD00964,2024-08-09,C214,Smartphone,Electronics,4,156165.87,18269.84,Pune,Debit Card
+ORD00965,2024-08-09,C004,Tablet,Electronics,1,26077.34,4835.78,Pune,UPI
+ORD00966,2024-08-10,C219,Keyboard,Accessories,2,5653.32,1182.99,Nashik,Debit Card
+ORD00967,2024-08-10,C176,Mouse,Accessories,4,5279.28,694.53,Mumbai,Cash
+ORD00968,2024-08-11,C141,Laptop,Electronics,4,227348.27,21723.78,Mumbai,UPI
+ORD00969,2024-08-12,C077,Keyboard,Accessories,4,13073.01,3252.57,Amravati,Credit Card
+ORD00970,2024-08-12,C022,Keyboard,Accessories,4,11165.71,2209.41,Mumbai,Debit Card
+ORD00971,2024-08-13,C039,Tablet,Electronics,4,124330.74,24592.18,Nashik,UPI
+ORD00972,2024-08-14,C013,Laptop,Electronics,1,66226.76,11704.07,Pune,UPI
+ORD00973,2024-08-14,C005,Laptop,Electronics,4,313515.47,25191.91,Pune,Debit Card
+ORD00974,2024-08-15,C116,Headphones,Accessories,3,11187.8,1226.26,Pune,Debit Card
+ORD00975,2024-08-15,C297,Printer,Office,3,44656.91,5927.76,Amravati,UPI
+ORD00976,2024-08-16,C199,Smartphone,Electronics,2,65273.58,10172.82,Nagpur,Net Banking
+ORD00977,2024-08-17,C130,Tablet,Electronics,2,52175.48,11055.94,Amravati,UPI
+ORD00978,2024-08-17,C072,Monitor,Electronics,4,76677.58,6639.41,Nashik,UPI
+ORD00979,2024-08-18,C166,Keyboard,Accessories,1,3545.0,304.32,Nashik,Net Banking
+ORD00980,2024-08-18,C138,Headphones,Accessories,3,10482.66,1360.14,Pune,Debit Card
+ORD00981,2024-08-19,C163,Printer,Office,4,57475.54,5617.27,Pune,Cash
+ORD00982,2024-08-20,C092,Smartphone,Electronics,2,77488.02,14984.56,Nashik,Net Banking
+ORD00983,2024-08-20,C128,Keyboard,Accessories,4,11103.61,2061.48,Pune,Net Banking
+ORD00984,2024-08-21,C226,Tablet,Electronics,2,59637.02,8691.4,Nashik,Credit Card
+ORD00985,2024-08-21,C179,Printer,Office,3,47529.91,10736.78,Amravati,Debit Card
+ORD00986,2024-08-22,C011,Printer,Office,4,60531.39,11046.48,Nagpur,Credit Card
+ORD00987,2024-08-23,C066,Tablet,Electronics,3,79412.06,11048.04,Mumbai,Cash
+ORD00988,2024-08-23,C193,Tablet,Electronics,3,73302.07,13918.06,Mumbai,Debit Card
+ORD00989,2024-08-24,C210,Monitor,Electronics,4,71762.8,10160.89,Amravati,Net Banking
+ORD00990,2024-08-24,C258,Printer,Office,2,29841.53,2666.86,Pune,Cash
+ORD00991,2024-08-25,C177,Headphones,Accessories,1,4614.56,634.5,Mumbai,Credit Card
+ORD00992,2024-08-26,C230,Mouse,Accessories,2,2964.74,648.9,Amravati,Credit Card
+ORD00993,2024-08-26,C259,Printer,Office,1,15440.68,1339.72,Amravati,Net Banking
+ORD00994,2024-08-27,C149,Printer,Office,4,56036.7,8858.37,Pune,Debit Card
+ORD00995,2024-08-28,C264,Headphones,Accessories,2,8439.47,1878.65,Nagpur,Net Banking
+ORD00996,2024-08-28,C200,Monitor,Electronics,4,66065.47,9035.34,Mumbai,Net Banking
+ORD00997,2024-08-29,C271,Printer,Office,4,50828.28,8788.26,Pune,Credit Card
+ORD00998,2024-08-29,C084,Mouse,Accessories,2,2825.01,315.61,Nashik,Net Banking
+ORD00999,2024-08-30,C166,Headphones,Accessories,3,14375.62,1192.81,Nashik,UPI
+ORD01000,2024-08-31,C091,Laptop,Electronics,1,70614.8,9059.17,Nashik,Credit Card
+ORD01001,2024-08-31,C221,Mouse,Accessories,3,4771.4,962.18,Nashik,Credit Card
+ORD01002,2024-09-01,C283,Monitor,Electronics,2,35491.59,4966.05,Pune,Credit Card
+ORD01003,2024-09-01,C067,Laptop,Electronics,1,61580.76,6032.49,Nashik,Credit Card
+ORD01004,2024-09-02,C082,Headphones,Accessories,1,4476.51,952.82,Pune,Cash
+ORD01005,2024-09-03,C209,Headphones,Accessories,1,4540.38,594.74,Mumbai,UPI
+ORD01006,2024-09-03,C105,Mouse,Accessories,4,5920.16,1433.68,Mumbai,Debit Card
+ORD01007,2024-09-04,C024,Printer,Office,2,28439.61,4613.12,Pune,Debit Card
+ORD01008,2024-09-04,C016,Printer,Office,4,59887.02,7053.98,Mumbai,UPI
+ORD01009,2024-09-05,C193,Tablet,Electronics,2,55079.01,7690.8,Pune,Debit Card
+ORD01010,2024-09-06,C075,Keyboard,Accessories,3,9944.5,2364.43,Pune,Credit Card
+ORD01011,2024-09-06,C259,Monitor,Electronics,1,19820.47,2435.83,Amravati,UPI
+ORD01012,2024-09-07,C079,Smartphone,Electronics,1,31275.39,3052.19,Pune,UPI
+ORD01013,2024-09-07,C288,Monitor,Electronics,3,56730.72,11134.87,Amravati,Net Banking
+ORD01014,2024-09-08,C112,Laptop,Electronics,4,239410.0,26816.66,Amravati,UPI
+ORD01015,2024-09-09,C022,Monitor,Electronics,1,22114.04,2172.21,Mumbai,Net Banking
+ORD01016,2024-09-09,C164,Keyboard,Accessories,1,3754.92,362.7,Amravati,Cash
+ORD01017,2024-09-10,C300,Keyboard,Accessories,1,2779.13,325.47,Nashik,Credit Card
+ORD01018,2024-09-11,C159,Mouse,Accessories,1,1410.64,326.52,Mumbai,UPI
+ORD01019,2024-09-11,C059,Monitor,Electronics,2,34024.86,2761.56,Nagpur,Debit Card
+ORD01020,2024-09-12,C002,Smartphone,Electronics,3,106793.85,10936.46,Mumbai,UPI
+ORD01021,2024-09-12,C270,Tablet,Electronics,3,80344.79,15041.19,Amravati,Debit Card
+ORD01022,2024-09-13,C032,Mouse,Accessories,1,1578.44,152.66,Pune,Debit Card
+ORD01023,2024-09-14,C100,Laptop,Electronics,1,70205.38,8634.02,Pune,UPI
+ORD01024,2024-09-14,C114,Headphones,Accessories,1,4543.23,366.32,Nagpur,Credit Card
+ORD01025,2024-09-15,C172,Mouse,Accessories,3,4983.57,522.46,Mumbai,Debit Card
+ORD01026,2024-09-15,C102,Tablet,Electronics,2,48366.45,8770.16,Nashik,Credit Card
+ORD01027,2024-09-16,C196,Smartphone,Electronics,2,79186.65,19787.92,Nagpur,Cash
+ORD01028,2024-09-17,C098,Keyboard,Accessories,1,2962.07,279.25,Amravati,Net Banking
+ORD01029,2024-09-17,C204,Headphones,Accessories,1,4170.34,404.63,Nashik,Debit Card
+ORD01030,2024-09-18,C062,Smartphone,Electronics,1,34734.13,4317.89,Mumbai,Cash
+ORD01031,2024-09-18,C297,Laptop,Electronics,3,195732.51,17990.1,Amravati,Cash
+ORD01032,2024-09-19,C110,Monitor,Electronics,2,39768.06,4829.05,Nashik,Credit Card
+ORD01033,2024-09-20,C162,Smartphone,Electronics,4,151186.16,21368.21,Nashik,Debit Card
+ORD01034,2024-09-20,C126,Mouse,Accessories,3,4490.77,721.54,Nashik,Debit Card
+ORD01035,2024-09-21,C146,Keyboard,Accessories,2,5733.53,1345.87,Nashik,Cash
+ORD01036,2024-09-21,C278,Printer,Office,4,63723.37,5278.47,Nashik,Debit Card
+ORD01037,2024-09-22,C098,Headphones,Accessories,2,7996.45,1485.23,Nagpur,UPI
+ORD01038,2024-09-23,C275,Tablet,Electronics,4,105303.26,21266.35,Nashik,Debit Card
+ORD01039,2024-09-23,C170,Monitor,Electronics,4,75056.5,11815.18,Nashik,Cash
+ORD01040,2024-09-24,C097,Laptop,Electronics,1,66817.79,10373.99,Pune,Cash
+ORD01041,2024-09-25,C133,Printer,Office,1,14067.36,2508.17,Nashik,Cash
+ORD01042,2024-09-25,C235,Laptop,Electronics,3,203969.52,31854.85,Pune,Credit Card
+ORD01043,2024-09-26,C176,Mouse,Accessories,2,3054.26,507.79,Nagpur,UPI
+ORD01044,2024-09-26,C046,Headphones,Accessories,2,9098.37,2145.84,Pune,Credit Card
+ORD01045,2024-09-27,C247,Printer,Office,2,29380.41,3310.99,Nashik,Credit Card
+ORD01046,2024-09-28,C262,Headphones,Accessories,2,10578.41,1449.45,Pune,Cash
+ORD01047,2024-09-28,C089,Tablet,Electronics,2,50197.44,7222.89,Nashik,Net Banking
+ORD01048,2024-09-29,C251,Laptop,Electronics,2,138708.26,29441.86,Nagpur,Cash
+ORD01049,2024-09-29,C230,Smartphone,Electronics,1,38059.3,5755.21,Mumbai,Credit Card
+ORD01050,2024-09-30,C192,Printer,Office,3,46414.55,8971.43,Nagpur,Debit Card
+ORD01051,2024-10-01,C129,Tablet,Electronics,2,50352.26,10170.42,Mumbai,Cash
+ORD01052,2024-10-01,C297,Monitor,Electronics,1,20209.22,4682.88,Pune,Net Banking
+ORD01053,2024-10-02,C143,Mouse,Accessories,4,6549.9,760.14,Amravati,Credit Card
+ORD01054,2024-10-02,C192,Laptop,Electronics,3,229127.54,32590.93,Mumbai,Credit Card
+ORD01055,2024-10-03,C256,Printer,Office,3,46933.61,8941.76,Nagpur,UPI
+ORD01056,2024-10-04,C294,Mouse,Accessories,3,4566.59,856.8,Nashik,UPI
+ORD01057,2024-10-04,C044,Laptop,Electronics,1,69666.81,11734.64,Amravati,Cash
+ORD01058,2024-10-05,C168,Mouse,Accessories,1,1538.99,360.61,Pune,Cash
+ORD01059,2024-10-05,C215,Tablet,Electronics,4,107288.61,18469.15,Nashik,UPI
+ORD01060,2024-10-06,C216,Mouse,Accessories,3,4816.41,535.06,Nagpur,Net Banking
+ORD01061,2024-10-07,C105,Tablet,Electronics,4,114379.19,14162.7,Mumbai,Debit Card
+ORD01062,2024-10-07,C058,Smartphone,Electronics,3,144521.24,26287.11,Nashik,Cash
+ORD01063,2024-10-08,C025,Mouse,Accessories,1,1522.16,140.46,Pune,UPI
+ORD01064,2024-10-09,C225,Printer,Office,2,22876.22,3717.37,Nagpur,Debit Card
+ORD01065,2024-10-09,C291,Mouse,Accessories,1,1593.26,150.16,Amravati,Net Banking
+ORD01066,2024-10-10,C185,Smartphone,Electronics,2,68635.75,8597.27,Mumbai,Cash
+ORD01067,2024-10-10,C200,Mouse,Accessories,4,4613.82,960.09,Pune,Cash
+ORD01068,2024-10-11,C205,Keyboard,Accessories,4,12916.81,1229.82,Nashik,Credit Card
+ORD01069,2024-10-12,C178,Monitor,Electronics,1,20080.5,2046.47,Nashik,Cash
+ORD01070,2024-10-12,C292,Tablet,Electronics,4,109238.88,23389.72,Nagpur,Net Banking
+ORD01071,2024-10-13,C263,Headphones,Accessories,4,18877.37,1917.12,Amravati,Credit Card
+ORD01072,2024-10-13,C227,Mouse,Accessories,4,6332.63,817.88,Pune,Credit Card
+ORD01073,2024-10-14,C277,Mouse,Accessories,3,4703.0,439.35,Nagpur,UPI
+ORD01074,2024-10-15,C093,Tablet,Electronics,1,30666.9,4323.53,Amravati,Debit Card
+ORD01075,2024-10-15,C289,Mouse,Accessories,3,5011.35,689.38,Pune,UPI
+ORD01076,2024-10-16,C017,Laptop,Electronics,4,269187.39,44046.53,Mumbai,Debit Card
+ORD01077,2024-10-16,C202,Headphones,Accessories,3,14141.94,2471.52,Nashik,Debit Card
+ORD01078,2024-10-17,C253,Tablet,Electronics,4,134411.66,14611.36,Nagpur,Debit Card
+ORD01079,2024-10-18,C178,Smartphone,Electronics,4,128652.52,20075.13,Mumbai,Cash
+ORD01080,2024-10-18,C134,Printer,Office,1,16304.19,1815.54,Mumbai,Cash
+ORD01081,2024-10-19,C103,Laptop,Electronics,2,143683.47,17297.36,Nagpur,UPI
+ORD01082,2024-10-19,C237,Mouse,Accessories,2,2937.79,693.03,Pune,UPI
+ORD01083,2024-10-20,C285,Headphones,Accessories,2,8741.71,1773.31,Pune,UPI
+ORD01084,2024-10-21,C024,Headphones,Accessories,4,19226.95,2304.21,Nashik,Debit Card
+ORD01085,2024-10-21,C282,Laptop,Electronics,3,213394.57,26857.03,Nagpur,Cash
+ORD01086,2024-10-22,C182,Tablet,Electronics,4,120296.58,10401.85,Pune,Debit Card
+ORD01087,2024-10-23,C100,Headphones,Accessories,1,4405.1,979.33,Mumbai,Cash
+ORD01088,2024-10-23,C165,Monitor,Electronics,3,53832.54,10410.36,Nashik,Credit Card
+ORD01089,2024-10-24,C214,Tablet,Electronics,2,61013.49,11502.23,Pune,Debit Card
+ORD01090,2024-10-24,C194,Smartphone,Electronics,3,101761.83,16209.0,Mumbai,Net Banking
+ORD01091,2024-10-25,C202,Tablet,Electronics,1,27520.33,2330.15,Mumbai,UPI
+ORD01092,2024-10-26,C181,Tablet,Electronics,3,86450.02,15436.62,Amravati,Debit Card
+ORD01093,2024-10-26,C086,Monitor,Electronics,1,20657.54,2130.4,Nashik,Cash
+ORD01094,2024-10-27,C151,Keyboard,Accessories,4,13855.95,1145.82,Nashik,Net Banking
+ORD01095,2024-10-27,C101,Keyboard,Accessories,4,10229.83,2534.1,Nashik,Credit Card
+ORD01096,2024-10-28,C241,Smartphone,Electronics,1,37707.04,5965.14,Nagpur,Debit Card
+ORD01097,2024-10-29,C135,Monitor,Electronics,2,39238.39,5351.4,Amravati,Cash
+ORD01098,2024-10-29,C262,Headphones,Accessories,1,4867.89,402.42,Mumbai,Credit Card
+ORD01099,2024-10-30,C203,Printer,Office,1,15449.08,3861.87,Nagpur,Credit Card
+ORD01100,2024-10-30,C156,Keyboard,Accessories,4,12870.61,1487.61,Amravati,Net Banking
+ORD01101,2024-10-31,C284,Smartphone,Electronics,3,109690.35,26450.25,Mumbai,Credit Card
+ORD01102,2024-11-01,C136,Headphones,Accessories,2,9670.68,2070.69,Pune,Net Banking
+ORD01103,2024-11-01,C063,Mouse,Accessories,4,6345.39,1068.77,Pune,UPI
+ORD01104,2024-11-02,C092,Mouse,Accessories,2,3118.91,441.24,Amravati,Net Banking
+ORD01105,2024-11-02,C223,Smartphone,Electronics,2,89970.73,21136.65,Pune,Credit Card
+ORD01106,2024-11-03,C263,Keyboard,Accessories,3,8652.54,1639.8,Nashik,Credit Card
+ORD01107,2024-11-04,C173,Smartphone,Electronics,3,130473.7,23895.18,Pune,UPI
+ORD01108,2024-11-04,C039,Keyboard,Accessories,2,7220.56,683.38,Mumbai,Credit Card
+ORD01109,2024-11-05,C206,Monitor,Electronics,4,95364.35,18385.61,Nagpur,Credit Card
+ORD01110,2024-11-06,C105,Tablet,Electronics,2,63980.8,10770.94,Pune,Debit Card
+ORD01111,2024-11-06,C258,Printer,Office,2,34457.17,8267.98,Nagpur,Credit Card
+ORD01112,2024-11-07,C236,Mouse,Accessories,1,1591.84,353.45,Nashik,Cash
+ORD01113,2024-11-07,C155,Laptop,Electronics,3,226576.77,49089.26,Nagpur,Debit Card
+ORD01114,2024-11-08,C288,Keyboard,Accessories,1,3716.07,578.05,Nashik,UPI
+ORD01115,2024-11-09,C242,Headphones,Accessories,4,18945.68,1975.53,Nashik,Cash
+ORD01116,2024-11-09,C190,Smartphone,Electronics,1,42418.37,5512.06,Pune,Debit Card
+ORD01117,2024-11-10,C136,Printer,Office,4,65510.19,7062.97,Nashik,Debit Card
+ORD01118,2024-11-10,C079,Keyboard,Accessories,4,13411.02,1900.17,Amravati,UPI
+ORD01119,2024-11-11,C289,Laptop,Electronics,3,256118.49,34267.96,Amravati,UPI
+ORD01120,2024-11-12,C197,Mouse,Accessories,1,1616.61,287.95,Pune,Debit Card
+ORD01121,2024-11-12,C010,Laptop,Electronics,1,62288.71,5845.83,Nagpur,UPI
+ORD01122,2024-11-13,C177,Laptop,Electronics,3,236925.55,46447.33,Nagpur,UPI
+ORD01123,2024-11-13,C056,Tablet,Electronics,2,63332.72,7684.23,Amravati,Net Banking
+ORD01124,2024-11-14,C180,Headphones,Accessories,4,23820.89,2907.79,Mumbai,Cash
+ORD01125,2024-11-15,C058,Keyboard,Accessories,4,13364.46,2654.68,Nashik,Debit Card
+ORD01126,2024-11-15,C055,Monitor,Electronics,4,88516.79,7233.54,Pune,Credit Card
+ORD01127,2024-11-16,C292,Printer,Office,1,17233.12,3352.08,Nagpur,Cash
+ORD01128,2024-11-16,C093,Laptop,Electronics,2,149261.27,23861.91,Pune,Cash
+ORD01129,2024-11-17,C170,Keyboard,Accessories,3,10281.15,927.55,Amravati,Net Banking
+ORD01130,2024-11-18,C270,Laptop,Electronics,3,266680.33,63746.98,Mumbai,UPI
+ORD01131,2024-11-18,C141,Mouse,Accessories,3,5200.91,1271.82,Amravati,Debit Card
+ORD01132,2024-11-19,C067,Laptop,Electronics,3,234970.58,28650.34,Nashik,Net Banking
+ORD01133,2024-11-20,C289,Monitor,Electronics,2,47148.33,9601.08,Nagpur,Credit Card
+ORD01134,2024-11-20,C155,Keyboard,Accessories,4,12645.94,2218.66,Amravati,Credit Card
+ORD01135,2024-11-21,C016,Mouse,Accessories,1,1824.51,326.81,Nagpur,Debit Card
+ORD01136,2024-11-21,C038,Printer,Office,4,66822.13,5613.77,Nashik,Net Banking
+ORD01137,2024-11-22,C079,Laptop,Electronics,4,297437.09,67106.94,Nagpur,Credit Card
+ORD01138,2024-11-23,C103,Printer,Office,4,63414.63,13427.28,Pune,Credit Card
+ORD01139,2024-11-23,C249,Keyboard,Accessories,3,9936.53,1786.06,Nashik,Credit Card
+ORD01140,2024-11-24,C244,Printer,Office,4,61099.21,13035.45,Mumbai,Credit Card
+ORD01141,2024-11-24,C133,Printer,Office,1,18451.94,3239.51,Nagpur,Credit Card
+ORD01142,2024-11-25,C046,Tablet,Electronics,1,30324.09,5155.72,Mumbai,Cash
+ORD01143,2024-11-26,C104,Tablet,Electronics,2,64862.84,15871.84,Nagpur,Debit Card
+ORD01144,2024-11-26,C113,Headphones,Accessories,4,22743.13,5071.41,Nagpur,Net Banking
+ORD01145,2024-11-27,C158,Tablet,Electronics,3,89596.76,11207.56,Nagpur,Debit Card
+ORD01146,2024-11-27,C045,Smartphone,Electronics,3,119933.36,26139.38,Amravati,Debit Card
+ORD01147,2024-11-28,C190,Tablet,Electronics,2,65283.8,12409.04,Pune,Cash
+ORD01148,2024-11-29,C204,Mouse,Accessories,1,1711.57,170.99,Nashik,Debit Card
+ORD01149,2024-11-29,C272,Tablet,Electronics,2,54743.05,13410.66,Pune,Cash
+ORD01150,2024-11-30,C177,Printer,Office,3,42558.86,6475.04,Nagpur,Cash
+ORD01151,2024-11-30,C277,Mouse,Accessories,2,3029.82,442.58,Nashik,Cash
+ORD01152,2024-12-01,C127,Printer,Office,3,55889.29,4716.64,Pune,UPI
+ORD01153,2024-12-02,C012,Mouse,Accessories,2,3559.49,793.72,Mumbai,Cash
+ORD01154,2024-12-02,C023,Keyboard,Accessories,4,14661.74,3453.92,Mumbai,Credit Card
+ORD01155,2024-12-03,C159,Mouse,Accessories,3,5410.53,460.86,Nashik,Net Banking
+ORD01156,2024-12-04,C075,Monitor,Electronics,2,42887.59,4957.85,Pune,Cash
+ORD01157,2024-12-04,C081,Tablet,Electronics,1,30695.17,2803.46,Nashik,Cash
+ORD01158,2024-12-05,C077,Keyboard,Accessories,3,11441.8,1070.99,Nashik,Credit Card
+ORD01159,2024-12-05,C103,Laptop,Electronics,2,156581.32,18394.3,Mumbai,Debit Card
+ORD01160,2024-12-06,C275,Mouse,Accessories,3,4952.6,783.45,Amravati,Credit Card
+ORD01161,2024-12-07,C153,Headphones,Accessories,1,4331.36,728.68,Nagpur,UPI
+ORD01162,2024-12-07,C092,Tablet,Electronics,2,68025.18,7112.32,Mumbai,UPI
+ORD01163,2024-12-08,C206,Laptop,Electronics,1,68465.07,8488.29,Mumbai,UPI
+ORD01164,2024-12-08,C145,Monitor,Electronics,2,43432.58,9048.68,Nashik,UPI
+ORD01165,2024-12-09,C149,Smartphone,Electronics,3,121247.95,26575.97,Nashik,Net Banking
+ORD01166,2024-12-10,C167,Monitor,Electronics,1,23001.08,4763.0,Amravati,UPI
+ORD01167,2024-12-10,C220,Headphones,Accessories,4,21285.18,2682.28,Mumbai,UPI
+ORD01168,2024-12-11,C086,Tablet,Electronics,1,32854.34,7725.43,Amravati,Credit Card
+ORD01169,2024-12-11,C218,Smartphone,Electronics,2,82384.51,7279.1,Nashik,Debit Card
+ORD01170,2024-12-12,C239,Laptop,Electronics,4,259460.62,28573.51,Mumbai,UPI
+ORD01171,2024-12-13,C296,Headphones,Accessories,3,14691.51,1804.7,Nagpur,Net Banking
+ORD01172,2024-12-13,C203,Laptop,Electronics,3,235525.94,33497.63,Nagpur,UPI
+ORD01173,2024-12-14,C043,Smartphone,Electronics,2,93439.89,21765.15,Mumbai,Credit Card
+ORD01174,2024-12-14,C022,Laptop,Electronics,1,77112.38,6917.45,Nagpur,UPI
+ORD01175,2024-12-15,C253,Mouse,Accessories,3,6045.96,600.06,Mumbai,Credit Card
+ORD01176,2024-12-16,C204,Laptop,Electronics,4,323747.99,79433.86,Mumbai,Cash
+ORD01177,2024-12-16,C289,Smartphone,Electronics,2,83035.91,8596.51,Nashik,Credit Card
+ORD01178,2024-12-17,C201,Laptop,Electronics,2,183364.21,16829.49,Nashik,UPI
+ORD01179,2024-12-18,C198,Smartphone,Electronics,4,161053.93,29366.06,Mumbai,Debit Card
+ORD01180,2024-12-18,C138,Monitor,Electronics,1,23333.33,5431.1,Nagpur,Credit Card
+ORD01181,2024-12-19,C002,Smartphone,Electronics,3,129516.71,19360.99,Amravati,Credit Card
+ORD01182,2024-12-19,C094,Tablet,Electronics,2,57724.59,6087.76,Pune,Net Banking
+ORD01183,2024-12-20,C148,Tablet,Electronics,1,28184.19,3915.97,Nashik,Net Banking
+ORD01184,2024-12-21,C278,Printer,Office,4,82155.57,11209.32,Amravati,Credit Card
+ORD01185,2024-12-21,C203,Laptop,Electronics,2,173513.4,39641.36,Amravati,Net Banking
+ORD01186,2024-12-22,C026,Printer,Office,4,63232.22,10682.25,Pune,UPI
+ORD01187,2024-12-22,C186,Laptop,Electronics,3,235300.42,46590.04,Pune,Cash
+ORD01188,2024-12-23,C138,Mouse,Accessories,3,5642.01,650.66,Mumbai,Credit Card
+ORD01189,2024-12-24,C026,Headphones,Accessories,4,22349.46,3922.76,Mumbai,UPI
+ORD01190,2024-12-24,C130,Printer,Office,1,18556.55,4036.16,Nagpur,Cash
+ORD01191,2024-12-25,C053,Tablet,Electronics,1,35306.54,7617.12,Mumbai,Cash
+ORD01192,2024-12-25,C105,Keyboard,Accessories,4,14420.6,1985.29,Pune,Cash
+ORD01193,2024-12-26,C272,Smartphone,Electronics,3,122153.53,19503.32,Nagpur,Debit Card
+ORD01194,2024-12-27,C165,Mouse,Accessories,3,5662.73,1249.7,Nashik,UPI
+ORD01195,2024-12-27,C188,Printer,Office,2,38667.22,6209.85,Pune,Debit Card
+ORD01196,2024-12-28,C132,Laptop,Electronics,2,164620.46,22813.34,Nashik,Cash
+ORD01197,2024-12-28,C201,Mouse,Accessories,1,1614.76,338.97,Amravati,Debit Card
+ORD01198,2024-12-29,C042,Laptop,Electronics,3,240437.78,38736.61,Nashik,UPI
+ORD01199,2024-12-30,C071,Keyboard,Accessories,3,11516.09,1517.04,Amravati,UPI
+ORD01200,2024-12-30,C162,Tablet,Electronics,1,28002.12,3085.41,Nagpur,Cash
+ORD01201,2024-12-31,C169,Mouse,Accessories,1,2005.85,182.46,Nashik,Credit Card
+ORD01202,2025-01-01,C008,Headphones,Accessories,4,24710.77,2952.67,Pune,Cash
+ORD01203,2025-01-01,C104,Printer,Office,1,19342.89,2089.11,Pune,Net Banking
+ORD01204,2025-01-02,C106,Mouse,Accessories,3,6065.97,1505.44,Pune,UPI
+ORD01205,2025-01-02,C138,Monitor,Electronics,1,19790.34,4036.65,Nagpur,Credit Card
+ORD01206,2025-01-03,C231,Keyboard,Accessories,2,7875.98,1768.94,Nashik,Credit Card
+ORD01207,2025-01-04,C241,Headphones,Accessories,4,19126.62,3049.85,Amravati,Net Banking
+ORD01208,2025-01-04,C139,Tablet,Electronics,1,32075.53,5438.69,Amravati,Credit Card
+ORD01209,2025-01-05,C010,Printer,Office,3,63220.92,13850.29,Nashik,Net Banking
+ORD01210,2025-01-05,C030,Tablet,Electronics,2,70189.2,14850.57,Nagpur,Debit Card
+ORD01211,2025-01-06,C054,Keyboard,Accessories,4,14350.88,1722.77,Pune,UPI
+ORD01212,2025-01-07,C290,Tablet,Electronics,1,34428.25,7491.68,Mumbai,Credit Card
+ORD01213,2025-01-07,C106,Headphones,Accessories,2,11553.74,1311.71,Amravati,UPI
+ORD01214,2025-01-08,C015,Mouse,Accessories,4,7219.89,1720.95,Nashik,Cash
+ORD01215,2025-01-08,C276,Printer,Office,2,41878.45,4485.06,Amravati,Net Banking
+ORD01216,2025-01-09,C154,Smartphone,Electronics,1,41536.86,8401.41,Nagpur,Debit Card
+ORD01217,2025-01-10,C196,Monitor,Electronics,2,47560.87,7049.14,Pune,UPI
+ORD01218,2025-01-10,C153,Tablet,Electronics,1,29223.72,5330.85,Mumbai,Credit Card
+ORD01219,2025-01-11,C023,Printer,Office,2,38447.78,4604.77,Nashik,UPI
+ORD01220,2025-01-11,C156,Smartphone,Electronics,2,96429.43,17190.69,Nashik,Debit Card
+ORD01221,2025-01-12,C297,Laptop,Electronics,1,80758.27,10972.04,Pune,Credit Card
+ORD01222,2025-01-13,C132,Keyboard,Accessories,1,4331.79,911.54,Mumbai,Credit Card
+ORD01223,2025-01-13,C169,Monitor,Electronics,3,70665.69,13574.23,Mumbai,Net Banking
+ORD01224,2025-01-14,C031,Smartphone,Electronics,4,208051.39,30210.41,Pune,Credit Card
+ORD01225,2025-01-15,C200,Smartphone,Electronics,4,163187.35,31935.17,Amravati,Debit Card
+ORD01226,2025-01-15,C228,Tablet,Electronics,4,169772.22,15092.58,Nagpur,Debit Card
+ORD01227,2025-01-16,C004,Laptop,Electronics,2,156605.9,32630.45,Mumbai,Cash
+ORD01228,2025-01-16,C048,Printer,Office,2,42547.54,6383.45,Mumbai,Net Banking
+ORD01229,2025-01-17,C004,Keyboard,Accessories,4,15977.69,3060.53,Amravati,UPI
+ORD01230,2025-01-18,C102,Mouse,Accessories,4,8216.78,1548.73,Pune,Net Banking
+ORD01231,2025-01-18,C066,Monitor,Electronics,4,90203.67,15946.83,Pune,Net Banking
+ORD01232,2025-01-19,C084,Smartphone,Electronics,1,47175.8,10728.52,Nagpur,UPI
+ORD01233,2025-01-19,C144,Printer,Office,2,39355.01,9660.56,Pune,UPI
+ORD01234,2025-01-20,C003,Printer,Office,3,53519.5,8346.43,Nashik,Cash
+ORD01235,2025-01-21,C049,Keyboard,Accessories,4,14443.19,1874.41,Mumbai,UPI
+ORD01236,2025-01-21,C255,Headphones,Accessories,3,19014.63,4537.33,Amravati,UPI
+ORD01237,2025-01-22,C064,Mouse,Accessories,2,3516.44,326.53,Nagpur,Cash
+ORD01238,2025-01-22,C052,Tablet,Electronics,1,34280.52,7105.47,Nagpur,Debit Card
+ORD01239,2025-01-23,C133,Smartphone,Electronics,2,100688.88,22347.16,Nashik,UPI
+ORD01240,2025-01-24,C116,Printer,Office,4,76473.01,10914.83,Nashik,UPI
+ORD01241,2025-01-24,C049,Headphones,Accessories,3,19047.15,4475.47,Nagpur,Debit Card
+ORD01242,2025-01-25,C133,Laptop,Electronics,3,279703.58,41015.64,Mumbai,UPI
+ORD01243,2025-01-25,C158,Printer,Office,1,20562.63,1999.04,Amravati,Net Banking
+ORD01244,2025-01-26,C167,Tablet,Electronics,1,33634.81,7298.89,Pune,Credit Card
+ORD01245,2025-01-27,C191,Monitor,Electronics,3,70085.72,14423.85,Mumbai,UPI
+ORD01246,2025-01-27,C207,Mouse,Accessories,4,7830.66,1161.35,Mumbai,Cash
+ORD01247,2025-01-28,C010,Headphones,Accessories,4,20358.38,3936.1,Amravati,Cash
+ORD01248,2025-01-29,C140,Headphones,Accessories,1,5403.21,849.47,Pune,Cash
+ORD01249,2025-01-29,C011,Printer,Office,1,18436.97,3326.74,Nagpur,Credit Card
+ORD01250,2025-01-30,C116,Headphones,Accessories,3,17549.78,2546.82,Nagpur,UPI
+ORD01251,2025-01-30,C147,Laptop,Electronics,1,96240.96,12651.4,Nagpur,Credit Card
+ORD01252,2025-01-31,C257,Printer,Office,1,18779.74,2955.39,Pune,Credit Card
+ORD01253,2025-02-01,C072,Laptop,Electronics,4,422623.14,66144.25,Pune,Credit Card
+ORD01254,2025-02-01,C023,Tablet,Electronics,2,67404.74,7488.46,Amravati,Net Banking
+ORD01255,2025-02-02,C103,Smartphone,Electronics,1,50911.26,9589.58,Amravati,Net Banking
+ORD01256,2025-02-02,C152,Keyboard,Accessories,2,7445.24,1415.92,Nashik,Debit Card
+ORD01257,2025-02-03,C052,Tablet,Electronics,2,69746.02,6657.89,Amravati,UPI
+ORD01258,2025-02-04,C229,Laptop,Electronics,3,268169.81,37716.19,Nashik,Credit Card
+ORD01259,2025-02-04,C010,Monitor,Electronics,2,49196.68,9489.9,Nashik,Cash
+ORD01260,2025-02-05,C242,Headphones,Accessories,1,4892.18,1155.08,Mumbai,Net Banking
+ORD01261,2025-02-05,C109,Keyboard,Accessories,1,4211.78,746.42,Nashik,Cash
+ORD01262,2025-02-06,C218,Headphones,Accessories,4,22479.61,4029.86,Nagpur,UPI
+ORD01263,2025-02-07,C072,Laptop,Electronics,2,190502.33,44762.43,Pune,Debit Card
+ORD01264,2025-02-07,C269,Laptop,Electronics,1,86342.06,16099.69,Pune,Debit Card
+ORD01265,2025-02-08,C163,Tablet,Electronics,1,44005.7,3867.59,Nashik,Net Banking
+ORD01266,2025-02-08,C225,Laptop,Electronics,4,336309.47,70926.16,Amravati,Net Banking
+ORD01267,2025-02-09,C271,Headphones,Accessories,2,12372.99,2080.09,Amravati,UPI
+ORD01268,2025-02-10,C026,Mouse,Accessories,4,7626.87,1556.5,Pune,Cash
+ORD01269,2025-02-10,C187,Mouse,Accessories,3,6971.47,1297.48,Amravati,Credit Card
+ORD01270,2025-02-11,C076,Printer,Office,1,18158.43,2943.71,Mumbai,Debit Card
+ORD01271,2025-02-12,C238,Mouse,Accessories,3,5626.91,1370.27,Pune,Cash
+ORD01272,2025-02-12,C068,Keyboard,Accessories,2,8142.77,1100.9,Amravati,Net Banking
+ORD01273,2025-02-13,C111,Mouse,Accessories,3,5647.27,1337.15,Pune,UPI
+ORD01274,2025-02-13,C200,Laptop,Electronics,1,96950.69,11955.04,Mumbai,Debit Card
+ORD01275,2025-02-14,C196,Laptop,Electronics,2,163970.32,35772.52,Nagpur,Net Banking
+ORD01276,2025-02-15,C114,Tablet,Electronics,3,110193.94,26282.96,Mumbai,Credit Card
+ORD01277,2025-02-15,C211,Monitor,Electronics,2,49682.73,7679.16,Amravati,Credit Card
+ORD01278,2025-02-16,C023,Monitor,Electronics,4,85042.2,19851.46,Nashik,UPI
+ORD01279,2025-02-16,C047,Keyboard,Accessories,3,14224.52,3405.49,Nagpur,Net Banking
+ORD01280,2025-02-17,C280,Tablet,Electronics,4,152999.99,20102.22,Nashik,UPI
+ORD01281,2025-02-18,C103,Smartphone,Electronics,4,169988.75,29827.81,Amravati,Credit Card
+ORD01282,2025-02-18,C060,Laptop,Electronics,3,293945.92,40433.49,Nagpur,Debit Card
+ORD01283,2025-02-19,C206,Headphones,Accessories,3,18239.17,4460.92,Amravati,Credit Card
+ORD01284,2025-02-19,C222,Printer,Office,3,56944.05,12546.36,Mumbai,Credit Card
+ORD01285,2025-02-20,C074,Laptop,Electronics,4,349003.26,77355.05,Mumbai,UPI
+ORD01286,2025-02-21,C240,Keyboard,Accessories,4,14202.38,1242.14,Nashik,Net Banking
+ORD01287,2025-02-21,C214,Laptop,Electronics,3,297851.05,44527.19,Nashik,Debit Card
+ORD01288,2025-02-22,C292,Smartphone,Electronics,4,191868.08,31164.36,Pune,Credit Card
+ORD01289,2025-02-22,C257,Printer,Office,2,38926.45,3739.84,Nagpur,UPI
+ORD01290,2025-02-23,C059,Headphones,Accessories,1,6191.32,551.7,Amravati,UPI
+ORD01291,2025-02-24,C056,Mouse,Accessories,3,6159.75,1464.2,Nagpur,Cash
+ORD01292,2025-02-24,C089,Mouse,Accessories,4,8199.12,764.64,Nagpur,UPI
+ORD01293,2025-02-25,C002,Laptop,Electronics,4,394729.92,75409.92,Nagpur,UPI
+ORD01294,2025-02-26,C273,Keyboard,Accessories,2,8507.09,1077.85,Nagpur,Cash
+ORD01295,2025-02-26,C178,Keyboard,Accessories,4,17918.98,2895.76,Nashik,Credit Card
+ORD01296,2025-02-27,C247,Monitor,Electronics,1,23146.52,3045.1,Amravati,Net Banking
+ORD01297,2025-02-27,C201,Printer,Office,2,37217.1,5006.62,Amravati,UPI
+ORD01298,2025-02-28,C271,Headphones,Accessories,1,5991.71,889.49,Mumbai,Debit Card
+ORD01299,2025-03-01,C032,Headphones,Accessories,2,10784.25,1042.14,Nagpur,Debit Card
+ORD01300,2025-03-01,C046,Mouse,Accessories,3,6482.11,1089.93,Nashik,Credit Card
+ORD01301,2025-03-02,C017,Printer,Office,3,67609.02,9429.2,Nashik,Debit Card
+ORD01302,2025-03-02,C117,Headphones,Accessories,3,17930.72,2821.25,Mumbai,Debit Card
+ORD01303,2025-03-03,C154,Tablet,Electronics,1,38143.78,4193.3,Pune,Cash
+ORD01304,2025-03-04,C168,Laptop,Electronics,4,358900.06,61696.31,Nashik,Net Banking
+ORD01305,2025-03-04,C106,Laptop,Electronics,1,86437.71,17114.0,Amravati,Debit Card
+ORD01306,2025-03-05,C195,Headphones,Accessories,2,11967.02,1564.3,Amravati,Net Banking
+ORD01307,2025-03-05,C061,Tablet,Electronics,3,111260.81,12206.84,Pune,Credit Card
+ORD01308,2025-03-06,C080,Smartphone,Electronics,3,143147.48,18335.85,Mumbai,UPI
+ORD01309,2025-03-07,C047,Headphones,Accessories,4,23116.77,2569.17,Amravati,Net Banking
+ORD01310,2025-03-07,C123,Tablet,Electronics,4,152713.27,16435.72,Pune,Debit Card
+ORD01311,2025-03-08,C254,Laptop,Electronics,1,95262.61,16890.95,Nashik,Debit Card
+ORD01312,2025-03-08,C216,Keyboard,Accessories,3,12374.68,2398.63,Nagpur,UPI
+ORD01313,2025-03-09,C021,Monitor,Electronics,2,43252.71,7255.34,Amravati,Credit Card
+ORD01314,2025-03-10,C113,Tablet,Electronics,4,139570.86,18256.81,Amravati,Credit Card
+ORD01315,2025-03-10,C116,Printer,Office,4,73297.63,14002.28,Mumbai,Net Banking
+ORD01316,2025-03-11,C074,Keyboard,Accessories,3,12573.18,1220.92,Pune,Credit Card
+ORD01317,2025-03-12,C001,Laptop,Electronics,3,275803.58,60397.15,Mumbai,Debit Card
+ORD01318,2025-03-12,C100,Mouse,Accessories,3,5521.62,655.31,Nashik,Net Banking
+ORD01319,2025-03-13,C233,Smartphone,Electronics,2,91462.18,18324.55,Amravati,Net Banking
+ORD01320,2025-03-13,C282,Mouse,Accessories,3,6764.27,765.5,Nagpur,Credit Card
+ORD01321,2025-03-14,C244,Tablet,Electronics,2,81212.58,20288.02,Nashik,Debit Card
+ORD01322,2025-03-15,C142,Headphones,Accessories,1,6123.1,1370.0,Amravati,UPI
+ORD01323,2025-03-15,C161,Mouse,Accessories,2,4257.67,785.15,Nashik,Net Banking
+ORD01324,2025-03-16,C112,Headphones,Accessories,3,19431.75,4431.13,Nagpur,Net Banking
+ORD01325,2025-03-16,C187,Keyboard,Accessories,2,8660.46,704.63,Pune,Cash
+ORD01326,2025-03-17,C087,Smartphone,Electronics,1,46779.08,7237.15,Nashik,Net Banking
+ORD01327,2025-03-18,C191,Laptop,Electronics,2,196173.6,35679.5,Nashik,Net Banking
+ORD01328,2025-03-18,C096,Monitor,Electronics,2,51078.12,6445.56,Nashik,UPI
+ORD01329,2025-03-19,C121,Mouse,Accessories,1,2164.27,372.88,Nashik,Credit Card
+ORD01330,2025-03-19,C039,Smartphone,Electronics,2,93874.12,18385.08,Pune,UPI
+ORD01331,2025-03-20,C012,Laptop,Electronics,4,413149.26,53086.18,Nagpur,Credit Card
+ORD01332,2025-03-21,C218,Laptop,Electronics,3,292323.71,39517.34,Nagpur,Credit Card
+ORD01333,2025-03-21,C242,Tablet,Electronics,4,140926.94,25952.59,Nagpur,Net Banking
+ORD01334,2025-03-22,C021,Smartphone,Electronics,3,170893.47,21580.58,Mumbai,UPI
+ORD01335,2025-03-22,C167,Monitor,Electronics,2,56640.37,11283.89,Amravati,Credit Card
+ORD01336,2025-03-23,C258,Mouse,Accessories,1,2061.81,267.44,Mumbai,Cash
+ORD01337,2025-03-24,C087,Smartphone,Electronics,1,48600.36,10742.6,Mumbai,Credit Card
+ORD01338,2025-03-24,C264,Smartphone,Electronics,4,219637.18,42287.82,Nagpur,Net Banking
+ORD01339,2025-03-25,C110,Mouse,Accessories,1,2069.07,351.45,Mumbai,Net Banking
+ORD01340,2025-03-26,C268,Printer,Office,3,55102.17,11158.45,Mumbai,UPI
+ORD01341,2025-03-26,C270,Headphones,Accessories,4,23875.07,4111.07,Nagpur,Credit Card
+ORD01342,2025-03-27,C068,Printer,Office,4,80097.31,12019.11,Mumbai,Cash
+ORD01343,2025-03-27,C149,Mouse,Accessories,3,6315.28,1226.44,Nagpur,UPI
+ORD01344,2025-03-28,C008,Laptop,Electronics,3,295126.42,50429.51,Pune,Net Banking
+ORD01345,2025-03-29,C136,Tablet,Electronics,1,39397.69,9144.58,Mumbai,Credit Card
+ORD01346,2025-03-29,C168,Laptop,Electronics,2,200907.12,25672.43,Mumbai,Credit Card
+ORD01347,2025-03-30,C231,Smartphone,Electronics,1,54008.03,12038.8,Nagpur,Debit Card
+ORD01348,2025-03-30,C160,Mouse,Accessories,3,6078.61,1404.13,Mumbai,Cash
+ORD01349,2025-03-31,C033,Mouse,Accessories,4,7856.94,1602.96,Nagpur,Credit Card
+ORD01350,2025-04-01,C210,Printer,Office,4,83362.77,8731.96,Pune,Net Banking
+ORD01351,2025-04-01,C067,Monitor,Electronics,3,91754.41,12418.85,Nashik,Debit Card
+ORD01352,2025-04-02,C237,Monitor,Electronics,3,74837.52,10142.41,Nashik,Debit Card
+ORD01353,2025-04-02,C128,Headphones,Accessories,2,10034.25,1550.4,Nashik,Net Banking
+ORD01354,2025-04-03,C100,Headphones,Accessories,4,22700.36,4286.58,Nagpur,UPI
+ORD01355,2025-04-04,C193,Keyboard,Accessories,2,8623.54,1880.14,Nagpur,Cash
+ORD01356,2025-04-04,C125,Keyboard,Accessories,1,4578.38,887.27,Nagpur,Debit Card
+ORD01357,2025-04-05,C030,Headphones,Accessories,3,18941.71,2478.18,Nagpur,UPI
+ORD01358,2025-04-05,C266,Tablet,Electronics,4,155774.85,31700.87,Nashik,Net Banking
+ORD01359,2025-04-06,C154,Mouse,Accessories,4,8828.64,1498.47,Pune,UPI
+ORD01360,2025-04-07,C131,Mouse,Accessories,1,2070.93,191.57,Mumbai,Cash
+ORD01361,2025-04-07,C296,Tablet,Electronics,3,104323.09,21967.85,Nagpur,Net Banking
+ORD01362,2025-04-08,C147,Smartphone,Electronics,4,203945.06,46864.1,Mumbai,Cash
+ORD01363,2025-04-09,C208,Tablet,Electronics,3,111572.43,24949.22,Amravati,UPI
+ORD01364,2025-04-09,C078,Keyboard,Accessories,1,3900.54,972.94,Mumbai,Cash
+ORD01365,2025-04-10,C077,Monitor,Electronics,4,99476.89,9513.71,Amravati,Credit Card
+ORD01366,2025-04-10,C027,Printer,Office,3,61366.4,14863.09,Pune,Credit Card
+ORD01367,2025-04-11,C296,Mouse,Accessories,1,2054.05,489.36,Nashik,Credit Card
+ORD01368,2025-04-12,C075,Printer,Office,2,41974.16,4043.85,Nagpur,Debit Card
+ORD01369,2025-04-12,C095,Tablet,Electronics,4,136555.31,10942.75,Nashik,Net Banking
+ORD01370,2025-04-13,C072,Smartphone,Electronics,3,154834.81,31522.24,Amravati,Net Banking
+ORD01371,2025-04-13,C189,Printer,Office,2,37923.94,3333.28,Pune,Credit Card
+ORD01372,2025-04-14,C137,Laptop,Electronics,4,313186.68,33482.2,Amravati,UPI
+ORD01373,2025-04-15,C018,Monitor,Electronics,4,124813.24,24194.58,Pune,Cash
+ORD01374,2025-04-15,C269,Printer,Office,3,65546.18,6145.7,Mumbai,Cash
+ORD01375,2025-04-16,C269,Mouse,Accessories,1,2056.24,439.93,Nashik,UPI
+ORD01376,2025-04-16,C163,Mouse,Accessories,4,8454.39,2004.0,Pune,Debit Card
+ORD01377,2025-04-17,C198,Mouse,Accessories,3,5965.87,1423.15,Amravati,UPI
+ORD01378,2025-04-18,C007,Keyboard,Accessories,4,19284.83,2483.09,Mumbai,Net Banking
+ORD01379,2025-04-18,C260,Mouse,Accessories,1,2273.13,266.6,Pune,Debit Card
+ORD01380,2025-04-19,C284,Tablet,Electronics,4,177369.85,20323.08,Nagpur,Cash
+ORD01381,2025-04-19,C234,Monitor,Electronics,2,54834.32,8617.63,Nashik,Cash
+ORD01382,2025-04-20,C286,Mouse,Accessories,1,1951.03,484.68,Pune,Cash
+ORD01383,2025-04-21,C225,Tablet,Electronics,3,108797.4,20080.25,Nagpur,Net Banking
+ORD01384,2025-04-21,C235,Tablet,Electronics,4,133091.82,24774.16,Mumbai,Credit Card
+ORD01385,2025-04-22,C076,Laptop,Electronics,2,212493.67,33314.47,Mumbai,Debit Card
+ORD01386,2025-04-23,C025,Mouse,Accessories,4,7831.39,1372.98,Amravati,Credit Card
+ORD01387,2025-04-23,C229,Monitor,Electronics,4,103225.24,19872.85,Nagpur,UPI
+ORD01388,2025-04-24,C163,Headphones,Accessories,3,17247.68,2668.5,Mumbai,Credit Card
+ORD01389,2025-04-24,C146,Printer,Office,3,59551.66,13535.66,Nashik,Cash
+ORD01390,2025-04-25,C271,Laptop,Electronics,2,197587.04,37497.88,Amravati,Debit Card
+ORD01391,2025-04-26,C107,Tablet,Electronics,1,32359.93,3861.49,Pune,Credit Card
+ORD01392,2025-04-26,C134,Mouse,Accessories,4,7202.49,1344.23,Amravati,Cash
+ORD01393,2025-04-27,C264,Smartphone,Electronics,2,92690.14,7548.38,Mumbai,UPI
+ORD01394,2025-04-27,C110,Printer,Office,3,55099.67,10129.87,Nashik,Credit Card
+ORD01395,2025-04-28,C026,Printer,Office,4,78969.5,11902.14,Mumbai,Credit Card
+ORD01396,2025-04-29,C031,Laptop,Electronics,4,337915.37,78034.46,Nashik,Debit Card
+ORD01397,2025-04-29,C241,Printer,Office,3,53979.49,7990.39,Nagpur,Debit Card
+ORD01398,2025-04-30,C035,Monitor,Electronics,3,71692.84,11116.75,Amravati,Net Banking
+ORD01399,2025-04-30,C097,Headphones,Accessories,1,5309.06,792.93,Mumbai,Debit Card
+ORD01400,2025-05-01,C193,Monitor,Electronics,3,63854.56,13826.59,Mumbai,Net Banking
+ORD01401,2025-05-02,C235,Printer,Office,4,76474.12,12517.04,Mumbai,Debit Card
+ORD01402,2025-05-02,C049,Monitor,Electronics,1,27359.75,5350.29,Nagpur,Net Banking
+ORD01403,2025-05-03,C051,Smartphone,Electronics,3,174863.09,17201.84,Nagpur,Cash
+ORD01404,2025-05-03,C245,Tablet,Electronics,1,35205.7,3449.67,Nagpur,Cash
+ORD01405,2025-05-04,C161,Headphones,Accessories,4,24110.77,3311.0,Mumbai,Net Banking
+ORD01406,2025-05-05,C280,Mouse,Accessories,1,2210.41,311.86,Pune,UPI
+ORD01407,2025-05-05,C147,Laptop,Electronics,1,95659.01,13275.0,Pune,Debit Card
+ORD01408,2025-05-06,C095,Headphones,Accessories,3,18940.91,4457.56,Amravati,Debit Card
+ORD01409,2025-05-07,C128,Smartphone,Electronics,2,96537.57,9839.73,Nashik,Cash
+ORD01410,2025-05-07,C158,Mouse,Accessories,3,6320.8,801.05,Nashik,Credit Card
+ORD01411,2025-05-08,C259,Tablet,Electronics,2,71815.56,8909.91,Mumbai,Credit Card
+ORD01412,2025-05-08,C297,Tablet,Electronics,3,108360.92,11501.14,Pune,Net Banking
+ORD01413,2025-05-09,C008,Monitor,Electronics,2,47395.17,9337.31,Amravati,Credit Card
+ORD01414,2025-05-10,C061,Mouse,Accessories,3,5678.39,1264.15,Nashik,UPI
+ORD01415,2025-05-10,C194,Headphones,Accessories,2,11803.93,2067.76,Pune,Debit Card
+ORD01416,2025-05-11,C249,Printer,Office,3,63423.46,9983.23,Pune,Cash
+ORD01417,2025-05-11,C249,Laptop,Electronics,2,167598.07,41644.7,Amravati,Cash
+ORD01418,2025-05-12,C130,Mouse,Accessories,2,3568.78,706.25,Nagpur,Cash
+ORD01419,2025-05-13,C200,Laptop,Electronics,1,95286.49,14127.38,Pune,Credit Card
+ORD01420,2025-05-13,C279,Keyboard,Accessories,1,3339.42,384.21,Mumbai,Cash
+ORD01421,2025-05-14,C061,Smartphone,Electronics,1,56404.93,6560.26,Nashik,Debit Card
+ORD01422,2025-05-14,C249,Printer,Office,4,77853.46,14727.98,Nashik,UPI
+ORD01423,2025-05-15,C010,Monitor,Electronics,1,24385.33,5495.69,Mumbai,Cash
+ORD01424,2025-05-16,C250,Monitor,Electronics,1,23970.17,3779.61,Pune,Credit Card
+ORD01425,2025-05-16,C035,Monitor,Electronics,3,69324.22,13884.18,Nagpur,Cash
+ORD01426,2025-05-17,C025,Tablet,Electronics,2,72558.94,7375.11,Nagpur,Cash
+ORD01427,2025-05-17,C133,Monitor,Electronics,1,23692.8,2633.3,Nagpur,Cash
+ORD01428,2025-05-18,C004,Monitor,Electronics,3,82332.26,8302.94,Mumbai,Net Banking
+ORD01429,2025-05-19,C145,Mouse,Accessories,4,7985.74,1091.43,Amravati,Credit Card
+ORD01430,2025-05-19,C282,Monitor,Electronics,2,48606.69,4961.91,Pune,Net Banking
+ORD01431,2025-05-20,C266,Monitor,Electronics,3,77624.35,15848.62,Pune,Net Banking
+ORD01432,2025-05-21,C265,Laptop,Electronics,3,236834.33,33500.0,Pune,Cash
+ORD01433,2025-05-21,C074,Laptop,Electronics,4,409892.09,61763.21,Amravati,Net Banking
+ORD01434,2025-05-22,C262,Printer,Office,4,63970.76,11488.94,Pune,Debit Card
+ORD01435,2025-05-22,C235,Printer,Office,1,19735.91,4089.28,Pune,Credit Card
+ORD01436,2025-05-23,C235,Keyboard,Accessories,2,8874.24,1292.5,Amravati,Cash
+ORD01437,2025-05-24,C245,Monitor,Electronics,2,49968.2,10303.08,Pune,Credit Card
+ORD01438,2025-05-24,C110,Printer,Office,2,35504.62,8717.67,Amravati,Debit Card
+ORD01439,2025-05-25,C112,Smartphone,Electronics,3,161378.36,29232.41,Pune,Net Banking
+ORD01440,2025-05-25,C281,Mouse,Accessories,3,5757.94,1424.75,Nashik,Debit Card
+ORD01441,2025-05-26,C258,Smartphone,Electronics,1,48650.67,10329.67,Nashik,Net Banking
+ORD01442,2025-05-27,C253,Keyboard,Accessories,4,17383.94,1785.37,Nagpur,Net Banking
+ORD01443,2025-05-27,C266,Headphones,Accessories,3,16634.66,3320.27,Nagpur,Net Banking
+ORD01444,2025-05-28,C187,Smartphone,Electronics,2,97388.04,12819.49,Nagpur,Debit Card
+ORD01445,2025-05-28,C171,Tablet,Electronics,2,76948.52,11191.62,Mumbai,Net Banking
+ORD01446,2025-05-29,C297,Tablet,Electronics,2,68531.03,11207.51,Nagpur,Debit Card
+ORD01447,2025-05-30,C119,Headphones,Accessories,3,15987.88,1932.18,Amravati,UPI
+ORD01448,2025-05-30,C051,Headphones,Accessories,1,6121.25,735.29,Mumbai,Net Banking
+ORD01449,2025-05-31,C093,Printer,Office,1,19441.41,1561.3,Nashik,Credit Card
+ORD01450,2025-05-31,C071,Printer,Office,4,85007.25,8957.69,Nagpur,Net Banking
+ORD01451,2025-06-01,C218,Mouse,Accessories,2,3916.55,393.39,Nagpur,Net Banking
+ORD01452,2025-06-02,C267,Mouse,Accessories,4,7120.25,1268.29,Mumbai,Debit Card
+ORD01453,2025-06-02,C001,Laptop,Electronics,2,170813.04,36054.62,Nagpur,Credit Card
+ORD01454,2025-06-03,C263,Monitor,Electronics,2,43954.7,9575.13,Nashik,Net Banking
+ORD01455,2025-06-04,C239,Keyboard,Accessories,4,15979.69,2807.33,Amravati,Net Banking
+ORD01456,2025-06-04,C034,Smartphone,Electronics,1,38420.81,8764.44,Nashik,Debit Card
+ORD01457,2025-06-05,C086,Monitor,Electronics,1,24296.14,5972.64,Mumbai,Cash
+ORD01458,2025-06-05,C121,Monitor,Electronics,4,85862.53,13464.77,Nashik,Net Banking
+ORD01459,2025-06-06,C086,Printer,Office,2,33113.04,7767.31,Pune,Debit Card
+ORD01460,2025-06-07,C280,Laptop,Electronics,2,169002.56,32980.53,Pune,Net Banking
+ORD01461,2025-06-07,C291,Headphones,Accessories,2,10146.09,1963.54,Amravati,Cash
+ORD01462,2025-06-08,C244,Keyboard,Accessories,4,17615.01,3553.75,Amravati,UPI
+ORD01463,2025-06-08,C126,Printer,Office,2,36877.44,4267.82,Mumbai,Credit Card
+ORD01464,2025-06-09,C211,Keyboard,Accessories,4,14816.17,1272.79,Pune,Cash
+ORD01465,2025-06-10,C203,Keyboard,Accessories,1,4455.93,615.9,Nashik,Credit Card
+ORD01466,2025-06-10,C211,Mouse,Accessories,1,2037.53,387.88,Nagpur,UPI
+ORD01467,2025-06-11,C019,Mouse,Accessories,1,1822.14,153.56,Pune,Debit Card
+ORD01468,2025-06-11,C250,Tablet,Electronics,1,33160.95,5140.5,Pune,Net Banking
+ORD01469,2025-06-12,C088,Keyboard,Accessories,3,9942.98,2121.55,Nashik,Net Banking
+ORD01470,2025-06-13,C168,Mouse,Accessories,4,6568.33,1465.03,Pune,Credit Card
+ORD01471,2025-06-13,C047,Laptop,Electronics,1,82549.05,16549.02,Nashik,Cash
+ORD01472,2025-06-14,C243,Laptop,Electronics,4,372380.13,78171.33,Mumbai,Debit Card
+ORD01473,2025-06-14,C146,Tablet,Electronics,3,90172.1,7660.93,Mumbai,Credit Card
+ORD01474,2025-06-15,C089,Keyboard,Accessories,3,11749.76,1701.84,Mumbai,Credit Card
+ORD01475,2025-06-16,C072,Keyboard,Accessories,3,10871.17,2156.38,Nagpur,Net Banking
+ORD01476,2025-06-16,C152,Headphones,Accessories,1,5558.33,1224.51,Amravati,Net Banking
+ORD01477,2025-06-17,C245,Keyboard,Accessories,4,18019.3,3339.08,Nashik,Credit Card
+ORD01478,2025-06-18,C072,Smartphone,Electronics,1,46804.03,7423.95,Mumbai,UPI
+ORD01479,2025-06-18,C219,Smartphone,Electronics,1,49960.03,8706.19,Pune,Net Banking
+ORD01480,2025-06-19,C134,Laptop,Electronics,3,273460.27,23972.92,Amravati,Credit Card
+ORD01481,2025-06-19,C235,Keyboard,Accessories,1,4030.55,457.64,Nagpur,Net Banking
+ORD01482,2025-06-20,C249,Mouse,Accessories,2,4175.2,708.64,Nagpur,Cash
+ORD01483,2025-06-21,C071,Printer,Office,2,42685.78,8137.47,Mumbai,UPI
+ORD01484,2025-06-21,C185,Mouse,Accessories,4,8199.26,1616.66,Pune,Debit Card
+ORD01485,2025-06-22,C072,Smartphone,Electronics,2,87685.75,14471.6,Mumbai,Credit Card
+ORD01486,2025-06-22,C140,Mouse,Accessories,1,1765.85,317.52,Nagpur,Cash
+ORD01487,2025-06-23,C238,Headphones,Accessories,4,20439.76,3269.61,Nashik,Debit Card
+ORD01488,2025-06-24,C112,Tablet,Electronics,4,151866.41,16682.83,Mumbai,Cash
+ORD01489,2025-06-24,C170,Headphones,Accessories,4,24345.16,5907.65,Nashik,Net Banking
+ORD01490,2025-06-25,C134,Smartphone,Electronics,2,94530.33,14866.03,Nashik,Net Banking
+ORD01491,2025-06-25,C300,Smartphone,Electronics,3,143688.97,19899.89,Mumbai,Debit Card
+ORD01492,2025-06-26,C252,Keyboard,Accessories,2,7923.77,698.5,Mumbai,UPI
+ORD01493,2025-06-27,C111,Tablet,Electronics,4,122890.15,14595.73,Mumbai,Credit Card
+ORD01494,2025-06-27,C005,Keyboard,Accessories,4,16556.21,1653.46,Nashik,UPI
+ORD01495,2025-06-28,C228,Mouse,Accessories,3,5741.76,869.24,Mumbai,Cash
+ORD01496,2025-06-28,C245,Monitor,Electronics,3,61878.61,7791.13,Nashik,UPI
+ORD01497,2025-06-29,C142,Keyboard,Accessories,1,4175.85,519.58,Nagpur,Credit Card
+ORD01498,2025-06-30,C243,Monitor,Electronics,3,63085.87,6280.32,Nashik,UPI
+ORD01499,2025-06-30,C144,Printer,Office,4,71842.14,16047.63,Nashik,Net Banking
+ORD01500,2025-07-01,C270,Monitor,Electronics,4,94789.41,11940.16,Mumbai,Net Banking
+ORD01501,2025-07-02,C300,Headphones,Accessories,1,5627.95,732.41,Pune,Cash
+ORD01502,2025-07-02,C093,Keyboard,Accessories,1,2946.31,690.4,Pune,UPI
+ORD01503,2025-07-03,C009,Smartphone,Electronics,1,43907.84,7170.18,Amravati,Net Banking
+ORD01504,2025-07-03,C200,Tablet,Electronics,4,120906.66,12483.01,Nashik,UPI
+ORD01505,2025-07-04,C245,Headphones,Accessories,2,10940.52,1126.4,Nashik,Debit Card
+ORD01506,2025-07-05,C277,Laptop,Electronics,4,318311.08,43489.19,Nagpur,UPI
+ORD01507,2025-07-05,C246,Laptop,Electronics,3,213629.61,27282.22,Nashik,Debit Card
+ORD01508,2025-07-06,C060,Tablet,Electronics,2,62605.19,5012.78,Nashik,UPI
+ORD01509,2025-07-06,C069,Mouse,Accessories,3,5994.7,1180.75,Amravati,Net Banking
+ORD01510,2025-07-07,C015,Laptop,Electronics,1,89114.81,21116.73,Nashik,Net Banking
+ORD01511,2025-07-08,C026,Tablet,Electronics,4,120373.94,18355.7,Pune,UPI
+ORD01512,2025-07-08,C149,Tablet,Electronics,4,130003.78,19056.58,Nagpur,Net Banking
+ORD01513,2025-07-09,C092,Tablet,Electronics,1,37209.49,3939.36,Nashik,Cash
+ORD01514,2025-07-09,C197,Mouse,Accessories,4,6177.52,1265.15,Mumbai,Cash
+ORD01515,2025-07-10,C240,Headphones,Accessories,4,20285.96,2961.36,Nashik,Net Banking
+ORD01516,2025-07-11,C271,Tablet,Electronics,2,72785.83,6638.21,Pune,Cash
+ORD01517,2025-07-11,C105,Printer,Office,3,48463.51,5994.38,Nashik,Cash
+ORD01518,2025-07-12,C120,Monitor,Electronics,1,20992.1,4020.93,Amravati,Debit Card
+ORD01519,2025-07-12,C255,Tablet,Electronics,3,99519.31,13283.72,Nagpur,Cash
+ORD01520,2025-07-13,C255,Printer,Office,1,16930.94,2470.56,Pune,Debit Card
+ORD01521,2025-07-14,C212,Smartphone,Electronics,1,42149.08,8096.24,Amravati,Credit Card
+ORD01522,2025-07-14,C100,Smartphone,Electronics,3,123072.71,16387.88,Nagpur,UPI
+ORD01523,2025-07-15,C175,Monitor,Electronics,3,69936.56,11695.01,Mumbai,Debit Card
+ORD01524,2025-07-16,C159,Keyboard,Accessories,3,11791.41,2420.27,Nashik,Debit Card
+ORD01525,2025-07-16,C181,Mouse,Accessories,3,4905.55,393.57,Pune,Credit Card
+ORD01526,2025-07-17,C105,Printer,Office,4,62759.05,10224.22,Nagpur,Credit Card
+ORD01527,2025-07-17,C147,Keyboard,Accessories,1,4033.94,1003.8,Amravati,Credit Card
+ORD01528,2025-07-18,C253,Tablet,Electronics,1,32873.9,2713.73,Nagpur,Cash
+ORD01529,2025-07-19,C034,Tablet,Electronics,4,146093.79,12194.2,Nashik,UPI
+ORD01530,2025-07-19,C275,Keyboard,Accessories,2,7579.85,971.65,Pune,Net Banking
+ORD01531,2025-07-20,C195,Laptop,Electronics,2,145065.52,31555.55,Mumbai,Credit Card
+ORD01532,2025-07-20,C090,Tablet,Electronics,3,94448.8,21799.55,Mumbai,Net Banking
+ORD01533,2025-07-21,C120,Printer,Office,1,21258.4,3494.62,Nashik,UPI
+ORD01534,2025-07-22,C044,Keyboard,Accessories,2,8695.87,1011.64,Mumbai,Credit Card
+ORD01535,2025-07-22,C144,Keyboard,Accessories,4,12958.92,2025.67,Pune,Net Banking
+ORD01536,2025-07-23,C275,Smartphone,Electronics,3,149517.66,36712.97,Mumbai,Net Banking
+ORD01537,2025-07-23,C271,Keyboard,Accessories,3,13195.31,2641.64,Pune,Debit Card
+ORD01538,2025-07-24,C004,Keyboard,Accessories,2,8703.04,897.36,Pune,Debit Card
+ORD01539,2025-07-25,C156,Monitor,Electronics,3,63601.21,12764.04,Mumbai,Net Banking
+ORD01540,2025-07-25,C043,Monitor,Electronics,4,88035.9,21992.5,Mumbai,UPI
+ORD01541,2025-07-26,C101,Headphones,Accessories,2,9168.71,869.01,Pune,UPI
+ORD01542,2025-07-26,C130,Keyboard,Accessories,2,8082.31,1551.06,Mumbai,Cash
+ORD01543,2025-07-27,C227,Smartphone,Electronics,2,94422.11,17015.81,Nagpur,Cash
+ORD01544,2025-07-28,C102,Laptop,Electronics,2,168573.76,31468.68,Nagpur,UPI
+ORD01545,2025-07-28,C222,Headphones,Accessories,4,24171.37,4001.5,Mumbai,Net Banking
+ORD01546,2025-07-29,C250,Smartphone,Electronics,4,182958.28,23640.89,Nashik,Debit Card
+ORD01547,2025-07-30,C165,Smartphone,Electronics,3,137892.59,27241.5,Nagpur,Cash
+ORD01548,2025-07-30,C287,Laptop,Electronics,4,367159.83,76414.49,Amravati,UPI
+ORD01549,2025-07-31,C152,Headphones,Accessories,4,22005.23,4250.79,Pune,Cash
+ORD01550,2025-07-31,C074,Tablet,Electronics,1,36440.9,3862.86,Amravati,UPI
+ORD01551,2025-08-01,C213,Monitor,Electronics,2,41009.68,3907.01,Amravati,Debit Card
+ORD01552,2025-08-02,C130,Monitor,Electronics,2,42901.41,6581.65,Nashik,Debit Card
+ORD01553,2025-08-02,C249,Keyboard,Accessories,4,16107.54,2604.96,Mumbai,Credit Card
+ORD01554,2025-08-03,C284,Keyboard,Accessories,1,3810.29,432.39,Mumbai,Credit Card
+ORD01555,2025-08-03,C047,Tablet,Electronics,4,142535.95,21522.73,Nashik,Cash
+ORD01556,2025-08-04,C235,Monitor,Electronics,1,20602.04,2520.0,Nashik,UPI
+ORD01557,2025-08-05,C059,Mouse,Accessories,1,1781.96,417.5,Amravati,Net Banking
+ORD01558,2025-08-05,C174,Printer,Office,2,30201.95,2986.39,Amravati,Credit Card
+ORD01559,2025-08-06,C279,Headphones,Accessories,4,18872.07,2908.08,Nashik,Credit Card
+ORD01560,2025-08-06,C186,Tablet,Electronics,3,92249.71,8756.47,Nashik,UPI
+ORD01561,2025-08-07,C120,Printer,Office,2,30838.94,4163.04,Pune,Cash
+ORD01562,2025-08-08,C093,Monitor,Electronics,2,48205.78,4893.5,Nashik,Debit Card
+ORD01563,2025-08-08,C088,Keyboard,Accessories,4,13492.44,2345.89,Amravati,Net Banking
+ORD01564,2025-08-09,C208,Laptop,Electronics,4,309680.17,32952.56,Nashik,Debit Card
+ORD01565,2025-08-09,C007,Headphones,Accessories,2,8984.23,850.77,Mumbai,Net Banking
+ORD01566,2025-08-10,C216,Printer,Office,2,37399.85,4908.84,Pune,Debit Card
+ORD01567,2025-08-11,C184,Printer,Office,1,19193.57,3439.14,Mumbai,Credit Card
+ORD01568,2025-08-11,C104,Monitor,Electronics,1,22079.59,1923.57,Nashik,UPI
+ORD01569,2025-08-12,C194,Laptop,Electronics,4,334423.73,27229.5,Amravati,Credit Card
+ORD01570,2025-08-13,C254,Mouse,Accessories,3,4500.01,751.7,Nagpur,Net Banking
+ORD01571,2025-08-13,C088,Smartphone,Electronics,1,42196.66,4409.91,Amravati,Net Banking
+ORD01572,2025-08-14,C233,Tablet,Electronics,3,122609.69,21779.15,Mumbai,Credit Card
+ORD01573,2025-08-14,C085,Smartphone,Electronics,4,183271.59,37206.63,Mumbai,Cash
+ORD01574,2025-08-15,C175,Mouse,Accessories,1,1823.07,254.39,Pune,Net Banking
+ORD01575,2025-08-16,C095,Monitor,Electronics,3,59558.65,12798.21,Nashik,UPI
+ORD01576,2025-08-16,C097,Mouse,Accessories,2,3562.5,853.3,Amravati,Credit Card
+ORD01577,2025-08-17,C196,Printer,Office,2,34756.21,5139.94,Pune,Debit Card
+ORD01578,2025-08-17,C231,Monitor,Electronics,4,82943.69,13598.95,Amravati,UPI
+ORD01579,2025-08-18,C126,Monitor,Electronics,1,18393.34,1965.91,Mumbai,Cash
+ORD01580,2025-08-19,C078,Keyboard,Accessories,2,7493.46,1372.37,Nashik,Cash
+ORD01581,2025-08-19,C104,Laptop,Electronics,2,166498.13,19423.47,Nagpur,UPI
+ORD01582,2025-08-20,C013,Mouse,Accessories,4,7204.09,1315.89,Mumbai,Cash
+ORD01583,2025-08-20,C166,Printer,Office,1,17708.35,3909.42,Mumbai,UPI
+ORD01584,2025-08-21,C279,Smartphone,Electronics,3,127173.03,22982.07,Amravati,Debit Card
+ORD01585,2025-08-22,C254,Keyboard,Accessories,1,3480.52,673.45,Amravati,Net Banking
+ORD01586,2025-08-22,C236,Printer,Office,4,67429.29,9595.03,Amravati,Cash
+ORD01587,2025-08-23,C179,Laptop,Electronics,3,260550.31,32633.13,Nashik,Net Banking
+ORD01588,2025-08-23,C280,Keyboard,Accessories,2,6981.67,1243.32,Pune,Net Banking
+ORD01589,2025-08-24,C252,Mouse,Accessories,4,7064.66,822.49,Mumbai,UPI
+ORD01590,2025-08-25,C089,Tablet,Electronics,2,62289.04,15086.16,Nashik,UPI
+ORD01591,2025-08-25,C068,Mouse,Accessories,1,1827.54,166.94,Nashik,UPI
+ORD01592,2025-08-26,C289,Headphones,Accessories,2,11585.38,1449.37,Nagpur,Cash
+ORD01593,2025-08-27,C201,Keyboard,Accessories,4,15694.02,2143.48,Nagpur,Credit Card
+ORD01594,2025-08-27,C078,Tablet,Electronics,3,107221.17,8785.3,Mumbai,Cash
+ORD01595,2025-08-28,C064,Printer,Office,2,26782.85,5067.16,Nashik,Cash
+ORD01596,2025-08-28,C109,Monitor,Electronics,4,94486.18,12314.49,Nagpur,Net Banking
+ORD01597,2025-08-29,C070,Keyboard,Accessories,2,7827.23,1760.07,Nagpur,UPI
+ORD01598,2025-08-30,C069,Laptop,Electronics,4,294937.0,31697.37,Nagpur,UPI
+ORD01599,2025-08-30,C087,Laptop,Electronics,3,217968.63,49732.33,Amravati,Cash
+ORD01600,2025-08-31,C226,Tablet,Electronics,2,69191.7,15799.07,Amravati,Net Banking
+ORD01601,2025-08-31,C020,Monitor,Electronics,2,40710.39,7134.9,Pune,Net Banking
+ORD01602,2025-09-01,C150,Smartphone,Electronics,4,161892.54,28834.81,Nashik,Cash
+ORD01603,2025-09-02,C194,Smartphone,Electronics,1,41806.95,10281.67,Amravati,UPI
+ORD01604,2025-09-02,C026,Tablet,Electronics,2,59269.52,8743.95,Pune,Credit Card
+ORD01605,2025-09-03,C046,Printer,Office,3,54172.02,10882.73,Mumbai,Net Banking
+ORD01606,2025-09-03,C080,Printer,Office,4,68427.8,14103.76,Pune,Net Banking
+ORD01607,2025-09-04,C165,Keyboard,Accessories,3,11679.72,1463.0,Mumbai,Debit Card
+ORD01608,2025-09-05,C268,Printer,Office,4,67357.06,13871.01,Nagpur,UPI
+ORD01609,2025-09-05,C118,Mouse,Accessories,3,5534.6,1146.31,Nashik,Cash
+ORD01610,2025-09-06,C128,Printer,Office,3,54814.39,10089.52,Amravati,Credit Card
+ORD01611,2025-09-06,C116,Mouse,Accessories,2,3743.05,375.69,Amravati,UPI
+ORD01612,2025-09-07,C162,Tablet,Electronics,4,130037.82,31107.15,Amravati,Debit Card
+ORD01613,2025-09-08,C065,Monitor,Electronics,2,41599.61,9908.61,Nashik,UPI
+ORD01614,2025-09-08,C093,Mouse,Accessories,4,6339.41,1523.75,Amravati,Debit Card
+ORD01615,2025-09-09,C136,Printer,Office,1,18795.61,2788.56,Amravati,Credit Card
+ORD01616,2025-09-10,C167,Mouse,Accessories,2,4038.57,617.01,Nashik,UPI
+ORD01617,2025-09-10,C055,Headphones,Accessories,1,5325.74,1050.1,Amravati,UPI
+ORD01618,2025-09-11,C138,Laptop,Electronics,4,360137.45,74491.65,Amravati,UPI
+ORD01619,2025-09-11,C060,Tablet,Electronics,2,71180.82,10049.31,Pune,Credit Card
+ORD01620,2025-09-12,C021,Smartphone,Electronics,1,43067.76,3675.04,Mumbai,UPI
+ORD01621,2025-09-13,C162,Mouse,Accessories,1,1805.49,201.33,Pune,Cash
+ORD01622,2025-09-13,C125,Laptop,Electronics,4,333171.77,36231.65,Pune,Net Banking
+ORD01623,2025-09-14,C275,Laptop,Electronics,1,81971.34,8065.86,Nagpur,Cash
+ORD01624,2025-09-14,C107,Tablet,Electronics,1,27965.17,3554.08,Nagpur,Net Banking
+ORD01625,2025-09-15,C273,Mouse,Accessories,4,7351.54,627.97,Nashik,Cash
+ORD01626,2025-09-16,C136,Tablet,Electronics,1,30810.35,3679.25,Nashik,Debit Card
+ORD01627,2025-09-16,C034,Laptop,Electronics,1,73905.11,14407.37,Nagpur,Debit Card
+ORD01628,2025-09-17,C257,Mouse,Accessories,1,1712.14,227.44,Nagpur,Cash
+ORD01629,2025-09-17,C292,Keyboard,Accessories,3,11524.92,2774.7,Mumbai,UPI
+ORD01630,2025-09-18,C086,Mouse,Accessories,2,3995.99,660.1,Mumbai,Debit Card
+ORD01631,2025-09-19,C112,Keyboard,Accessories,2,7183.24,603.31,Mumbai,Debit Card
+ORD01632,2025-09-19,C190,Headphones,Accessories,4,19288.19,4133.08,Pune,Debit Card
+ORD01633,2025-09-20,C268,Keyboard,Accessories,1,3886.83,609.22,Mumbai,Cash
+ORD01634,2025-09-20,C259,Tablet,Electronics,1,30579.73,3071.97,Mumbai,Cash
+ORD01635,2025-09-21,C134,Keyboard,Accessories,3,12386.33,1764.06,Amravati,Debit Card
+ORD01636,2025-09-22,C236,Printer,Office,4,68019.58,6904.1,Pune,Net Banking
+ORD01637,2025-09-22,C159,Headphones,Accessories,3,13892.26,1671.05,Amravati,Net Banking
+ORD01638,2025-09-23,C232,Headphones,Accessories,1,5114.17,582.48,Amravati,Cash
+ORD01639,2025-09-24,C090,Monitor,Electronics,3,64019.32,13906.45,Amravati,Debit Card
+ORD01640,2025-09-24,C215,Tablet,Electronics,1,33043.61,4118.47,Nashik,Debit Card
+ORD01641,2025-09-25,C011,Tablet,Electronics,2,70017.93,6134.11,Nashik,Net Banking
+ORD01642,2025-09-25,C072,Printer,Office,2,36363.38,4696.71,Nashik,Net Banking
+ORD01643,2025-09-26,C038,Printer,Office,1,17547.55,2232.7,Nashik,UPI
+ORD01644,2025-09-27,C004,Printer,Office,2,35340.99,7879.52,Amravati,Credit Card
+ORD01645,2025-09-27,C069,Monitor,Electronics,4,104811.34,16310.42,Nashik,Debit Card
+ORD01646,2025-09-28,C036,Printer,Office,4,63889.02,6180.88,Nagpur,Net Banking
+ORD01647,2025-09-28,C282,Tablet,Electronics,3,109218.57,11317.58,Pune,Cash
+ORD01648,2025-09-29,C068,Headphones,Accessories,1,5123.35,755.85,Nashik,Debit Card
+ORD01649,2025-09-30,C008,Laptop,Electronics,1,81647.69,13374.96,Mumbai,Net Banking
+ORD01650,2025-09-30,C272,Tablet,Electronics,4,137018.64,15845.16,Pune,Net Banking
+ORD01651,2025-10-01,C207,Smartphone,Electronics,3,125737.87,17277.74,Nagpur,Debit Card
+ORD01652,2025-10-01,C229,Tablet,Electronics,1,34470.45,3564.92,Nashik,Net Banking
+ORD01653,2025-10-02,C089,Printer,Office,4,82757.65,14238.96,Nagpur,Debit Card
+ORD01654,2025-10-03,C100,Smartphone,Electronics,4,172275.89,43022.74,Nagpur,UPI
+ORD01655,2025-10-03,C156,Mouse,Accessories,2,3815.22,436.01,Nashik,Credit Card
+ORD01656,2025-10-04,C150,Laptop,Electronics,4,318673.46,57234.58,Pune,UPI
+ORD01657,2025-10-04,C024,Smartphone,Electronics,3,135353.81,27149.34,Amravati,Cash
+ORD01658,2025-10-05,C053,Tablet,Electronics,2,60351.15,10279.38,Pune,Cash
+ORD01659,2025-10-06,C210,Printer,Office,3,57156.19,8550.92,Nashik,Cash
+ORD01660,2025-10-06,C137,Monitor,Electronics,1,20467.08,2257.61,Nagpur,Credit Card
+ORD01661,2025-10-07,C242,Monitor,Electronics,4,90659.33,17498.7,Nashik,Net Banking
+ORD01662,2025-10-08,C185,Headphones,Accessories,1,5304.53,1073.36,Mumbai,UPI
+ORD01663,2025-10-08,C211,Headphones,Accessories,3,14315.24,2426.55,Pune,Debit Card
+ORD01664,2025-10-09,C081,Tablet,Electronics,3,99387.17,17410.83,Pune,UPI
+ORD01665,2025-10-09,C230,Headphones,Accessories,2,10616.69,1208.19,Amravati,UPI
+ORD01666,2025-10-10,C049,Headphones,Accessories,1,4574.22,406.87,Pune,Net Banking
+ORD01667,2025-10-11,C134,Printer,Office,1,19705.1,2050.59,Nashik,Net Banking
+ORD01668,2025-10-11,C032,Printer,Office,3,56574.77,10451.38,Nagpur,Net Banking
+ORD01669,2025-10-12,C276,Headphones,Accessories,1,4923.59,1100.5,Pune,Net Banking
+ORD01670,2025-10-12,C057,Smartphone,Electronics,4,192834.86,21618.32,Nagpur,Debit Card
+ORD01671,2025-10-13,C252,Headphones,Accessories,1,5445.06,1080.27,Pune,Cash
+ORD01672,2025-10-14,C160,Mouse,Accessories,3,4697.17,855.94,Pune,Credit Card
+ORD01673,2025-10-14,C150,Mouse,Accessories,2,3434.03,640.31,Mumbai,Cash
+ORD01674,2025-10-15,C031,Mouse,Accessories,4,6087.94,1183.77,Nashik,Debit Card
+ORD01675,2025-10-15,C132,Laptop,Electronics,1,90769.39,7565.28,Amravati,Credit Card
+ORD01676,2025-10-16,C115,Keyboard,Accessories,1,3408.73,825.9,Nashik,Cash
+ORD01677,2025-10-17,C230,Mouse,Accessories,1,1724.71,350.58,Mumbai,Net Banking
+ORD01678,2025-10-17,C265,Printer,Office,3,57823.28,13278.7,Pune,Net Banking
+ORD01679,2025-10-18,C163,Smartphone,Electronics,3,124705.43,10141.45,Nagpur,Cash
+ORD01680,2025-10-18,C276,Printer,Office,1,18650.52,2643.99,Nashik,Net Banking
+ORD01681,2025-10-19,C107,Headphones,Accessories,4,20109.31,3302.03,Nashik,Net Banking
+ORD01682,2025-10-20,C012,Tablet,Electronics,2,77145.54,18637.66,Nagpur,Net Banking
+ORD01683,2025-10-20,C171,Headphones,Accessories,2,10572.21,956.56,Nashik,Credit Card
+ORD01684,2025-10-21,C084,Monitor,Electronics,1,21592.86,4017.16,Pune,Net Banking
+ORD01685,2025-10-22,C047,Printer,Office,2,29142.16,3928.29,Mumbai,Net Banking
+ORD01686,2025-10-22,C044,Smartphone,Electronics,4,189652.86,30148.56,Amravati,Credit Card
+ORD01687,2025-10-23,C289,Mouse,Accessories,1,1773.68,396.6,Mumbai,Debit Card
+ORD01688,2025-10-23,C067,Laptop,Electronics,2,172861.47,36588.06,Nashik,Debit Card
+ORD01689,2025-10-24,C188,Keyboard,Accessories,4,16144.97,1729.07,Nashik,Credit Card
+ORD01690,2025-10-25,C047,Smartphone,Electronics,4,170215.65,41235.78,Nagpur,Debit Card
+ORD01691,2025-10-25,C094,Tablet,Electronics,2,68385.14,8359.38,Pune,Net Banking
+ORD01692,2025-10-26,C212,Smartphone,Electronics,1,44374.97,10201.49,Nagpur,Cash
+ORD01693,2025-10-26,C168,Mouse,Accessories,2,3165.99,587.42,Nagpur,Debit Card
+ORD01694,2025-10-27,C055,Monitor,Electronics,2,40923.99,9339.08,Pune,UPI
+ORD01695,2025-10-28,C209,Monitor,Electronics,4,79136.22,15989.42,Pune,Debit Card
+ORD01696,2025-10-28,C134,Smartphone,Electronics,2,82071.58,10392.27,Mumbai,UPI
+ORD01697,2025-10-29,C027,Tablet,Electronics,1,32401.3,2969.43,Amravati,Net Banking
+ORD01698,2025-10-29,C274,Smartphone,Electronics,2,82034.06,8345.69,Nagpur,Net Banking
+ORD01699,2025-10-30,C118,Monitor,Electronics,2,45297.78,9691.46,Pune,Net Banking
+ORD01700,2025-10-31,C051,Laptop,Electronics,1,88672.74,19572.81,Amravati,Credit Card
+ORD01701,2025-10-31,C107,Monitor,Electronics,2,44790.59,6661.14,Mumbai,UPI
+ORD01702,2025-11-01,C062,Smartphone,Electronics,1,51703.33,10344.94,Pune,UPI
+ORD01703,2025-11-01,C121,Printer,Office,3,49393.13,7905.69,Nashik,Net Banking
+ORD01704,2025-11-02,C176,Tablet,Electronics,4,132705.66,18067.88,Nagpur,Debit Card
+ORD01705,2025-11-03,C067,Keyboard,Accessories,1,3595.51,845.95,Nashik,Debit Card
+ORD01706,2025-11-03,C178,Headphones,Accessories,1,5991.89,1093.58,Mumbai,UPI
+ORD01707,2025-11-04,C035,Printer,Office,2,38008.26,4088.93,Nagpur,Net Banking
+ORD01708,2025-11-05,C279,Monitor,Electronics,1,22001.55,2510.48,Nagpur,Cash
+ORD01709,2025-11-05,C234,Headphones,Accessories,4,22343.68,3924.83,Nashik,Cash
+ORD01710,2025-11-06,C006,Monitor,Electronics,2,41632.86,9917.47,Nashik,UPI
+ORD01711,2025-11-06,C091,Smartphone,Electronics,4,206259.88,18166.96,Nagpur,Cash
+ORD01712,2025-11-07,C083,Headphones,Accessories,1,5163.33,920.18,Nashik,Debit Card
+ORD01713,2025-11-08,C283,Smartphone,Electronics,2,105935.67,25548.41,Amravati,Credit Card
+ORD01714,2025-11-08,C132,Monitor,Electronics,3,60857.08,12334.53,Nagpur,Cash
+ORD01715,2025-11-09,C175,Keyboard,Accessories,1,3947.08,592.67,Mumbai,UPI
+ORD01716,2025-11-09,C014,Smartphone,Electronics,4,198485.62,48515.1,Mumbai,Net Banking
+ORD01717,2025-11-10,C164,Monitor,Electronics,2,44849.71,10451.77,Mumbai,Debit Card
+ORD01718,2025-11-11,C116,Laptop,Electronics,4,366929.72,42251.7,Amravati,Debit Card
+ORD01719,2025-11-11,C238,Tablet,Electronics,1,36376.27,8733.14,Pune,Net Banking
+ORD01720,2025-11-12,C230,Headphones,Accessories,2,11106.6,1299.96,Pune,Net Banking
+ORD01721,2025-11-12,C237,Smartphone,Electronics,1,48351.14,10386.39,Nashik,Credit Card
+ORD01722,2025-11-13,C110,Smartphone,Electronics,4,180547.22,37031.86,Nashik,Credit Card
+ORD01723,2025-11-14,C268,Keyboard,Accessories,4,18539.18,1895.61,Mumbai,Debit Card
+ORD01724,2025-11-14,C229,Monitor,Electronics,4,106889.81,14249.24,Mumbai,Credit Card
+ORD01725,2025-11-15,C255,Printer,Office,3,67992.56,10009.23,Amravati,Cash
+ORD01726,2025-11-15,C191,Keyboard,Accessories,3,12100.42,2375.12,Pune,Net Banking
+ORD01727,2025-11-16,C122,Laptop,Electronics,3,271229.62,37444.93,Amravati,Debit Card
+ORD01728,2025-11-17,C257,Keyboard,Accessories,2,8581.82,1079.71,Nagpur,UPI
+ORD01729,2025-11-17,C134,Laptop,Electronics,1,85704.97,16094.48,Nashik,Cash
+ORD01730,2025-11-18,C113,Monitor,Electronics,3,73462.22,11832.0,Mumbai,Credit Card
+ORD01731,2025-11-19,C296,Laptop,Electronics,1,97008.28,15426.69,Amravati,Net Banking
+ORD01732,2025-11-19,C109,Keyboard,Accessories,3,11583.54,1136.52,Nagpur,Cash
+ORD01733,2025-11-20,C257,Smartphone,Electronics,4,209938.07,17974.66,Nagpur,UPI
+ORD01734,2025-11-20,C032,Laptop,Electronics,4,387760.1,65127.5,Nashik,UPI
+ORD01735,2025-11-21,C063,Headphones,Accessories,4,23631.63,4483.13,Mumbai,Cash
+ORD01736,2025-11-22,C152,Laptop,Electronics,2,176974.16,37509.52,Amravati,Credit Card
+ORD01737,2025-11-22,C234,Headphones,Accessories,1,6207.42,1276.23,Nashik,Cash
+ORD01738,2025-11-23,C142,Smartphone,Electronics,3,146744.95,18214.55,Pune,Debit Card
+ORD01739,2025-11-23,C090,Printer,Office,2,39239.24,3286.94,Amravati,Credit Card
+ORD01740,2025-11-24,C246,Keyboard,Accessories,3,12397.81,2333.06,Mumbai,Net Banking
+ORD01741,2025-11-25,C240,Keyboard,Accessories,3,14442.69,3048.75,Pune,Cash
+ORD01742,2025-11-25,C100,Laptop,Electronics,1,75607.33,18844.2,Nashik,UPI
+ORD01743,2025-11-26,C079,Printer,Office,3,53512.8,13345.91,Pune,Cash
+ORD01744,2025-11-26,C081,Smartphone,Electronics,1,46653.74,9130.26,Nagpur,Debit Card
+ORD01745,2025-11-27,C079,Laptop,Electronics,2,199599.72,44419.95,Nashik,Credit Card
+ORD01746,2025-11-28,C262,Printer,Office,3,58380.89,7966.22,Amravati,Credit Card
+ORD01747,2025-11-28,C083,Headphones,Accessories,3,16026.66,2690.27,Pune,Cash
+ORD01748,2025-11-29,C289,Mouse,Accessories,3,5364.53,482.21,Pune,UPI
+ORD01749,2025-11-29,C179,Printer,Office,2,39881.97,4663.32,Nashik,Credit Card
+ORD01750,2025-11-30,C048,Monitor,Electronics,4,96379.83,10665.96,Nashik,Cash
+ORD01751,2025-12-01,C272,Headphones,Accessories,4,24940.49,5088.69,Nashik,Credit Card
+ORD01752,2025-12-01,C077,Mouse,Accessories,1,2179.78,256.0,Nashik,Cash
+ORD01753,2025-12-02,C032,Laptop,Electronics,3,224749.69,53510.69,Mumbai,Credit Card
+ORD01754,2025-12-03,C084,Laptop,Electronics,2,176034.27,32951.61,Nagpur,Debit Card
+ORD01755,2025-12-03,C252,Headphones,Accessories,1,5736.69,1383.3,Mumbai,Credit Card
+ORD01756,2025-12-04,C113,Printer,Office,4,77241.29,13312.34,Nagpur,Net Banking
+ORD01757,2025-12-04,C001,Laptop,Electronics,2,193818.18,36829.04,Nagpur,Cash
+ORD01758,2025-12-05,C128,Keyboard,Accessories,1,3755.5,366.23,Pune,Cash
+ORD01759,2025-12-06,C039,Monitor,Electronics,3,76225.25,14872.44,Nashik,UPI
+ORD01760,2025-12-06,C280,Keyboard,Accessories,1,3924.25,367.14,Amravati,Net Banking
+ORD01761,2025-12-07,C284,Printer,Office,4,76482.18,9626.46,Pune,Credit Card
+ORD01762,2025-12-07,C179,Laptop,Electronics,3,254614.92,60541.84,Pune,Cash
+ORD01763,2025-12-08,C297,Smartphone,Electronics,4,173890.95,35291.0,Amravati,Debit Card
+ORD01764,2025-12-09,C134,Mouse,Accessories,2,3899.23,690.23,Pune,Credit Card
+ORD01765,2025-12-09,C114,Printer,Office,2,45322.84,8246.59,Mumbai,Credit Card
+ORD01766,2025-12-10,C231,Tablet,Electronics,3,105607.05,25629.63,Nagpur,Net Banking
+ORD01767,2025-12-10,C019,Monitor,Electronics,4,83172.65,12206.45,Amravati,Cash
+ORD01768,2025-12-11,C147,Monitor,Electronics,4,97194.72,15027.71,Mumbai,UPI
+ORD01769,2025-12-12,C273,Tablet,Electronics,2,74984.28,17549.21,Nagpur,UPI
+ORD01770,2025-12-12,C295,Smartphone,Electronics,1,53939.39,7959.99,Amravati,Credit Card
+ORD01771,2025-12-13,C102,Mouse,Accessories,4,7854.49,1784.3,Nagpur,Debit Card
+ORD01772,2025-12-13,C075,Keyboard,Accessories,4,20372.5,4260.15,Amravati,UPI
+ORD01773,2025-12-14,C246,Printer,Office,2,41142.83,3389.9,Nashik,Net Banking
+ORD01774,2025-12-15,C136,Headphones,Accessories,2,9962.17,1820.07,Amravati,Credit Card
+ORD01775,2025-12-15,C241,Tablet,Electronics,3,103305.19,18439.41,Mumbai,Credit Card
+ORD01776,2025-12-16,C220,Mouse,Accessories,4,8842.85,1698.46,Mumbai,Debit Card
+ORD01777,2025-12-17,C081,Mouse,Accessories,1,2133.29,358.97,Amravati,UPI
+ORD01778,2025-12-17,C043,Tablet,Electronics,2,77457.07,13545.91,Mumbai,Net Banking
+ORD01779,2025-12-18,C229,Tablet,Electronics,3,111361.23,26018.49,Amravati,Cash
+ORD01780,2025-12-18,C240,Smartphone,Electronics,2,113870.71,17774.77,Pune,Debit Card
+ORD01781,2025-12-19,C141,Laptop,Electronics,1,83283.2,8759.96,Amravati,Net Banking
+ORD01782,2025-12-20,C147,Keyboard,Accessories,2,8866.71,2065.73,Nashik,Net Banking
+ORD01783,2025-12-20,C231,Smartphone,Electronics,2,100693.33,10263.74,Amravati,Credit Card
+ORD01784,2025-12-21,C225,Tablet,Electronics,3,107283.86,9619.38,Pune,Credit Card
+ORD01785,2025-12-21,C182,Printer,Office,1,22706.85,4777.02,Nagpur,Credit Card
+ORD01786,2025-12-22,C208,Keyboard,Accessories,3,11924.94,1172.64,Amravati,Cash
+ORD01787,2025-12-23,C210,Keyboard,Accessories,1,3746.77,492.48,Amravati,Credit Card
+ORD01788,2025-12-23,C190,Printer,Office,1,19653.12,2935.37,Amravati,Cash
+ORD01789,2025-12-24,C147,Monitor,Electronics,1,27985.78,4439.2,Mumbai,UPI
+ORD01790,2025-12-24,C018,Headphones,Accessories,2,13394.13,1462.48,Mumbai,Net Banking
+ORD01791,2025-12-25,C013,Printer,Office,4,84507.97,7808.93,Pune,UPI
+ORD01792,2025-12-26,C184,Keyboard,Accessories,4,17961.19,4470.45,Nagpur,Cash
+ORD01793,2025-12-26,C046,Laptop,Electronics,4,448242.2,98907.02,Pune,Net Banking
+ORD01794,2025-12-27,C172,Headphones,Accessories,4,23554.77,5586.86,Nashik,Net Banking
+ORD01795,2025-12-27,C295,Keyboard,Accessories,2,8685.01,1403.87,Nashik,Cash
+ORD01796,2025-12-28,C252,Printer,Office,4,83421.61,14314.43,Mumbai,UPI
+ORD01797,2025-12-29,C083,Laptop,Electronics,1,104733.01,23121.92,Mumbai,UPI
+ORD01798,2025-12-29,C064,Keyboard,Accessories,3,12690.57,1758.6,Nagpur,Credit Card
+ORD01799,2025-12-30,C015,Printer,Office,3,61206.03,9312.34,Pune,Credit Card
+ORD01800,2025-12-31,C115,Tablet,Electronics,4,132599.03,20518.57,Pune,Cash
+ORD01801,2026-09-19,C116,Tablet,Electronics,3,0.0,0.0,AMARAVTI,ONLINE
+ORD00001,2026-09-19,C001,LAPTOP,ELECTRONICS,2,200.0,100.0,YAVTMAL,ONLINE
