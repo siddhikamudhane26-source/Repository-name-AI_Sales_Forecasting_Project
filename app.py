@@ -1,4 +1,4 @@
-import streamlit as st
+﻿import streamlit as st
 import pandas as pd
 import numpy as np
 import os
@@ -26,7 +26,7 @@ st.set_page_config(
 # TITLE
 # =========================================================
 
-st.title("?? AI-Based Sales Forecasting & Customer Intelligence System")
+st.title(" AI-Based Sales Forecasting & Customer Intelligence System")
 
 st.markdown(
     "Machine Learning based Sales Forecasting, Customer Segmentation "
@@ -1082,7 +1082,7 @@ page = st.sidebar.radio(
 
 if page == "Dashboard":
 
-    st.header("?? Business Dashboard")
+    st.header(" Business Dashboard")
 
     sales_column = "Sales"
     customer_column = "Customer_ID"
@@ -1102,17 +1102,17 @@ if page == "Dashboard":
     col1, col2, col3 = st.columns(3)
 
     col1.metric(
-        "?? Total Sales",
+        " Total Sales",
         f"{total_sales:,.2f}"
     )
 
     col2.metric(
-        "?? Customers",
+        " Customers",
         f"{total_customers:,}"
     )
 
     col3.metric(
-        "?? Transactions",
+        " Transactions",
         f"{total_transactions:,}"
     )
 
@@ -1123,7 +1123,7 @@ if page == "Dashboard":
     # -----------------------------------------------------
 
     st.subheader(
-        "?? Sales by Product"
+        " Sales by Product"
     )
 
     product_sales = (
@@ -1170,7 +1170,7 @@ if page == "Dashboard":
     )
 
     st.subheader(
-        "?? Monthly Sales Trend"
+        " Monthly Sales Trend"
     )
 
     fig_monthly = px.line(
@@ -1194,7 +1194,7 @@ if page == "Dashboard":
 elif page == "Sales Analysis":
 
     st.header(
-        "?? Sales Analysis"
+        " Sales Analysis"
     )
 
     st.subheader(
@@ -1472,7 +1472,7 @@ elif page == "Manage Sales Data":
     # =====================================================
 
     st.subheader(
-        "?? Update Existing Sale"
+        " Update Existing Sale"
     )
 
     order_ids = (
@@ -1571,7 +1571,7 @@ elif page == "Manage Sales Data":
             )
 
         update_button = st.form_submit_button(
-            "?? Update Sale"
+            " Update Sale"
         )
 
     if update_button:
@@ -1728,7 +1728,7 @@ elif page == "Manage Sales Data":
     st.divider()
 
     st.subheader(
-        "?? Current Sales Data"
+        " Current Sales Data"
     )
 
     st.dataframe(
@@ -1744,7 +1744,7 @@ elif page == "Manage Sales Data":
 elif page == "Sales Forecast":
 
     st.header(
-        "?? Sales Forecast"
+        " Sales Forecast"
     )
 
     # -----------------------------------------------------
@@ -1752,7 +1752,7 @@ elif page == "Sales Forecast":
     # -----------------------------------------------------
 
     if st.button(
-        "?? Recalculate Forecast & Customer Intelligence"
+        " Recalculate Forecast & Customer Intelligence"
     ):
 
         try:
@@ -1839,7 +1839,7 @@ elif page == "Sales Forecast":
             )
 
             st.subheader(
-                "?? Model Evaluation"
+                " Model Evaluation"
             )
 
             st.dataframe(
@@ -1866,7 +1866,7 @@ elif page == "Sales Forecast":
 elif page == "Customer Intelligence":
 
     st.header(
-        "?? Customer Intelligence"
+        " Customer Intelligence"
     )
 
     # -----------------------------------------------------
@@ -1874,7 +1874,7 @@ elif page == "Customer Intelligence":
     # -----------------------------------------------------
 
     if st.button(
-        "?? Recalculate Customer Segments"
+        " Recalculate Customer Segments"
     ):
 
         try:
@@ -1999,7 +1999,7 @@ elif page == "Customer Intelligence":
 elif page == "About Project":
 
     st.header(
-        "?? About the Project"
+        " About the Project"
     )
 
     st.write(
@@ -2055,5 +2055,6 @@ elif page == "About Project":
         the original results.
         """
     )
+
 
 
