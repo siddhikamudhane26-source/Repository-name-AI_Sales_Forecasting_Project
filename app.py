@@ -1274,7 +1274,7 @@ elif page == "Sales Analysis":
 elif page == "Manage Sales Data":
 
     st.header(
-        "??? Manage Sales Data"
+        " Manage Sales Data"
     )
 
     st.write(
@@ -1665,7 +1665,7 @@ elif page == "Manage Sales Data":
     # =====================================================
 
     st.subheader(
-        "??? Delete Existing Sale"
+        " Delete Existing Sale"
     )
 
     delete_order_id = st.selectbox(
@@ -1680,7 +1680,7 @@ elif page == "Manage Sales Data":
     )
 
     if st.button(
-        "??? Delete Sale",
+        " Delete Sale",
         type="primary"
     ):
 
