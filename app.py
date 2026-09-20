@@ -17,7 +17,7 @@ from sklearn.ensemble import RandomForestRegressor
 
 st.set_page_config(
     page_title="AI Sales Forecasting & Customer Intelligence",
-    page_icon="??",
+    page_icon=":material/analytics:",
     layout="wide"
 )
 
